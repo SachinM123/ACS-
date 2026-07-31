@@ -1,1 +1,1358 @@
-[]
+[
+    {
+        "Player-Agent": "loita-astra",
+        "Rounds": 16,
+        "Agents": "astra",
+        "ACS": 163
+    },
+    {
+        "Player-Agent": "valyn-astra",
+        "Rounds": 63,
+        "Agents": "astra",
+        "ACS": 182
+    },
+    {
+        "Player-Agent": "francis-breach",
+        "Rounds": 45,
+        "Agents": "breach",
+        "ACS": 196
+    },
+    {
+        "Player-Agent": "invy-breach",
+        "Rounds": 44,
+        "Agents": "breach",
+        "ACS": 141
+    },
+    {
+        "Player-Agent": "something-brimstone",
+        "Rounds": 44,
+        "Agents": "brimstone",
+        "ACS": 199
+    },
+    {
+        "Player-Agent": "brawk-brimstone",
+        "Rounds": 42,
+        "Agents": "brimstone",
+        "ACS": 210
+    },
+    {
+        "Player-Agent": "verno-brimstone",
+        "Rounds": 15,
+        "Agents": "brimstone",
+        "ACS": 208
+    },
+    {
+        "Player-Agent": "dos9-brimstone",
+        "Rounds": 42,
+        "Agents": "brimstone",
+        "ACS": 177
+    },
+    {
+        "Player-Agent": "jemkin-chamber",
+        "Rounds": 24,
+        "Agents": "chamber",
+        "ACS": 305
+    },
+    {
+        "Player-Agent": "wo0t-chamber",
+        "Rounds": 24,
+        "Agents": "chamber",
+        "ACS": 317
+    },
+    {
+        "Player-Agent": "keiko-chamber",
+        "Rounds": 172,
+        "Agents": "chamber",
+        "ACS": 211
+    },
+    {
+        "Player-Agent": "n4rrate-chamber",
+        "Rounds": 66,
+        "Agents": "chamber",
+        "ACS": 218
+    },
+    {
+        "Player-Agent": "babybay-chamber",
+        "Rounds": 46,
+        "Agents": "chamber",
+        "ACS": 182
+    },
+    {
+        "Player-Agent": "f4ngeer-chamber",
+        "Rounds": 62,
+        "Agents": "chamber",
+        "ACS": 187
+    },
+    {
+        "Player-Agent": "zmjjkk-chamber",
+        "Rounds": 36,
+        "Agents": "chamber",
+        "ACS": 173
+    },
+    {
+        "Player-Agent": "cryocells-cypher",
+        "Rounds": 242,
+        "Agents": "cypher",
+        "ACS": 204
+    },
+    {
+        "Player-Agent": "crewen-cypher",
+        "Rounds": 134,
+        "Agents": "cypher",
+        "ACS": 190
+    },
+    {
+        "Player-Agent": "kr1stal-cypher",
+        "Rounds": 26,
+        "Agents": "cypher",
+        "ACS": 220
+    },
+    {
+        "Player-Agent": "bipo-cypher",
+        "Rounds": 174,
+        "Agents": "cypher",
+        "ACS": 178
+    },
+    {
+        "Player-Agent": "chichoo-cypher",
+        "Rounds": 18,
+        "Agents": "cypher",
+        "ACS": 163
+    },
+    {
+        "Player-Agent": "ivy-cypher",
+        "Rounds": 174,
+        "Agents": "cypher",
+        "ACS": 184
+    },
+    {
+        "Player-Agent": "suygetsu-cypher",
+        "Rounds": 83,
+        "Agents": "cypher",
+        "ACS": 178
+    },
+    {
+        "Player-Agent": "benjyfishy-cypher",
+        "Rounds": 89,
+        "Agents": "cypher",
+        "ACS": 184
+    },
+    {
+        "Player-Agent": "leaf-cypher",
+        "Rounds": 23,
+        "Agents": "cypher",
+        "ACS": 204
+    },
+    {
+        "Player-Agent": "tex-cypher",
+        "Rounds": 177,
+        "Agents": "cypher",
+        "ACS": 167
+    },
+    {
+        "Player-Agent": "bai-cypher",
+        "Rounds": 26,
+        "Agents": "cypher",
+        "ACS": 162
+    },
+    {
+        "Player-Agent": "skuba-cypher",
+        "Rounds": 42,
+        "Agents": "cypher",
+        "ACS": 156
+    },
+    {
+        "Player-Agent": "autumn-cypher",
+        "Rounds": 16,
+        "Agents": "cypher",
+        "ACS": 135
+    },
+    {
+        "Player-Agent": "lar0k-deadlock",
+        "Rounds": 59,
+        "Agents": "deadlock",
+        "ACS": 288
+    },
+    {
+        "Player-Agent": "kr1stal-deadlock",
+        "Rounds": 16,
+        "Agents": "deadlock",
+        "ACS": 134
+    },
+    {
+        "Player-Agent": "vora-fade",
+        "Rounds": 61,
+        "Agents": "fade",
+        "ACS": 207
+    },
+    {
+        "Player-Agent": "starxo-fade",
+        "Rounds": 69,
+        "Agents": "fade",
+        "ACS": 260
+    },
+    {
+        "Player-Agent": "riens-fade",
+        "Rounds": 89,
+        "Agents": "fade",
+        "ACS": 194
+    },
+    {
+        "Player-Agent": "ethan-fade",
+        "Rounds": 123,
+        "Agents": "fade",
+        "ACS": 200
+    },
+    {
+        "Player-Agent": "shr1mp-fade",
+        "Rounds": 74,
+        "Agents": "fade",
+        "ACS": 182
+    },
+    {
+        "Player-Agent": "patmen-fade",
+        "Rounds": 64,
+        "Agents": "fade",
+        "ACS": 203
+    },
+    {
+        "Player-Agent": "xross-fade",
+        "Rounds": 45,
+        "Agents": "fade",
+        "ACS": 196
+    },
+    {
+        "Player-Agent": "francis-fade",
+        "Rounds": 39,
+        "Agents": "fade",
+        "ACS": 175
+    },
+    {
+        "Player-Agent": "mazino-fade",
+        "Rounds": 73,
+        "Agents": "fade",
+        "ACS": 178
+    },
+    {
+        "Player-Agent": "avez-fade",
+        "Rounds": 108,
+        "Agents": "fade",
+        "ACS": 137
+    },
+    {
+        "Player-Agent": "brawk-fade",
+        "Rounds": 19,
+        "Agents": "fade",
+        "ACS": 123
+    },
+    {
+        "Player-Agent": "invy-fade",
+        "Rounds": 18,
+        "Agents": "fade",
+        "ACS": 157
+    },
+    {
+        "Player-Agent": "jamppi-fade",
+        "Rounds": 43,
+        "Agents": "fade",
+        "ACS": 132
+    },
+    {
+        "Player-Agent": "ros-fade",
+        "Rounds": 151,
+        "Agents": "fade",
+        "ACS": 132
+    },
+    {
+        "Player-Agent": "wsleo-fade",
+        "Rounds": 20,
+        "Agents": "fade",
+        "ACS": 47
+    },
+    {
+        "Player-Agent": "mazino-harbor",
+        "Rounds": 23,
+        "Agents": "harbor",
+        "ACS": 214
+    },
+    {
+        "Player-Agent": "f0rsaken-harbor",
+        "Rounds": 24,
+        "Agents": "harbor",
+        "ACS": 196
+    },
+    {
+        "Player-Agent": "rb-harbor",
+        "Rounds": 79,
+        "Agents": "harbor",
+        "ACS": 167
+    },
+    {
+        "Player-Agent": "mada-harbor",
+        "Rounds": 111,
+        "Agents": "harbor",
+        "ACS": 187
+    },
+    {
+        "Player-Agent": "bang-harbor",
+        "Rounds": 76,
+        "Agents": "harbor",
+        "ACS": 165
+    },
+    {
+        "Player-Agent": "profek-harbor",
+        "Rounds": 38,
+        "Agents": "harbor",
+        "ACS": 171
+    },
+    {
+        "Player-Agent": "signed-harbor",
+        "Rounds": 42,
+        "Agents": "harbor",
+        "ACS": 114
+    },
+    {
+        "Player-Agent": "dos9-harbor",
+        "Rounds": 19,
+        "Agents": "harbor",
+        "ACS": 134
+    },
+    {
+        "Player-Agent": "f4ngeer-jett",
+        "Rounds": 42,
+        "Agents": "jett",
+        "ACS": 258
+    },
+    {
+        "Player-Agent": "n4rrate-jett",
+        "Rounds": 19,
+        "Agents": "jett",
+        "ACS": 209
+    },
+    {
+        "Player-Agent": "wo0t-jett",
+        "Rounds": 36,
+        "Agents": "jett",
+        "ACS": 235
+    },
+    {
+        "Player-Agent": "lovers-rock-jett",
+        "Rounds": 20,
+        "Agents": "jett",
+        "ACS": 244
+    },
+    {
+        "Player-Agent": "timotino-jett",
+        "Rounds": 49,
+        "Agents": "jett",
+        "ACS": 251
+    },
+    {
+        "Player-Agent": "zmjjkk-jett",
+        "Rounds": 93,
+        "Agents": "jett",
+        "ACS": 252
+    },
+    {
+        "Player-Agent": "aspas-jett",
+        "Rounds": 50,
+        "Agents": "jett",
+        "ACS": 206
+    },
+    {
+        "Player-Agent": "noman-jett",
+        "Rounds": 42,
+        "Agents": "jett",
+        "ACS": 229
+    },
+    {
+        "Player-Agent": "something-jett",
+        "Rounds": 61,
+        "Agents": "jett",
+        "ACS": 189
+    },
+    {
+        "Player-Agent": "keiko-jett",
+        "Rounds": 111,
+        "Agents": "jett",
+        "ACS": 210
+    },
+    {
+        "Player-Agent": "minny-jett",
+        "Rounds": 58,
+        "Agents": "jett",
+        "ACS": 215
+    },
+    {
+        "Player-Agent": "derke-jett",
+        "Rounds": 132,
+        "Agents": "jett",
+        "ACS": 201
+    },
+    {
+        "Player-Agent": "jemkin-jett",
+        "Rounds": 59,
+        "Agents": "jett",
+        "ACS": 222
+    },
+    {
+        "Player-Agent": "lar0k-jett",
+        "Rounds": 97,
+        "Agents": "jett",
+        "ACS": 216
+    },
+    {
+        "Player-Agent": "rarga-jett",
+        "Rounds": 34,
+        "Agents": "jett",
+        "ACS": 214
+    },
+    {
+        "Player-Agent": "autumn-jett",
+        "Rounds": 38,
+        "Agents": "jett",
+        "ACS": 141
+    },
+    {
+        "Player-Agent": "babybay-jett",
+        "Rounds": 23,
+        "Agents": "jett",
+        "ACS": 150
+    },
+    {
+        "Player-Agent": "jieni7-kayo",
+        "Rounds": 60,
+        "Agents": "kayo",
+        "ACS": 198
+    },
+    {
+        "Player-Agent": "wo0t-kayo",
+        "Rounds": 23,
+        "Agents": "kayo",
+        "ACS": 203
+    },
+    {
+        "Player-Agent": "ethan-kayo",
+        "Rounds": 111,
+        "Agents": "kayo",
+        "ACS": 178
+    },
+    {
+        "Player-Agent": "jawgemo-kayo",
+        "Rounds": 63,
+        "Agents": "kayo",
+        "ACS": 191
+    },
+    {
+        "Player-Agent": "jamppi-kayo",
+        "Rounds": 38,
+        "Agents": "kayo",
+        "ACS": 117
+    },
+    {
+        "Player-Agent": "d4v41-killjoy",
+        "Rounds": 44,
+        "Agents": "killjoy",
+        "ACS": 230
+    },
+    {
+        "Player-Agent": "noman-killjoy",
+        "Rounds": 21,
+        "Agents": "killjoy",
+        "ACS": 138
+    },
+    {
+        "Player-Agent": "chronicle-killjoy",
+        "Rounds": 21,
+        "Agents": "killjoy",
+        "ACS": 136
+    },
+    {
+        "Player-Agent": "rarga-neon",
+        "Rounds": 21,
+        "Agents": "neon",
+        "ACS": 339
+    },
+    {
+        "Player-Agent": "marteen-neon",
+        "Rounds": 20,
+        "Agents": "neon",
+        "ACS": 256
+    },
+    {
+        "Player-Agent": "wo0t-neon",
+        "Rounds": 30,
+        "Agents": "neon",
+        "ACS": 253
+    },
+    {
+        "Player-Agent": "f4ngeer-neon",
+        "Rounds": 74,
+        "Agents": "neon",
+        "ACS": 234
+    },
+    {
+        "Player-Agent": "dambi-neon",
+        "Rounds": 368,
+        "Agents": "neon",
+        "ACS": 241
+    },
+    {
+        "Player-Agent": "zmjjkk-neon",
+        "Rounds": 18,
+        "Agents": "neon",
+        "ACS": 233
+    },
+    {
+        "Player-Agent": "zekken-neon",
+        "Rounds": 50,
+        "Agents": "neon",
+        "ACS": 201
+    },
+    {
+        "Player-Agent": "lovers-rock-neon",
+        "Rounds": 326,
+        "Agents": "neon",
+        "ACS": 198
+    },
+    {
+        "Player-Agent": "timotino-neon",
+        "Rounds": 193,
+        "Agents": "neon",
+        "ACS": 210
+    },
+    {
+        "Player-Agent": "jawgemo-neon",
+        "Rounds": 46,
+        "Agents": "neon",
+        "ACS": 221
+    },
+    {
+        "Player-Agent": "aspas-neon",
+        "Rounds": 23,
+        "Agents": "neon",
+        "ACS": 153
+    },
+    {
+        "Player-Agent": "bai-neon",
+        "Rounds": 62,
+        "Agents": "neon",
+        "ACS": 190
+    },
+    {
+        "Player-Agent": "lewn-neon",
+        "Rounds": 126,
+        "Agents": "neon",
+        "ACS": 191
+    },
+    {
+        "Player-Agent": "koshmaras-neon",
+        "Rounds": 112,
+        "Agents": "neon",
+        "ACS": 184
+    },
+    {
+        "Player-Agent": "ethan-neon",
+        "Rounds": 172,
+        "Agents": "neon",
+        "ACS": 185
+    },
+    {
+        "Player-Agent": "xan-neon",
+        "Rounds": 42,
+        "Agents": "neon",
+        "ACS": 199
+    },
+    {
+        "Player-Agent": "minny-neon",
+        "Rounds": 136,
+        "Agents": "neon",
+        "ACS": 186
+    },
+    {
+        "Player-Agent": "babybay-neon",
+        "Rounds": 63,
+        "Agents": "neon",
+        "ACS": 177
+    },
+    {
+        "Player-Agent": "udotan-neon",
+        "Rounds": 42,
+        "Agents": "neon",
+        "ACS": 182
+    },
+    {
+        "Player-Agent": "f0rsaken-neon",
+        "Rounds": 23,
+        "Agents": "neon",
+        "ACS": 119
+    },
+    {
+        "Player-Agent": "loita-omen",
+        "Rounds": 330,
+        "Agents": "omen",
+        "ACS": 231
+    },
+    {
+        "Player-Agent": "skuba-omen",
+        "Rounds": 172,
+        "Agents": "omen",
+        "ACS": 192
+    },
+    {
+        "Player-Agent": "chichoo-omen",
+        "Rounds": 51,
+        "Agents": "omen",
+        "ACS": 198
+    },
+    {
+        "Player-Agent": "bang-omen",
+        "Rounds": 228,
+        "Agents": "omen",
+        "ACS": 181
+    },
+    {
+        "Player-Agent": "keiko-omen",
+        "Rounds": 81,
+        "Agents": "omen",
+        "ACS": 169
+    },
+    {
+        "Player-Agent": "verno-omen",
+        "Rounds": 92,
+        "Agents": "omen",
+        "ACS": 177
+    },
+    {
+        "Player-Agent": "signed-omen",
+        "Rounds": 18,
+        "Agents": "omen",
+        "ACS": 183
+    },
+    {
+        "Player-Agent": "dos9-omen",
+        "Rounds": 107,
+        "Agents": "omen",
+        "ACS": 201
+    },
+    {
+        "Player-Agent": "proxh-omen",
+        "Rounds": 194,
+        "Agents": "omen",
+        "ACS": 168
+    },
+    {
+        "Player-Agent": "valyn-omen",
+        "Rounds": 108,
+        "Agents": "omen",
+        "ACS": 194
+    },
+    {
+        "Player-Agent": "rb-omen",
+        "Rounds": 289,
+        "Agents": "omen",
+        "ACS": 179
+    },
+    {
+        "Player-Agent": "happywei-omen",
+        "Rounds": 20,
+        "Agents": "omen",
+        "ACS": 197
+    },
+    {
+        "Player-Agent": "mazino-omen",
+        "Rounds": 66,
+        "Agents": "omen",
+        "ACS": 197
+    },
+    {
+        "Player-Agent": "boo-omen",
+        "Rounds": 148,
+        "Agents": "omen",
+        "ACS": 160
+    },
+    {
+        "Player-Agent": "profek-omen",
+        "Rounds": 137,
+        "Agents": "omen",
+        "ACS": 159
+    },
+    {
+        "Player-Agent": "lysoar-omen",
+        "Rounds": 77,
+        "Agents": "omen",
+        "ACS": 166
+    },
+    {
+        "Player-Agent": "iamgrq-omen",
+        "Rounds": 116,
+        "Agents": "omen",
+        "ACS": 144
+    },
+    {
+        "Player-Agent": "crazyguy-omen",
+        "Rounds": 18,
+        "Agents": "omen",
+        "ACS": 151
+    },
+    {
+        "Player-Agent": "k1ra-omen",
+        "Rounds": 62,
+        "Agents": "omen",
+        "ACS": 159
+    },
+    {
+        "Player-Agent": "xffero-omen",
+        "Rounds": 24,
+        "Agents": "omen",
+        "ACS": 165
+    },
+    {
+        "Player-Agent": "xan-omen",
+        "Rounds": 41,
+        "Agents": "omen",
+        "ACS": 131
+    },
+    {
+        "Player-Agent": "xavi8k-omen",
+        "Rounds": 64,
+        "Agents": "omen",
+        "ACS": 151
+    },
+    {
+        "Player-Agent": "jinggg-omen",
+        "Rounds": 23,
+        "Agents": "omen",
+        "ACS": 110
+    },
+    {
+        "Player-Agent": "jieni7-omen",
+        "Rounds": 36,
+        "Agents": "omen",
+        "ACS": 129
+    },
+    {
+        "Player-Agent": "f0rsaken-omen",
+        "Rounds": 38,
+        "Agents": "omen",
+        "ACS": 127
+    },
+    {
+        "Player-Agent": "patmen-omen",
+        "Rounds": 16,
+        "Agents": "omen",
+        "ACS": 104
+    },
+    {
+        "Player-Agent": "zekken-phoenix",
+        "Rounds": 23,
+        "Agents": "phoenix",
+        "ACS": 263
+    },
+    {
+        "Player-Agent": "keiko-phoenix",
+        "Rounds": 42,
+        "Agents": "phoenix",
+        "ACS": 258
+    },
+    {
+        "Player-Agent": "marteen-phoenix",
+        "Rounds": 105,
+        "Agents": "phoenix",
+        "ACS": 256
+    },
+    {
+        "Player-Agent": "sayonara-phoenix",
+        "Rounds": 53,
+        "Agents": "phoenix",
+        "ACS": 232
+    },
+    {
+        "Player-Agent": "lar0k-phoenix",
+        "Rounds": 39,
+        "Agents": "phoenix",
+        "ACS": 245
+    },
+    {
+        "Player-Agent": "n4rrate-phoenix",
+        "Rounds": 83,
+        "Agents": "phoenix",
+        "ACS": 247
+    },
+    {
+        "Player-Agent": "xross-phoenix",
+        "Rounds": 227,
+        "Agents": "phoenix",
+        "ACS": 231
+    },
+    {
+        "Player-Agent": "iamgrq-phoenix",
+        "Rounds": 62,
+        "Agents": "phoenix",
+        "ACS": 237
+    },
+    {
+        "Player-Agent": "mada-phoenix",
+        "Rounds": 172,
+        "Agents": "phoenix",
+        "ACS": 235
+    },
+    {
+        "Player-Agent": "koshmaras-phoenix",
+        "Rounds": 66,
+        "Agents": "phoenix",
+        "ACS": 229
+    },
+    {
+        "Player-Agent": "autumn-phoenix",
+        "Rounds": 26,
+        "Agents": "phoenix",
+        "ACS": 212
+    },
+    {
+        "Player-Agent": "asuna-phoenix",
+        "Rounds": 242,
+        "Agents": "phoenix",
+        "ACS": 215
+    },
+    {
+        "Player-Agent": "rarga-phoenix",
+        "Rounds": 42,
+        "Agents": "phoenix",
+        "ACS": 192
+    },
+    {
+        "Player-Agent": "signed-phoenix",
+        "Rounds": 36,
+        "Agents": "phoenix",
+        "ACS": 191
+    },
+    {
+        "Player-Agent": "jawgemo-phoenix",
+        "Rounds": 23,
+        "Agents": "phoenix",
+        "ACS": 214
+    },
+    {
+        "Player-Agent": "derke-raze",
+        "Rounds": 43,
+        "Agents": "raze",
+        "ACS": 313
+    },
+    {
+        "Player-Agent": "mada-raze",
+        "Rounds": 81,
+        "Agents": "raze",
+        "ACS": 282
+    },
+    {
+        "Player-Agent": "jawgemo-raze",
+        "Rounds": 39,
+        "Agents": "raze",
+        "ACS": 272
+    },
+    {
+        "Player-Agent": "lar0k-raze",
+        "Rounds": 151,
+        "Agents": "raze",
+        "ACS": 308
+    },
+    {
+        "Player-Agent": "marteen-raze",
+        "Rounds": 69,
+        "Agents": "raze",
+        "ACS": 291
+    },
+    {
+        "Player-Agent": "wo0t-raze",
+        "Rounds": 65,
+        "Agents": "raze",
+        "ACS": 237
+    },
+    {
+        "Player-Agent": "lewn-raze",
+        "Rounds": 42,
+        "Agents": "raze",
+        "ACS": 190
+    },
+    {
+        "Player-Agent": "zekken-raze",
+        "Rounds": 107,
+        "Agents": "raze",
+        "ACS": 191
+    },
+    {
+        "Player-Agent": "xross-raze",
+        "Rounds": 76,
+        "Agents": "raze",
+        "ACS": 187
+    },
+    {
+        "Player-Agent": "jieni7-raze",
+        "Rounds": 51,
+        "Agents": "raze",
+        "ACS": 236
+    },
+    {
+        "Player-Agent": "udotan-raze",
+        "Rounds": 38,
+        "Agents": "raze",
+        "ACS": 189
+    },
+    {
+        "Player-Agent": "k1ra-raze",
+        "Rounds": 116,
+        "Agents": "raze",
+        "ACS": 202
+    },
+    {
+        "Player-Agent": "jinggg-raze",
+        "Rounds": 106,
+        "Agents": "raze",
+        "ACS": 200
+    },
+    {
+        "Player-Agent": "noman-raze",
+        "Rounds": 34,
+        "Agents": "raze",
+        "ACS": 155
+    },
+    {
+        "Player-Agent": "sayonara-raze",
+        "Rounds": 20,
+        "Agents": "raze",
+        "ACS": 156
+    },
+    {
+        "Player-Agent": "timotino-raze",
+        "Rounds": 16,
+        "Agents": "raze",
+        "ACS": 132
+    },
+    {
+        "Player-Agent": "leaf-sage",
+        "Rounds": 46,
+        "Agents": "sage",
+        "ACS": 233
+    },
+    {
+        "Player-Agent": "crazyguy-sage",
+        "Rounds": 41,
+        "Agents": "sage",
+        "ACS": 147
+    },
+    {
+        "Player-Agent": "asuna-sage",
+        "Rounds": 16,
+        "Agents": "sage",
+        "ACS": 152
+    },
+    {
+        "Player-Agent": "xross-sage",
+        "Rounds": 20,
+        "Agents": "sage",
+        "ACS": 132
+    },
+    {
+        "Player-Agent": "chichoo-sage",
+        "Rounds": 36,
+        "Agents": "sage",
+        "ACS": 98
+    },
+    {
+        "Player-Agent": "trent-skye",
+        "Rounds": 85,
+        "Agents": "skye",
+        "ACS": 199
+    },
+    {
+        "Player-Agent": "f0rsaken-skye",
+        "Rounds": 44,
+        "Agents": "skye",
+        "ACS": 210
+    },
+    {
+        "Player-Agent": "mazino-skye",
+        "Rounds": 34,
+        "Agents": "skye",
+        "ACS": 215
+    },
+    {
+        "Player-Agent": "francis-skye",
+        "Rounds": 76,
+        "Agents": "skye",
+        "ACS": 175
+    },
+    {
+        "Player-Agent": "shr1mp-skye",
+        "Rounds": 42,
+        "Agents": "skye",
+        "ACS": 191
+    },
+    {
+        "Player-Agent": "invy-skye",
+        "Rounds": 20,
+        "Agents": "skye",
+        "ACS": 176
+    },
+    {
+        "Player-Agent": "vora-skye",
+        "Rounds": 16,
+        "Agents": "skye",
+        "ACS": 204
+    },
+    {
+        "Player-Agent": "nobody-skye",
+        "Rounds": 51,
+        "Agents": "skye",
+        "ACS": 141
+    },
+    {
+        "Player-Agent": "jamppi-skye",
+        "Rounds": 20,
+        "Agents": "skye",
+        "ACS": 125
+    },
+    {
+        "Player-Agent": "wsleo-skye",
+        "Rounds": 14,
+        "Agents": "skye",
+        "ACS": 101
+    },
+    {
+        "Player-Agent": "verno-sova",
+        "Rounds": 89,
+        "Agents": "sova",
+        "ACS": 259
+    },
+    {
+        "Player-Agent": "trent-sova",
+        "Rounds": 86,
+        "Agents": "sova",
+        "ACS": 212
+    },
+    {
+        "Player-Agent": "riens-sova",
+        "Rounds": 89,
+        "Agents": "sova",
+        "ACS": 238
+    },
+    {
+        "Player-Agent": "invy-sova",
+        "Rounds": 47,
+        "Agents": "sova",
+        "ACS": 188
+    },
+    {
+        "Player-Agent": "starxo-sova",
+        "Rounds": 125,
+        "Agents": "sova",
+        "ACS": 201
+    },
+    {
+        "Player-Agent": "vora-sova",
+        "Rounds": 227,
+        "Agents": "sova",
+        "ACS": 194
+    },
+    {
+        "Player-Agent": "sayonara-sova",
+        "Rounds": 38,
+        "Agents": "sova",
+        "ACS": 196
+    },
+    {
+        "Player-Agent": "jamppi-sova",
+        "Rounds": 74,
+        "Agents": "sova",
+        "ACS": 200
+    },
+    {
+        "Player-Agent": "shr1mp-sova",
+        "Rounds": 62,
+        "Agents": "sova",
+        "ACS": 202
+    },
+    {
+        "Player-Agent": "brawk-sova",
+        "Rounds": 264,
+        "Agents": "sova",
+        "ACS": 194
+    },
+    {
+        "Player-Agent": "crazyguy-sova",
+        "Rounds": 24,
+        "Agents": "sova",
+        "ACS": 195
+    },
+    {
+        "Player-Agent": "ros-sova",
+        "Rounds": 195,
+        "Agents": "sova",
+        "ACS": 196
+    },
+    {
+        "Player-Agent": "francis-sova",
+        "Rounds": 208,
+        "Agents": "sova",
+        "ACS": 182
+    },
+    {
+        "Player-Agent": "nobody-sova",
+        "Rounds": 96,
+        "Agents": "sova",
+        "ACS": 190
+    },
+    {
+        "Player-Agent": "kushy-sova",
+        "Rounds": 59,
+        "Agents": "sova",
+        "ACS": 175
+    },
+    {
+        "Player-Agent": "avez-sova",
+        "Rounds": 60,
+        "Agents": "sova",
+        "ACS": 188
+    },
+    {
+        "Player-Agent": "xavi8k-sova",
+        "Rounds": 16,
+        "Agents": "sova",
+        "ACS": 178
+    },
+    {
+        "Player-Agent": "wsleo-sova",
+        "Rounds": 63,
+        "Agents": "sova",
+        "ACS": 133
+    },
+    {
+        "Player-Agent": "xffero-veto",
+        "Rounds": 41,
+        "Agents": "veto",
+        "ACS": 219
+    },
+    {
+        "Player-Agent": "tex-viper",
+        "Rounds": 19,
+        "Agents": "viper",
+        "ACS": 247
+    },
+    {
+        "Player-Agent": "ivy-viper",
+        "Rounds": 118,
+        "Agents": "viper",
+        "ACS": 232
+    },
+    {
+        "Player-Agent": "leaf-viper",
+        "Rounds": 102,
+        "Agents": "viper",
+        "ACS": 236
+    },
+    {
+        "Player-Agent": "boo-viper",
+        "Rounds": 30,
+        "Agents": "viper",
+        "ACS": 211
+    },
+    {
+        "Player-Agent": "chichoo-viper",
+        "Rounds": 42,
+        "Agents": "viper",
+        "ACS": 221
+    },
+    {
+        "Player-Agent": "kr1stal-viper",
+        "Rounds": 23,
+        "Agents": "viper",
+        "ACS": 189
+    },
+    {
+        "Player-Agent": "sayonara-viper",
+        "Rounds": 43,
+        "Agents": "viper",
+        "ACS": 224
+    },
+    {
+        "Player-Agent": "skuba-viper",
+        "Rounds": 192,
+        "Agents": "viper",
+        "ACS": 183
+    },
+    {
+        "Player-Agent": "cryocells-viper",
+        "Rounds": 62,
+        "Agents": "viper",
+        "ACS": 207
+    },
+    {
+        "Player-Agent": "bipo-viper",
+        "Rounds": 20,
+        "Agents": "viper",
+        "ACS": 195
+    },
+    {
+        "Player-Agent": "d4v41-viper",
+        "Rounds": 47,
+        "Agents": "viper",
+        "ACS": 218
+    },
+    {
+        "Player-Agent": "bai-viper",
+        "Rounds": 42,
+        "Agents": "viper",
+        "ACS": 191
+    },
+    {
+        "Player-Agent": "crewen-viper",
+        "Rounds": 136,
+        "Agents": "viper",
+        "ACS": 179
+    },
+    {
+        "Player-Agent": "suygetsu-viper",
+        "Rounds": 85,
+        "Agents": "viper",
+        "ACS": 184
+    },
+    {
+        "Player-Agent": "chronicle-viper",
+        "Rounds": 58,
+        "Agents": "viper",
+        "ACS": 185
+    },
+    {
+        "Player-Agent": "xffero-viper",
+        "Rounds": 18,
+        "Agents": "viper",
+        "ACS": 151
+    },
+    {
+        "Player-Agent": "kushy-viper",
+        "Rounds": 24,
+        "Agents": "viper",
+        "ACS": 160
+    },
+    {
+        "Player-Agent": "happywei-viper",
+        "Rounds": 77,
+        "Agents": "viper",
+        "ACS": 158
+    },
+    {
+        "Player-Agent": "brawk-vyse",
+        "Rounds": 81,
+        "Agents": "vyse",
+        "ACS": 221
+    },
+    {
+        "Player-Agent": "lysoar-vyse",
+        "Rounds": 20,
+        "Agents": "vyse",
+        "ACS": 236
+    },
+    {
+        "Player-Agent": "d4v41-vyse",
+        "Rounds": 38,
+        "Agents": "vyse",
+        "ACS": 190
+    },
+    {
+        "Player-Agent": "benjyfishy-vyse",
+        "Rounds": 89,
+        "Agents": "vyse",
+        "ACS": 186
+    },
+    {
+        "Player-Agent": "kr1stal-vyse",
+        "Rounds": 15,
+        "Agents": "vyse",
+        "ACS": 231
+    },
+    {
+        "Player-Agent": "chronicle-vyse",
+        "Rounds": 96,
+        "Agents": "vyse",
+        "ACS": 179
+    },
+    {
+        "Player-Agent": "crewen-vyse",
+        "Rounds": 76,
+        "Agents": "vyse",
+        "ACS": 175
+    },
+    {
+        "Player-Agent": "bai-vyse",
+        "Rounds": 48,
+        "Agents": "vyse",
+        "ACS": 170
+    },
+    {
+        "Player-Agent": "asuna-vyse",
+        "Rounds": 46,
+        "Agents": "vyse",
+        "ACS": 198
+    },
+    {
+        "Player-Agent": "ivy-vyse",
+        "Rounds": 76,
+        "Agents": "vyse",
+        "ACS": 184
+    },
+    {
+        "Player-Agent": "babybay-vyse",
+        "Rounds": 20,
+        "Agents": "vyse",
+        "ACS": 220
+    },
+    {
+        "Player-Agent": "signed-vyse",
+        "Rounds": 51,
+        "Agents": "vyse",
+        "ACS": 144
+    },
+    {
+        "Player-Agent": "sayonara-waylay",
+        "Rounds": 21,
+        "Agents": "waylay",
+        "ACS": 270
+    },
+    {
+        "Player-Agent": "aspas-waylay",
+        "Rounds": 123,
+        "Agents": "waylay",
+        "ACS": 206
+    },
+    {
+        "Player-Agent": "something-waylay",
+        "Rounds": 24,
+        "Agents": "waylay",
+        "ACS": 217
+    },
+    {
+        "Player-Agent": "zekken-waylay",
+        "Rounds": 16,
+        "Agents": "waylay",
+        "ACS": 140
+    },
+    {
+        "Player-Agent": "timotino-waylay",
+        "Rounds": 46,
+        "Agents": "waylay",
+        "ACS": 173
+    },
+    {
+        "Player-Agent": "babybay-waylay",
+        "Rounds": 19,
+        "Agents": "waylay",
+        "ACS": 195
+    },
+    {
+        "Player-Agent": "mada-waylay",
+        "Rounds": 42,
+        "Agents": "waylay",
+        "ACS": 148
+    }
+]

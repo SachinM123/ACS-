@@ -6,17 +6,15 @@ import requests as r
 headers = {"User-Agent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"}
 output_file_name = "output"
 agents = ["astra", "breach", "brimstone", "chamber", "clove", "cypher", "deadlock", "fade", "gekko", "harbor", "iso", "jett", "kayo", "killjoy", "miks", "neon", "omen", "phoenix", "raze", "reyna", "sage", "skye", "sova", "tejo", "veto", "viper", "vyse", "waylay", "yoru"]
-urlagents = []
 
 def merge_players(players_list):
     merged = {}
 
     for p in players_list:
-        name = p["Player"]
+        name = p["Player-Agent"]
 
         merged[name] = {
-            "id": p["id"],
-            "Player": p["Player"],
+            "Player-Agent": p["Player-Agent"],
             "Rounds": p["Rounds"],
             "Agents": p["Agents"],
             "ACS": p["acs"]
@@ -32,13 +30,15 @@ def fetch(url):
         raise RuntimeError(f"Error accessing {url}: {e}")
 
 def autoScraper(url):
+    stats_lists = []
+
     for agent in agents:
-        url = f"{url}?sort=rating2&dir=desc&side=all&role=all&agent={agent}&map_id=all&min_rounds=0&exclude="
-        full_stats = []
-        stats_lists = []
-        request = fetch(url)
+        n_url = f"{url}?sort=rating2&dir=desc&side=all&role=all&agent={agent}&map_id=all&min_rounds=0&exclude="
+
+        request = fetch(n_url)
         site = BeautifulSoup(request.text, "html.parser")
         players = site.select("tbody tr")
+
         for player in players:
             tds = player.select("td")
             """
@@ -46,13 +46,11 @@ def autoScraper(url):
                 print(j)
             """
             rounds = int(tds[3].text)
-            acs = str(tds[5].text)            
+            acs = int(tds[5].text)
             player_link = player.select_one(".mod-player a")["href"].split("/")
             name = player_link[-1]
-            id = player_link[-2]
             stats_lists.append({
-                "id" : id,
-                "Player" : name,
+                "Player-Agent" : name + "-" + agent,
                 "Rounds" : rounds,
                 "Agents" : agent,
                 "acs" : acs
