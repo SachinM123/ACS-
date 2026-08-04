@@ -25,26 +25,17 @@ def get_picture(url):
     return image
 
 def merge_players(players_list):
-    merged = {}
-
-    for p in players_list:
-        name = p["Player"]
-
-        if name not in merged:
-            merged[name] = {
-                "id": p["id"],
-                "Player": p["Player"],
-                "Img": p["Img"],
-                "Kills": p["Kills"],
-                "Deaths": p["Deaths"],
-                "Assists": p["Assists"]
-            }
-        else:
-            merged[name]["Kills"] += p["Kills"]
-            merged[name]["Deaths"] += p["Deaths"]
-            merged[name]["Assists"] += p["Assists"]
-
-    return list(merged.values())
+    return [
+        {
+            "id": p["id"],
+            "Player": p["Player"],
+            "Img": p["Img"],
+            "Kills": p["Kills"],
+            "Deaths": p["Deaths"],
+            "Assists": p["Assists"]
+        }
+        for p in players_list
+    ]
 
 def append_player_stats(full_stats, id, name, img_url, kills, deaths, assists):
     player_stats = {
