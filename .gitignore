@@ -1,0 +1,20 @@
+# Ignore result directories
+results/
+results2/
+
+# Ignore IDE/launcher and settings directories
+launch/
+settings/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Byte-compiled / optimized / DLL files
+*.so
+*.egg
+*.egg-info/
+
+# Distribution/build
+build/
+dist/
