@@ -50,6 +50,7 @@ def autoScraper(url):
                 print(j)
             """
             rounds = int(tds[3].text)
+            print(url)
             acs = int(tds[5].text)
             player_link = player.select_one(".mod-player a")["href"].split("/")
             name = player_link[-1]
@@ -71,17 +72,17 @@ if __name__ == "__main__":
         "https://www.vlr.gg/event/stats/2977/vct-2026-americas-stage-2",
         "https://www.vlr.gg/event/stats/2776/vct-2026-pacific-stage-2",
         "https://www.vlr.gg/event/stats/2976/vct-2026-emea-stage-2",
-        "https://www.vlr.gg/event/stats/2978/vct-2026-china-stage-2",
+        #"https://www.vlr.gg/event/stats/2978/vct-2026-china-stage-2",
         "https://www.vlr.gg/event/stats/2765/valorant-masters-london-2026",
         "https://www.vlr.gg/event/stats/2860/vct-2026-americas-stage-1",
         "https://www.vlr.gg/event/stats/2863/vct-2026-emea-stage-1",
         "https://www.vlr.gg/event/stats/2775/vct-2026-pacific-stage-1",
-        "https://www.vlr.gg/event/stats/2864/vct-2026-china-stage-1",
+        #"https://www.vlr.gg/event/stats/2864/vct-2026-china-stage-1",
         "https://www.vlr.gg/event/stats/2760/valorant-masters-santiago-2026",
         "https://www.vlr.gg/event/stats/2682/vct-2026-americas-kickoff",
         "https://www.vlr.gg/event/stats/2684/vct-2026-emea-kickoff",
         "https://www.vlr.gg/event/stats/2683/vct-2026-pacific-kickoff",
-        "https://www.vlr.gg/event/stats/2685/vct-2026-china-kickoff"
+       # "https://www.vlr.gg/event/stats/2685/vct-2026-china-kickoff"
     ]
     for url in urls:
         autoScraper(url)    

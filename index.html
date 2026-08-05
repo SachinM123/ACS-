@@ -170,11 +170,7 @@
     <main class="wrap">
       <section class="hero">
         <h1>ACS+ leaderboard demo</h1>
-        <p>Choose an agent from the dropdown to view that agent’s players sorted from highest ACS down to lowest.</p>
-        <div class="controls">
-          <label for="agentSelect">Agent</label>
-          <select id="agentSelect"></select>
-        </div>
+        <p>VCT highest ACS+ scores (ex CN), sorted from highest to lowest.</p>
         <div class="summary" id="summary"></div>
       </section>
       <section id="content">
@@ -183,41 +179,69 @@
     </main>
 
     <script>
-      let agentEntries = [];
+      let playerEntries = [];
 
-      function renderAgent(agentName) {
+      function parseResultEntry(entry) {
+        if (typeof entry === 'string') {
+          const match = entry.match(/^(.*?)\s*:\s*([0-9.+-]+)$/);
+          if (!match) return null;
+
+          const raw = match[1].trim();
+          const fullName = raw;
+          const name = raw;
+
+          return {
+            name,
+            fullName,
+            acs: Number(match[2]),
+          };
+        }
+
+        if (entry && typeof entry === 'object') {
+          const rawName = entry.Player || entry.player || entry.name || entry['Player-Agent'] || entry['player-agent'] || 'Unknown';
+          const name = String(rawName).trim();
+
+          return {
+            name,
+            fullName: name,
+            acs: Number(entry['ACS+'] ?? entry.ACS ?? entry.acs ?? entry.score ?? entry.value ?? 0),
+          };
+        }
+
+        return null;
+      }
+
+      function renderLeaderboard() {
         const content = document.getElementById('content');
         const summary = document.getElementById('summary');
-        const selected = agentEntries.find((entry) => entry.agent === agentName);
 
-        if (!selected) {
-          content.innerHTML = '<div class="error">No data available for this agent.</div>';
+        if (!playerEntries.length) {
+          content.innerHTML = '<div class="error">No ACS+ data available for this leaderboard.</div>';
           return;
         }
 
         summary.innerHTML = `
-          <div class="pill">Agent: ${selected.agent}</div>
-          <div class="pill">Players: ${selected.count}</div>
-          <div class="pill">Top ACS: ${selected.topAcs}</div>
+          <div class="pill">Players: ${playerEntries.length}</div>
+          <div class="pill">Top ACS+: ${playerEntries[0].acs}</div>
         `;
 
         content.innerHTML = `
           <article class="agent-card">
             <div class="agent-header">
-              <div class="agent-name">${selected.agent}</div>
-              <div class="agent-meta">Sorted by ACS descending</div>
+              <div class="agent-name">Players</div>
+              <div class="agent-meta">One ACS+ score per player</div>
             </div>
             <div class="rows">
-              ${selected.players.map((player) => `
+              ${playerEntries.map((player) => `
                 <div class="row">
                   <div class="player">${player.name}<small>${player.fullName}</small></div>
                   <div class="metric">
-                    <span class="metric-label">ACS</span>
+                    <span class="metric-label">ACS+</span>
                     ${player.acs}
                   </div>
                   <div class="metric">
-                    <span class="metric-label">Rounds</span>
-                    ${player.rounds}
+                    <span class="metric-label">Rank</span>
+                    #${player.rank}
                   </div>
                 </div>
               `).join('')}
@@ -227,43 +251,36 @@
       }
 
       async function loadData() {
-        const select = document.getElementById('agentSelect');
-
         try {
-          const response = await fetch('./scraper/data/output.json');
+          const response = await fetch('results.json');
           if (!response.ok) throw new Error('Unable to load data file');
           const rows = await response.json();
 
-          const grouped = rows.reduce((acc, row) => {
-            const agent = (row.Agents || row.Agent || 'unknown').toLowerCase();
-            if (!acc[agent]) acc[agent] = [];
-            acc[agent].push({
-              name: (row['Player-Agent'] || '').split('-')[0],
-              fullName: row['Player-Agent'] || 'Unknown',
-              rounds: Number(row.Rounds || 0),
-              acs: Number(row.ACS || 0),
-            });
-            return acc;
-          }, {});
+          const byPlayer = new Map();
+          rows.forEach((rawRow) => {
+            const parsed = parseResultEntry(rawRow);
+            if (!parsed) return;
 
-          agentEntries = Object.entries(grouped)
-            .map(([agent, players]) => {
-              const sortedPlayers = [...players].sort((a, b) => b.acs - a.acs);
-              return {
-                agent,
-                players: sortedPlayers,
-                topAcs: sortedPlayers[0]?.acs || 0,
-                count: sortedPlayers.length,
-              };
-            })
-            .sort((a, b) => b.topAcs - a.topAcs);
+            const key = parsed.name.toLowerCase();
+            const current = byPlayer.get(key);
+            if (!current || parsed.acs > current.acs) {
+              byPlayer.set(key, {
+                name: parsed.name,
+                fullName: parsed.fullName,
+                acs: parsed.acs,
+              });
+            }
+          });
 
-          select.innerHTML = agentEntries.map((entry) => `
-            <option value="${entry.agent}">${entry.agent}</option>
-          `).join('');
+          playerEntries = Array.from(byPlayer.values())
+            .sort((a, b) => b.acs - a.acs)
+            .map((player, index) => ({ ...player, rank: index + 1 }));
 
-          select.addEventListener('change', (event) => renderAgent(event.target.value));
-          renderAgent(agentEntries[0]?.agent || '');
+          if (!playerEntries.length) {
+            throw new Error('No ACS+ leaderboard data found in results.json');
+          }
+
+          renderLeaderboard();
         } catch (err) {
           document.getElementById('content').innerHTML = `<div class="error">${err.message}</div>`;
         }

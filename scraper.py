@@ -1,0 +1,179 @@
+import json
+import time
+from bs4 import BeautifulSoup
+import requests as r
+
+headers = {"User-Agent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"}
+
+name_img_cache = {}
+
+def fetch(url):
+    try:
+        response = r.get(url, headers=headers, timeout=10)
+        response.raise_for_status()
+        return response
+    except r.RequestException as e:
+        raise RuntimeError(f"Erro ao acessar {url}: {e}")
+
+def get_picture(url):
+    if url in name_img_cache:
+        return name_img_cache[url]
+    request = fetch(f"https://www.vlr.gg{url}/?timespan=all")
+    site = BeautifulSoup(request.text, "html.parser")
+    image = site.select_one(".wf-avatar img")["src"]
+    name_img_cache[url] = image
+    return image
+
+def merge_players(players_list):
+    return [
+        {
+            "id": p["id"],
+            "Player": p["Player"],
+            "Img": p["Img"],
+            "Kills": p["Kills"],
+            "Deaths": p["Deaths"],
+            "Assists": p["Assists"]
+        }
+        for p in players_list
+    ]
+
+def append_player_stats(full_stats, id, name, img_url, kills, deaths, assists):
+    player_stats = {
+        "id" : id,
+        "Player" : name,
+        "Img" : img_url,
+        "Kills" : kills,
+        "Deaths" : deaths,
+        "Assists" : assists
+    }
+    full_stats.append(player_stats)
+
+def invalid_url(msg):
+    print(
+        f"\n\033[31m✖ Invalid URL\033[0m\n"
+        f"{msg}\n\n"
+        f"\033[36mValid Exemple:\033[0m\n"
+        f"https://www.vlr.gg/event/stats/1015/valorant-champions-2022\n"
+    )
+    exit(1)
+
+def scraper(mode, urls, output_file_name, skip_players_without_picture=True):
+    # mode -> "tournament" or "career"
+
+    full_stats = []
+
+    if len(urls) == 0:
+        print(f"The application needs at least one url.")
+        exit(1)
+    
+    players_links = []
+
+    if mode == "career":
+        for link in urls:
+            request = fetch(link)
+            site = BeautifulSoup(request.text, "html.parser")
+            players = site.select("tr .mod-player a")
+            for player in players:
+                if not (player["href"] in players_links):
+                    players_links.append(player["href"])
+
+        for player in players_links:
+            request = fetch(f"https://www.vlr.gg{player}/?timespan=all")
+            site = BeautifulSoup(request.text, "html.parser")
+            kills = 0
+            deaths = 0
+            assists = 0
+            img_url = site.select_one(".wf-avatar img")["src"]
+            if img_url == "/img/base/ph/sil.png" and skip_players_without_picture:
+                continue
+            stats = site.select("tbody tr")
+            for s in stats:
+                kills += int(s.select("td")[-4].text)
+                deaths += int(s.select("td")[-3].text)
+                assists += int(s.select("td")[-2].text)
+            name = player.split("/")[-1].replace("'", "")
+            id = player.split("/")[-2]
+            append_player_stats(full_stats, id, name, img_url, kills, deaths, assists)
+            time.sleep(0.1)
+    elif mode == "tournament":
+        stats_lists = []
+        for i, link in enumerate(urls):
+            request = fetch(link)
+            site = BeautifulSoup(request.text, "html.parser")
+            players = site.select("tbody tr")
+            for player in players:
+                img_url = get_picture(player.select_one(".mod-player a")["href"])
+                if img_url == "/img/base/ph/sil.png" and skip_players_without_picture:
+                    continue
+                tds = player.select("td")
+                kills = int(tds[-5].text)
+                deaths = int(tds[-4].text)
+                assists = int(tds[-3].text)
+                player_link = player.select_one(".mod-player a")["href"].split("/")
+                name = player_link[-1]
+                id = player_link[-2]
+                stats_lists.append({
+                    "id" : id,
+                    "Player" : name,
+                    "Img" : img_url,
+                    "Kills" : kills,
+                    "Deaths" : deaths,
+                    "Assists" : assists
+                })
+            if i + 1 > 1:
+                print(f"{i + 1} urls completed.")
+            else:
+                print(f"{i + 1} url completed.")
+            time.sleep(0.5)
+        full_stats = merge_players(stats_lists)
+            
+    else:
+        print(f"Invalid Mode: {mode}. Use 'tournament' or 'career'.")
+        exit(1)
+    
+    with open(f"data/{output_file_name}.json", 'w', encoding="utf-8") as json_file:
+        json.dump(full_stats, json_file, ensure_ascii=False, indent=4)
+
+if __name__ == '__main__':
+    print("=== VLR Stats Scraper ===")
+
+    mode = input("Mode ('tournament' or 'career'): ").strip().lower()
+    if mode not in ["tournament", "career"]:
+        print("Invalid mode. Use 'tournament' or 'career'.")
+        exit(1)
+
+    print("\nEnter URLs (one per line). When finished, press ENTER on an empty line:")
+    urls = []
+    while True:
+        u = input("> ").strip()
+        if u == "":
+            break
+        if "vlr.gg" not in u:
+            invalid_url("A URL precisa ser do site \033[1mvlr.gg\033[0m.")
+        if "/stats/" not in u:
+            invalid_url("A URL precisa ser uma \033[1mpágina de estatísticas (/stats/)\033[0m.")
+        urls.append(u)
+
+    if len(urls) == 0:
+        print("You must provide at least one URL.")
+        exit(1)
+
+    output_file = input("\nOutput file name (without .json): ").strip()
+    if output_file == "":
+        print("Output file name cannot be empty.")
+        exit(1)
+
+    skip_players_without_picture = (
+        input("Skip players without picture? (y/n): ").strip().lower() == "y"
+    )
+
+    print("\nRunning scraper...\nFor best performance, keep this window active and in focus.\n")
+
+    scraper(
+        mode=mode,
+        urls=urls,
+        output_file_name=output_file,
+        skip_players_without_picture=skip_players_without_picture
+    )
+
+    print("\nDone! JSON saved as:", output_file + ".json")
