@@ -1,21 +1,21 @@
 # Ignore result directories
-results/
-results1/
-results2/
+results
+results1
+results2
 
 # Ignore IDE/launcher and settings directories
-.vscode\launch.json\
-.vscode/settings/
+.vscode/launch.json
+.vscode/settings
 
 # Python cache
-__pycache__/
+__pycache__
 *.py[cod]
 
 # Byte-compiled / optimized / DLL files
 *.so
 *.egg
-*.egg-info/
+*.egg-info
 
 # Distribution/build
-build/
-dist/
+build
+dist
