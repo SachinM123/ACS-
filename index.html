@@ -201,10 +201,14 @@
           const rawName = entry.Player || entry.player || entry.name || entry['Player-Agent'] || entry['player-agent'] || 'Unknown';
           const name = String(rawName).trim();
 
+          const rawRating = entry.Rating ?? entry.rating ?? entry['rating'] ?? null;
+          const rating = rawRating === null || rawRating === '' ? null : Number(rawRating);
+
           return {
             name,
             fullName: name,
             acs: Number(entry['ACS+'] ?? entry.ACS ?? entry.acs ?? entry.score ?? entry.value ?? 0),
+            rating: Number.isFinite(rating) ? rating : null,
           };
         }
 
@@ -234,7 +238,7 @@
             <div class="rows">
               ${playerEntries.map((player) => `
                 <div class="row">
-                  <div class="player">${player.name}<small>${player.fullName}</small></div>
+                  <div class="player">${player.name}<small>${player.rating != null ? `Rating: ${player.rating}` : 'Rating unavailable'}</small></div>
                   <div class="metric">
                     <span class="metric-label">ACS+</span>
                     ${player.acs}
@@ -268,6 +272,7 @@
                 name: parsed.name,
                 fullName: parsed.fullName,
                 acs: parsed.acs,
+                rating: parsed.rating,
               });
             }
           });

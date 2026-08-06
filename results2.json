@@ -1,0 +1,8576 @@
+[
+    {
+        "Player-Agent": "loita-astra",
+        "Rounds": 188,
+        "ACS+": 111,
+        "rating": 1.17
+    },
+    {
+        "Player-Agent": "valyn-astra",
+        "Rounds": 867,
+        "ACS+": 109,
+        "rating": 1.24
+    },
+    {
+        "Player-Agent": "rossy-astra",
+        "Rounds": 162,
+        "ACS+": 111,
+        "rating": 1.18
+    },
+    {
+        "Player-Agent": "kingg-astra",
+        "Rounds": 374,
+        "ACS+": 102,
+        "rating": 1.01
+    },
+    {
+        "Player-Agent": "saadhak-astra",
+        "Rounds": 32,
+        "ACS+": 101,
+        "rating": 0.92
+    },
+    {
+        "Player-Agent": "glyph-astra",
+        "Rounds": 678,
+        "ACS+": 93,
+        "rating": 0.91
+    },
+    {
+        "Player-Agent": "erde-astra",
+        "Rounds": 96,
+        "ACS+": 104,
+        "rating": 1.29
+    },
+    {
+        "Player-Agent": "sylvan-astra",
+        "Rounds": 164,
+        "ACS+": 112,
+        "rating": 0.81
+    },
+    {
+        "Player-Agent": "xavi8k-astra",
+        "Rounds": 527,
+        "ACS+": 107,
+        "rating": 1.09
+    },
+    {
+        "Player-Agent": "monyet-astra",
+        "Rounds": 76,
+        "ACS+": 126,
+        "rating": 1.16
+    },
+    {
+        "Player-Agent": "crws-astra",
+        "Rounds": 183,
+        "ACS+": 96,
+        "rating": 0.87
+    },
+    {
+        "Player-Agent": "oonzmlp-astra",
+        "Rounds": 19,
+        "ACS+": 116,
+        "rating": 1.02
+    },
+    {
+        "Player-Agent": "karon-astra",
+        "Rounds": 24,
+        "ACS+": 75,
+        "rating": 0.97
+    },
+    {
+        "Player-Agent": "profek-astra",
+        "Rounds": 342,
+        "ACS+": 101,
+        "rating": 1.09
+    },
+    {
+        "Player-Agent": "boo-astra",
+        "Rounds": 270,
+        "ACS+": 95,
+        "rating": 0.88
+    },
+    {
+        "Player-Agent": "audaz-astra",
+        "Rounds": 297,
+        "ACS+": 104,
+        "rating": 0.9
+    },
+    {
+        "Player-Agent": "boaster-astra",
+        "Rounds": 426,
+        "ACS+": 78,
+        "rating": 0.75
+    },
+    {
+        "Player-Agent": "trexx-astra",
+        "Rounds": 19,
+        "ACS+": 87,
+        "rating": 0.75
+    },
+    {
+        "Player-Agent": "ethan-astra",
+        "Rounds": 63,
+        "ACS+": 102,
+        "rating": 0.87
+    },
+    {
+        "Player-Agent": "yetujey-astra",
+        "Rounds": 50,
+        "ACS+": 130,
+        "rating": 1.08
+    },
+    {
+        "Player-Agent": "chichoo-astra",
+        "Rounds": 48,
+        "ACS+": 99,
+        "rating": 1.03
+    },
+    {
+        "Player-Agent": "skuba-astra",
+        "Rounds": 260,
+        "ACS+": 105,
+        "rating": 0.98
+    },
+    {
+        "Player-Agent": "lysoar-astra",
+        "Rounds": 19,
+        "ACS+": 98,
+        "rating": 0.88
+    },
+    {
+        "Player-Agent": "leviathan-astra",
+        "Rounds": 107,
+        "ACS+": 104,
+        "rating": 1.2
+    },
+    {
+        "Player-Agent": "flex1n-astra",
+        "Rounds": 40,
+        "ACS+": 65,
+        "rating": 0.61
+    },
+    {
+        "Player-Agent": "demon1-astra",
+        "Rounds": 54,
+        "ACS+": 128,
+        "rating": 1.04
+    },
+    {
+        "Player-Agent": "darker-astra",
+        "Rounds": 116,
+        "ACS+": 128,
+        "rating": 0.95
+    },
+    {
+        "Player-Agent": "supamen-astra",
+        "Rounds": 163,
+        "ACS+": 92,
+        "rating": 0.9
+    },
+    {
+        "Player-Agent": "mazino-astra",
+        "Rounds": 151,
+        "ACS+": 117,
+        "rating": 0.98
+    },
+    {
+        "Player-Agent": "leaf-astra",
+        "Rounds": 193,
+        "ACS+": 108,
+        "rating": 1.19
+    },
+    {
+        "Player-Agent": "tex-astra",
+        "Rounds": 107,
+        "ACS+": 93,
+        "rating": 0.72
+    },
+    {
+        "Player-Agent": "nerve-astra",
+        "Rounds": 117,
+        "ACS+": 92,
+        "rating": 0.98
+    },
+    {
+        "Player-Agent": "bang-astra",
+        "Rounds": 177,
+        "ACS+": 99,
+        "rating": 1.16
+    },
+    {
+        "Player-Agent": "artzin-astra",
+        "Rounds": 181,
+        "ACS+": 109,
+        "rating": 1.05
+    },
+    {
+        "Player-Agent": "v1c-astra",
+        "Rounds": 236,
+        "ACS+": 97,
+        "rating": 1.01
+    },
+    {
+        "Player-Agent": "ruxic-astra",
+        "Rounds": 45,
+        "ACS+": 125,
+        "rating": 1.26
+    },
+    {
+        "Player-Agent": "sociablee-astra",
+        "Rounds": 73,
+        "ACS+": 132,
+        "rating": 1.24
+    },
+    {
+        "Player-Agent": "grubinho-astra",
+        "Rounds": 210,
+        "ACS+": 110,
+        "rating": 0.98
+    },
+    {
+        "Player-Agent": "wayne-astra",
+        "Rounds": 185,
+        "ACS+": 102,
+        "rating": 1.15
+    },
+    {
+        "Player-Agent": "qpert-astra",
+        "Rounds": 199,
+        "ACS+": 95,
+        "rating": 1.01
+    },
+    {
+        "Player-Agent": "suygetsu-astra",
+        "Rounds": 121,
+        "ACS+": 104,
+        "rating": 1.11
+    },
+    {
+        "Player-Agent": "dos9-astra",
+        "Rounds": 148,
+        "ACS+": 100,
+        "rating": 0.99
+    },
+    {
+        "Player-Agent": "rb-astra",
+        "Rounds": 63,
+        "ACS+": 101,
+        "rating": 1.26
+    },
+    {
+        "Player-Agent": "f0rsaken-astra",
+        "Rounds": 211,
+        "ACS+": 121,
+        "rating": 0.94
+    },
+    {
+        "Player-Agent": "mako-astra",
+        "Rounds": 119,
+        "ACS+": 108,
+        "rating": 0.71
+    },
+    {
+        "Player-Agent": "munchkin-astra",
+        "Rounds": 229,
+        "ACS+": 97,
+        "rating": 1.06
+    },
+    {
+        "Player-Agent": "yatsuka-astra",
+        "Rounds": 46,
+        "ACS+": 79,
+        "rating": 1.05
+    },
+    {
+        "Player-Agent": "c1nder-astra",
+        "Rounds": 188,
+        "ACS+": 82,
+        "rating": 0.62
+    },
+    {
+        "Player-Agent": "crazyguy-astra",
+        "Rounds": 141,
+        "ACS+": 84,
+        "rating": 0.87
+    },
+    {
+        "Player-Agent": "ssees-astra",
+        "Rounds": 207,
+        "ACS+": 93,
+        "rating": 0.91
+    },
+    {
+        "Player-Agent": "ash-astra",
+        "Rounds": 219,
+        "ACS+": 93,
+        "rating": 1.0
+    },
+    {
+        "Player-Agent": "xffero-astra",
+        "Rounds": 104,
+        "ACS+": 80,
+        "rating": 0.91
+    },
+    {
+        "Player-Agent": "kitae-astra",
+        "Rounds": 47,
+        "ACS+": 71,
+        "rating": 0.69
+    },
+    {
+        "Player-Agent": "sugarz3ro-astra",
+        "Rounds": 18,
+        "ACS+": 47,
+        "rating": 0.46
+    },
+    {
+        "Player-Agent": "happywei-astra",
+        "Rounds": 44,
+        "ACS+": 106,
+        "rating": 1.06
+    },
+    {
+        "Player-Agent": "smoggy-astra",
+        "Rounds": 20,
+        "ACS+": 90,
+        "rating": 0.86
+    },
+    {
+        "Player-Agent": "ivy-astra",
+        "Rounds": 64,
+        "ACS+": 105,
+        "rating": 1.25
+    },
+    {
+        "Player-Agent": "k1ra-astra",
+        "Rounds": 55,
+        "ACS+": 93,
+        "rating": 0.73
+    },
+    {
+        "Player-Agent": "nats-astra",
+        "Rounds": 57,
+        "ACS+": 104,
+        "rating": 0.96
+    },
+    {
+        "Player-Agent": "d4v41-astra",
+        "Rounds": 46,
+        "ACS+": 65,
+        "rating": 0.48
+    },
+    {
+        "Player-Agent": "meteor-astra",
+        "Rounds": 97,
+        "ACS+": 122,
+        "rating": 1.34
+    },
+    {
+        "Player-Agent": "johnqt-astra",
+        "Rounds": 48,
+        "ACS+": 133,
+        "rating": 1.5
+    },
+    {
+        "Player-Agent": "cryocells-astra",
+        "Rounds": 24,
+        "ACS+": 123,
+        "rating": 1.13
+    },
+    {
+        "Player-Agent": "inspire-astra",
+        "Rounds": 65,
+        "ACS+": 114,
+        "rating": 1.12
+    },
+    {
+        "Player-Agent": "beng-astra",
+        "Rounds": 108,
+        "ACS+": 107,
+        "rating": 1.06
+    },
+    {
+        "Player-Agent": "pancada-astra",
+        "Rounds": 65,
+        "ACS+": 97,
+        "rating": 1.02
+    },
+    {
+        "Player-Agent": "zekken-astra",
+        "Rounds": 39,
+        "ACS+": 78,
+        "rating": 0.91
+    },
+    {
+        "Player-Agent": "keiko-astra",
+        "Rounds": 68,
+        "ACS+": 93,
+        "rating": 0.88
+    },
+    {
+        "Player-Agent": "cortezia-astra",
+        "Rounds": 21,
+        "ACS+": 69,
+        "rating": 0.81
+    },
+    {
+        "Player-Agent": "al0rante-astra",
+        "Rounds": 23,
+        "ACS+": 159,
+        "rating": 1.26
+    },
+    {
+        "Player-Agent": "mrfalin-astra",
+        "Rounds": 51,
+        "ACS+": 112,
+        "rating": 1.15
+    },
+    {
+        "Player-Agent": "kicks-astra",
+        "Rounds": 24,
+        "ACS+": 77,
+        "rating": 0.85
+    },
+    {
+        "Player-Agent": "shao-astra",
+        "Rounds": 56,
+        "ACS+": 80,
+        "rating": 0.81
+    },
+    {
+        "Player-Agent": "baha-astra",
+        "Rounds": 91,
+        "ACS+": 88,
+        "rating": 0.66
+    },
+    {
+        "Player-Agent": "sturnn-astra",
+        "Rounds": 30,
+        "ACS+": 71,
+        "rating": 0.44
+    },
+    {
+        "Player-Agent": "free1ng-astra",
+        "Rounds": 46,
+        "ACS+": 92,
+        "rating": 0.99
+    },
+    {
+        "Player-Agent": "syouta-astra",
+        "Rounds": 46,
+        "ACS+": 105,
+        "rating": 0.98
+    },
+    {
+        "Player-Agent": "francis-breach",
+        "Rounds": 148,
+        "ACS+": 125,
+        "rating": 1.1
+    },
+    {
+        "Player-Agent": "invy-breach",
+        "Rounds": 171,
+        "ACS+": 111,
+        "rating": 0.99
+    },
+    {
+        "Player-Agent": "basic-breach",
+        "Rounds": 58,
+        "ACS+": 141,
+        "rating": 1.29
+    },
+    {
+        "Player-Agent": "eko-breach",
+        "Rounds": 42,
+        "ACS+": 139,
+        "rating": 1.21
+    },
+    {
+        "Player-Agent": "yatsuka-breach",
+        "Rounds": 62,
+        "ACS+": 94,
+        "rating": 0.87
+    },
+    {
+        "Player-Agent": "flickless-breach",
+        "Rounds": 102,
+        "ACS+": 91,
+        "rating": 0.86
+    },
+    {
+        "Player-Agent": "kingg-breach",
+        "Rounds": 99,
+        "ACS+": 107,
+        "rating": 1.06
+    },
+    {
+        "Player-Agent": "bao-breach",
+        "Rounds": 21,
+        "ACS+": 112,
+        "rating": 0.81
+    },
+    {
+        "Player-Agent": "rossy-breach",
+        "Rounds": 17,
+        "ACS+": 69,
+        "rating": 0.49
+    },
+    {
+        "Player-Agent": "minny-breach",
+        "Rounds": 39,
+        "ACS+": 114,
+        "rating": 1.18
+    },
+    {
+        "Player-Agent": "lar0k-breach",
+        "Rounds": 63,
+        "ACS+": 101,
+        "rating": 0.92
+    },
+    {
+        "Player-Agent": "favian-breach",
+        "Rounds": 73,
+        "ACS+": 105,
+        "rating": 0.87
+    },
+    {
+        "Player-Agent": "krostaly-breach",
+        "Rounds": 22,
+        "ACS+": 64,
+        "rating": 0.5
+    },
+    {
+        "Player-Agent": "purp0-breach",
+        "Rounds": 30,
+        "ACS+": 84,
+        "rating": 0.67
+    },
+    {
+        "Player-Agent": "oonzmlp-breach",
+        "Rounds": 22,
+        "ACS+": 188,
+        "rating": 1.68
+    },
+    {
+        "Player-Agent": "beyn-breach",
+        "Rounds": 163,
+        "ACS+": 122,
+        "rating": 1.09
+    },
+    {
+        "Player-Agent": "xdll-breach",
+        "Rounds": 38,
+        "ACS+": 74,
+        "rating": 0.69
+    },
+    {
+        "Player-Agent": "xavi8k-breach",
+        "Rounds": 21,
+        "ACS+": 68,
+        "rating": 0.59
+    },
+    {
+        "Player-Agent": "lakia-breach",
+        "Rounds": 16,
+        "ACS+": 67,
+        "rating": 0.37
+    },
+    {
+        "Player-Agent": "c1nder-breach",
+        "Rounds": 22,
+        "ACS+": 44,
+        "rating": 0.35
+    },
+    {
+        "Player-Agent": "leaf-breach",
+        "Rounds": 57,
+        "ACS+": 134,
+        "rating": 1.08
+    },
+    {
+        "Player-Agent": "kyu-breach",
+        "Rounds": 21,
+        "ACS+": 87,
+        "rating": 0.99
+    },
+    {
+        "Player-Agent": "okeanos-breach",
+        "Rounds": 69,
+        "ACS+": 94,
+        "rating": 0.85
+    },
+    {
+        "Player-Agent": "zellsis-breach",
+        "Rounds": 61,
+        "ACS+": 65,
+        "rating": 0.6
+    },
+    {
+        "Player-Agent": "sturnn-breach",
+        "Rounds": 21,
+        "ACS+": 99,
+        "rating": 0.69
+    },
+    {
+        "Player-Agent": "something-brimstone",
+        "Rounds": 127,
+        "ACS+": 106,
+        "rating": 0.88
+    },
+    {
+        "Player-Agent": "brawk-brimstone",
+        "Rounds": 179,
+        "ACS+": 96,
+        "rating": 1.03
+    },
+    {
+        "Player-Agent": "verno-brimstone",
+        "Rounds": 15,
+        "ACS+": 110,
+        "rating": 0.87
+    },
+    {
+        "Player-Agent": "dos9-brimstone",
+        "Rounds": 63,
+        "ACS+": 99,
+        "rating": 1.01
+    },
+    {
+        "Player-Agent": "keiko-brimstone",
+        "Rounds": 82,
+        "ACS+": 99,
+        "rating": 0.89
+    },
+    {
+        "Player-Agent": "sylvan-brimstone",
+        "Rounds": 110,
+        "ACS+": 117,
+        "rating": 0.92
+    },
+    {
+        "Player-Agent": "profek-brimstone",
+        "Rounds": 103,
+        "ACS+": 121,
+        "rating": 0.99
+    },
+    {
+        "Player-Agent": "lysoar-brimstone",
+        "Rounds": 22,
+        "ACS+": 137,
+        "rating": 1.34
+    },
+    {
+        "Player-Agent": "flex1n-brimstone",
+        "Rounds": 22,
+        "ACS+": 113,
+        "rating": 1.2
+    },
+    {
+        "Player-Agent": "jieni7-brimstone",
+        "Rounds": 44,
+        "ACS+": 96,
+        "rating": 1.1
+    },
+    {
+        "Player-Agent": "neon-brimstone",
+        "Rounds": 158,
+        "ACS+": 122,
+        "rating": 1.29
+    },
+    {
+        "Player-Agent": "sociablee-brimstone",
+        "Rounds": 167,
+        "ACS+": 109,
+        "rating": 1.21
+    },
+    {
+        "Player-Agent": "crws-brimstone",
+        "Rounds": 135,
+        "ACS+": 88,
+        "rating": 0.96
+    },
+    {
+        "Player-Agent": "asuna-brimstone",
+        "Rounds": 110,
+        "ACS+": 107,
+        "rating": 1.03
+    },
+    {
+        "Player-Agent": "saadhak-brimstone",
+        "Rounds": 36,
+        "ACS+": 121,
+        "rating": 1.2
+    },
+    {
+        "Player-Agent": "valyn-brimstone",
+        "Rounds": 117,
+        "ACS+": 116,
+        "rating": 1.29
+    },
+    {
+        "Player-Agent": "bao-brimstone",
+        "Rounds": 93,
+        "ACS+": 103,
+        "rating": 0.89
+    },
+    {
+        "Player-Agent": "mazino-brimstone",
+        "Rounds": 84,
+        "ACS+": 100,
+        "rating": 0.93
+    },
+    {
+        "Player-Agent": "supamen-brimstone",
+        "Rounds": 21,
+        "ACS+": 91,
+        "rating": 0.9
+    },
+    {
+        "Player-Agent": "bang-brimstone",
+        "Rounds": 46,
+        "ACS+": 81,
+        "rating": 0.87
+    },
+    {
+        "Player-Agent": "eggsterr-brimstone",
+        "Rounds": 34,
+        "ACS+": 95,
+        "rating": 0.79
+    },
+    {
+        "Player-Agent": "johnqt-brimstone",
+        "Rounds": 50,
+        "ACS+": 59,
+        "rating": 0.64
+    },
+    {
+        "Player-Agent": "erde-brimstone",
+        "Rounds": 16,
+        "ACS+": 89,
+        "rating": 0.68
+    },
+    {
+        "Player-Agent": "ruxic-brimstone",
+        "Rounds": 44,
+        "ACS+": 143,
+        "rating": 1.36
+    },
+    {
+        "Player-Agent": "boo-brimstone",
+        "Rounds": 187,
+        "ACS+": 98,
+        "rating": 0.97
+    },
+    {
+        "Player-Agent": "boaster-brimstone",
+        "Rounds": 195,
+        "ACS+": 85,
+        "rating": 0.91
+    },
+    {
+        "Player-Agent": "audaz-brimstone",
+        "Rounds": 101,
+        "ACS+": 104,
+        "rating": 1.12
+    },
+    {
+        "Player-Agent": "wayne-brimstone",
+        "Rounds": 204,
+        "ACS+": 108,
+        "rating": 1.09
+    },
+    {
+        "Player-Agent": "glyph-brimstone",
+        "Rounds": 60,
+        "ACS+": 98,
+        "rating": 0.95
+    },
+    {
+        "Player-Agent": "loita-brimstone",
+        "Rounds": 18,
+        "ACS+": 86,
+        "rating": 0.82
+    },
+    {
+        "Player-Agent": "filu-brimstone",
+        "Rounds": 22,
+        "ACS+": 74,
+        "rating": 0.77
+    },
+    {
+        "Player-Agent": "grubinho-brimstone",
+        "Rounds": 99,
+        "ACS+": 78,
+        "rating": 0.81
+    },
+    {
+        "Player-Agent": "mako-brimstone",
+        "Rounds": 156,
+        "ACS+": 106,
+        "rating": 0.78
+    },
+    {
+        "Player-Agent": "munchkin-brimstone",
+        "Rounds": 120,
+        "ACS+": 106,
+        "rating": 1.03
+    },
+    {
+        "Player-Agent": "crazyguy-brimstone",
+        "Rounds": 143,
+        "ACS+": 91,
+        "rating": 0.78
+    },
+    {
+        "Player-Agent": "xuna-brimstone",
+        "Rounds": 22,
+        "ACS+": 107,
+        "rating": 1.09
+    },
+    {
+        "Player-Agent": "sugarz3ro-brimstone",
+        "Rounds": 143,
+        "ACS+": 104,
+        "rating": 0.91
+    },
+    {
+        "Player-Agent": "f0rsaken-brimstone",
+        "Rounds": 109,
+        "ACS+": 112,
+        "rating": 1.16
+    },
+    {
+        "Player-Agent": "autumn-brimstone",
+        "Rounds": 66,
+        "ACS+": 107,
+        "rating": 1.03
+    },
+    {
+        "Player-Agent": "ssees-brimstone",
+        "Rounds": 108,
+        "ACS+": 91,
+        "rating": 1.14
+    },
+    {
+        "Player-Agent": "rb-brimstone",
+        "Rounds": 159,
+        "ACS+": 90,
+        "rating": 1.25
+    },
+    {
+        "Player-Agent": "c1nder-brimstone",
+        "Rounds": 68,
+        "ACS+": 88,
+        "rating": 1.07
+    },
+    {
+        "Player-Agent": "foxy9-brimstone",
+        "Rounds": 21,
+        "ACS+": 77,
+        "rating": 0.82
+    },
+    {
+        "Player-Agent": "ash-brimstone",
+        "Rounds": 16,
+        "ACS+": 78,
+        "rating": 0.51
+    },
+    {
+        "Player-Agent": "iamgrq-brimstone",
+        "Rounds": 21,
+        "ACS+": 113,
+        "rating": 1.3
+    },
+    {
+        "Player-Agent": "invy-brimstone",
+        "Rounds": 24,
+        "ACS+": 104,
+        "rating": 1.11
+    },
+    {
+        "Player-Agent": "smoggy-brimstone",
+        "Rounds": 14,
+        "ACS+": 86,
+        "rating": 0.71
+    },
+    {
+        "Player-Agent": "inspire-brimstone",
+        "Rounds": 22,
+        "ACS+": 132,
+        "rating": 1.3
+    },
+    {
+        "Player-Agent": "nagz-brimstone",
+        "Rounds": 22,
+        "ACS+": 95,
+        "rating": 1.28
+    },
+    {
+        "Player-Agent": "kingg-brimstone",
+        "Rounds": 83,
+        "ACS+": 120,
+        "rating": 1.14
+    },
+    {
+        "Player-Agent": "zellsis-brimstone",
+        "Rounds": 40,
+        "ACS+": 90,
+        "rating": 0.92
+    },
+    {
+        "Player-Agent": "pancada-brimstone",
+        "Rounds": 19,
+        "ACS+": 87,
+        "rating": 0.72
+    },
+    {
+        "Player-Agent": "beng-brimstone",
+        "Rounds": 17,
+        "ACS+": 58,
+        "rating": 0.57
+    },
+    {
+        "Player-Agent": "artzin-brimstone",
+        "Rounds": 21,
+        "ACS+": 59,
+        "rating": 0.4
+    },
+    {
+        "Player-Agent": "nats-brimstone",
+        "Rounds": 19,
+        "ACS+": 149,
+        "rating": 1.58
+    },
+    {
+        "Player-Agent": "al0rante-brimstone",
+        "Rounds": 62,
+        "ACS+": 124,
+        "rating": 1.2
+    },
+    {
+        "Player-Agent": "kicks-brimstone",
+        "Rounds": 26,
+        "ACS+": 99,
+        "rating": 1.16
+    },
+    {
+        "Player-Agent": "minny-brimstone",
+        "Rounds": 92,
+        "ACS+": 109,
+        "rating": 1.07
+    },
+    {
+        "Player-Agent": "shao-brimstone",
+        "Rounds": 77,
+        "ACS+": 95,
+        "rating": 0.8
+    },
+    {
+        "Player-Agent": "xffero-brimstone",
+        "Rounds": 60,
+        "ACS+": 99,
+        "rating": 0.98
+    },
+    {
+        "Player-Agent": "oonzmlp-brimstone",
+        "Rounds": 18,
+        "ACS+": 90,
+        "rating": 0.89
+    },
+    {
+        "Player-Agent": "d4v41-brimstone",
+        "Rounds": 21,
+        "ACS+": 86,
+        "rating": 0.87
+    },
+    {
+        "Player-Agent": "leviathan-brimstone",
+        "Rounds": 15,
+        "ACS+": 101,
+        "rating": 0.77
+    },
+    {
+        "Player-Agent": "jemkin-chamber",
+        "Rounds": 349,
+        "ACS+": 117,
+        "rating": 1.27
+    },
+    {
+        "Player-Agent": "wo0t-chamber",
+        "Rounds": 146,
+        "ACS+": 119,
+        "rating": 1.17
+    },
+    {
+        "Player-Agent": "keiko-chamber",
+        "Rounds": 202,
+        "ACS+": 104,
+        "rating": 1.04
+    },
+    {
+        "Player-Agent": "n4rrate-chamber",
+        "Rounds": 249,
+        "ACS+": 113,
+        "rating": 1.14
+    },
+    {
+        "Player-Agent": "babybay-chamber",
+        "Rounds": 457,
+        "ACS+": 99,
+        "rating": 1.45
+    },
+    {
+        "Player-Agent": "f4ngeer-chamber",
+        "Rounds": 85,
+        "ACS+": 102,
+        "rating": 1.04
+    },
+    {
+        "Player-Agent": "zmjjkk-chamber",
+        "Rounds": 97,
+        "ACS+": 104,
+        "rating": 1.19
+    },
+    {
+        "Player-Agent": "lukxo-chamber",
+        "Rounds": 215,
+        "ACS+": 124,
+        "rating": 1.43
+    },
+    {
+        "Player-Agent": "shyy-chamber",
+        "Rounds": 46,
+        "ACS+": 97,
+        "rating": 1.12
+    },
+    {
+        "Player-Agent": "neon-chamber",
+        "Rounds": 567,
+        "ACS+": 106,
+        "rating": 0.84
+    },
+    {
+        "Player-Agent": "demon1-chamber",
+        "Rounds": 278,
+        "ACS+": 112,
+        "rating": 1.24
+    },
+    {
+        "Player-Agent": "fireballops-chamber",
+        "Rounds": 21,
+        "ACS+": 123,
+        "rating": 0.99
+    },
+    {
+        "Player-Agent": "cortezia-chamber",
+        "Rounds": 24,
+        "ACS+": 76,
+        "rating": 0.81
+    },
+    {
+        "Player-Agent": "meteor-chamber",
+        "Rounds": 109,
+        "ACS+": 121,
+        "rating": 1.23
+    },
+    {
+        "Player-Agent": "t3xture-chamber",
+        "Rounds": 270,
+        "ACS+": 118,
+        "rating": 1.25
+    },
+    {
+        "Player-Agent": "foxy9-chamber",
+        "Rounds": 21,
+        "ACS+": 109,
+        "rating": 1.06
+    },
+    {
+        "Player-Agent": "primmie-chamber",
+        "Rounds": 43,
+        "ACS+": 96,
+        "rating": 0.95
+    },
+    {
+        "Player-Agent": "d4v41-chamber",
+        "Rounds": 243,
+        "ACS+": 109,
+        "rating": 1.23
+    },
+    {
+        "Player-Agent": "xffero-chamber",
+        "Rounds": 40,
+        "ACS+": 107,
+        "rating": 0.96
+    },
+    {
+        "Player-Agent": "free1ng-chamber",
+        "Rounds": 14,
+        "ACS+": 59,
+        "rating": 0.47
+    },
+    {
+        "Player-Agent": "hiro-chamber",
+        "Rounds": 26,
+        "ACS+": 117,
+        "rating": 1.38
+    },
+    {
+        "Player-Agent": "ninja-chamber",
+        "Rounds": 112,
+        "ACS+": 112,
+        "rating": 1.15
+    },
+    {
+        "Player-Agent": "chronicle-chamber",
+        "Rounds": 284,
+        "ACS+": 106,
+        "rating": 1.29
+    },
+    {
+        "Player-Agent": "alfajer-chamber",
+        "Rounds": 71,
+        "ACS+": 112,
+        "rating": 0.99
+    },
+    {
+        "Player-Agent": "xeus-chamber",
+        "Rounds": 45,
+        "ACS+": 113,
+        "rating": 1.22
+    },
+    {
+        "Player-Agent": "purp0-chamber",
+        "Rounds": 15,
+        "ACS+": 62,
+        "rating": 0.37
+    },
+    {
+        "Player-Agent": "udotan-chamber",
+        "Rounds": 48,
+        "ACS+": 111,
+        "rating": 0.72
+    },
+    {
+        "Player-Agent": "s0pp-chamber",
+        "Rounds": 50,
+        "ACS+": 113,
+        "rating": 1.16
+    },
+    {
+        "Player-Agent": "life-chamber",
+        "Rounds": 34,
+        "ACS+": 105,
+        "rating": 0.95
+    },
+    {
+        "Player-Agent": "autumn-chamber",
+        "Rounds": 169,
+        "ACS+": 99,
+        "rating": 1.19
+    },
+    {
+        "Player-Agent": "leviathan-chamber",
+        "Rounds": 20,
+        "ACS+": 74,
+        "rating": 0.5
+    },
+    {
+        "Player-Agent": "cryocells-chamber",
+        "Rounds": 245,
+        "ACS+": 110,
+        "rating": 1.17
+    },
+    {
+        "Player-Agent": "dgzin-chamber",
+        "Rounds": 21,
+        "ACS+": 107,
+        "rating": 1.09
+    },
+    {
+        "Player-Agent": "silentzz-chamber",
+        "Rounds": 22,
+        "ACS+": 78,
+        "rating": 1.08
+    },
+    {
+        "Player-Agent": "tex-chamber",
+        "Rounds": 37,
+        "ACS+": 66,
+        "rating": 0.55
+    },
+    {
+        "Player-Agent": "penny-chamber",
+        "Rounds": 34,
+        "ACS+": 53,
+        "rating": 0.64
+    },
+    {
+        "Player-Agent": "filu-chamber",
+        "Rounds": 110,
+        "ACS+": 96,
+        "rating": 1.08
+    },
+    {
+        "Player-Agent": "cned-chamber",
+        "Rounds": 21,
+        "ACS+": 121,
+        "rating": 0.96
+    },
+    {
+        "Player-Agent": "comeback-chamber",
+        "Rounds": 110,
+        "ACS+": 97,
+        "rating": 0.96
+    },
+    {
+        "Player-Agent": "westside-chamber",
+        "Rounds": 77,
+        "ACS+": 90,
+        "rating": 0.79
+    },
+    {
+        "Player-Agent": "koshmaras-chamber",
+        "Rounds": 44,
+        "ACS+": 74,
+        "rating": 0.66
+    },
+    {
+        "Player-Agent": "oonzmlp-chamber",
+        "Rounds": 42,
+        "ACS+": 127,
+        "rating": 1.3
+    },
+    {
+        "Player-Agent": "izu-chamber",
+        "Rounds": 171,
+        "ACS+": 113,
+        "rating": 1.21
+    },
+    {
+        "Player-Agent": "kellys-chamber",
+        "Rounds": 36,
+        "ACS+": 116,
+        "rating": 1.15
+    },
+    {
+        "Player-Agent": "yong-chamber",
+        "Rounds": 156,
+        "ACS+": 97,
+        "rating": 0.94
+    },
+    {
+        "Player-Agent": "ivy-chamber",
+        "Rounds": 89,
+        "ACS+": 79,
+        "rating": 0.86
+    },
+    {
+        "Player-Agent": "klaus-chamber",
+        "Rounds": 45,
+        "ACS+": 79,
+        "rating": 0.79
+    },
+    {
+        "Player-Agent": "koalanoob-chamber",
+        "Rounds": 23,
+        "ACS+": 147,
+        "rating": 1.45
+    },
+    {
+        "Player-Agent": "oxy-chamber",
+        "Rounds": 90,
+        "ACS+": 122,
+        "rating": 1.21
+    },
+    {
+        "Player-Agent": "pxs-chamber",
+        "Rounds": 39,
+        "ACS+": 80,
+        "rating": 1.03
+    },
+    {
+        "Player-Agent": "nagz-chamber",
+        "Rounds": 39,
+        "ACS+": 83,
+        "rating": 0.98
+    },
+    {
+        "Player-Agent": "infiltrator-chamber",
+        "Rounds": 17,
+        "ACS+": 70,
+        "rating": 0.49
+    },
+    {
+        "Player-Agent": "ruxic-chamber",
+        "Rounds": 66,
+        "ACS+": 116,
+        "rating": 1.2
+    },
+    {
+        "Player-Agent": "yetujey-chamber",
+        "Rounds": 20,
+        "ACS+": 102,
+        "rating": 1.03
+    },
+    {
+        "Player-Agent": "favian-chamber",
+        "Rounds": 21,
+        "ACS+": 76,
+        "rating": 0.74
+    },
+    {
+        "Player-Agent": "sturnn-chamber",
+        "Rounds": 26,
+        "ACS+": 78,
+        "rating": 0.66
+    },
+    {
+        "Player-Agent": "yatsuka-chamber",
+        "Rounds": 84,
+        "ACS+": 103,
+        "rating": 1.02
+    },
+    {
+        "Player-Agent": "something-chamber",
+        "Rounds": 23,
+        "ACS+": 78,
+        "rating": 0.99
+    },
+    {
+        "Player-Agent": "keznit-clove",
+        "Rounds": 16,
+        "ACS+": 100,
+        "rating": 1.84
+    },
+    {
+        "Player-Agent": "cryocells-cypher",
+        "Rounds": 637,
+        "ACS+": 106,
+        "rating": 1.0
+    },
+    {
+        "Player-Agent": "crewen-cypher",
+        "Rounds": 839,
+        "ACS+": 100,
+        "rating": 0.84
+    },
+    {
+        "Player-Agent": "kr1stal-cypher",
+        "Rounds": 52,
+        "ACS+": 81,
+        "rating": 0.61
+    },
+    {
+        "Player-Agent": "bipo-cypher",
+        "Rounds": 393,
+        "ACS+": 85,
+        "rating": 0.79
+    },
+    {
+        "Player-Agent": "chichoo-cypher",
+        "Rounds": 62,
+        "ACS+": 99,
+        "rating": 1.07
+    },
+    {
+        "Player-Agent": "ivy-cypher",
+        "Rounds": 427,
+        "ACS+": 102,
+        "rating": 1.05
+    },
+    {
+        "Player-Agent": "suygetsu-cypher",
+        "Rounds": 339,
+        "ACS+": 97,
+        "rating": 0.95
+    },
+    {
+        "Player-Agent": "benjyfishy-cypher",
+        "Rounds": 690,
+        "ACS+": 98,
+        "rating": 0.99
+    },
+    {
+        "Player-Agent": "leaf-cypher",
+        "Rounds": 46,
+        "ACS+": 108,
+        "rating": 1.02
+    },
+    {
+        "Player-Agent": "tex-cypher",
+        "Rounds": 442,
+        "ACS+": 92,
+        "rating": 0.79
+    },
+    {
+        "Player-Agent": "bai-cypher",
+        "Rounds": 26,
+        "ACS+": 86,
+        "rating": 0.85
+    },
+    {
+        "Player-Agent": "skuba-cypher",
+        "Rounds": 299,
+        "ACS+": 95,
+        "rating": 0.93
+    },
+    {
+        "Player-Agent": "autumn-cypher",
+        "Rounds": 104,
+        "ACS+": 89,
+        "rating": 0.84
+    },
+    {
+        "Player-Agent": "rossy-cypher",
+        "Rounds": 22,
+        "ACS+": 133,
+        "rating": 1.33
+    },
+    {
+        "Player-Agent": "johnqt-cypher",
+        "Rounds": 49,
+        "ACS+": 112,
+        "rating": 1.19
+    },
+    {
+        "Player-Agent": "bao-cypher",
+        "Rounds": 44,
+        "ACS+": 116,
+        "rating": 1.12
+    },
+    {
+        "Player-Agent": "darker-cypher",
+        "Rounds": 69,
+        "ACS+": 92,
+        "rating": 0.37
+    },
+    {
+        "Player-Agent": "zellsis-cypher",
+        "Rounds": 24,
+        "ACS+": 99,
+        "rating": 1.07
+    },
+    {
+        "Player-Agent": "fireballops-cypher",
+        "Rounds": 95,
+        "ACS+": 110,
+        "rating": 1.04
+    },
+    {
+        "Player-Agent": "shyy-cypher",
+        "Rounds": 108,
+        "ACS+": 95,
+        "rating": 0.92
+    },
+    {
+        "Player-Agent": "keiko-cypher",
+        "Rounds": 22,
+        "ACS+": 88,
+        "rating": 0.89
+    },
+    {
+        "Player-Agent": "less-cypher",
+        "Rounds": 151,
+        "ACS+": 122,
+        "rating": 1.38
+    },
+    {
+        "Player-Agent": "cortezia-cypher",
+        "Rounds": 45,
+        "ACS+": 74,
+        "rating": 0.94
+    },
+    {
+        "Player-Agent": "demon1-cypher",
+        "Rounds": 17,
+        "ACS+": 46,
+        "rating": 0.36
+    },
+    {
+        "Player-Agent": "oonzmlp-cypher",
+        "Rounds": 70,
+        "ACS+": 104,
+        "rating": 0.77
+    },
+    {
+        "Player-Agent": "xavi8k-cypher",
+        "Rounds": 42,
+        "ACS+": 126,
+        "rating": 1.28
+    },
+    {
+        "Player-Agent": "foxy9-cypher",
+        "Rounds": 131,
+        "ACS+": 131,
+        "rating": 1.26
+    },
+    {
+        "Player-Agent": "syouta-cypher",
+        "Rounds": 221,
+        "ACS+": 95,
+        "rating": 0.71
+    },
+    {
+        "Player-Agent": "free1ng-cypher",
+        "Rounds": 106,
+        "ACS+": 102,
+        "rating": 1.36
+    },
+    {
+        "Player-Agent": "xffero-cypher",
+        "Rounds": 242,
+        "ACS+": 109,
+        "rating": 1.0
+    },
+    {
+        "Player-Agent": "caedye-cypher",
+        "Rounds": 251,
+        "ACS+": 107,
+        "rating": 0.95
+    },
+    {
+        "Player-Agent": "skye-cypher",
+        "Rounds": 44,
+        "ACS+": 101,
+        "rating": 0.9
+    },
+    {
+        "Player-Agent": "dh-cypher",
+        "Rounds": 42,
+        "ACS+": 93,
+        "rating": 0.85
+    },
+    {
+        "Player-Agent": "natz-cypher",
+        "Rounds": 119,
+        "ACS+": 95,
+        "rating": 0.8
+    },
+    {
+        "Player-Agent": "seph1roth-cypher",
+        "Rounds": 102,
+        "ACS+": 78,
+        "rating": 0.79
+    },
+    {
+        "Player-Agent": "raxcal-cypher",
+        "Rounds": 21,
+        "ACS+": 89,
+        "rating": 0.66
+    },
+    {
+        "Player-Agent": "jitboys-cypher",
+        "Rounds": 185,
+        "ACS+": 84,
+        "rating": 0.86
+    },
+    {
+        "Player-Agent": "westside-cypher",
+        "Rounds": 152,
+        "ACS+": 111,
+        "rating": 0.92
+    },
+    {
+        "Player-Agent": "hiro-cypher",
+        "Rounds": 112,
+        "ACS+": 110,
+        "rating": 1.38
+    },
+    {
+        "Player-Agent": "yetujey-cypher",
+        "Rounds": 551,
+        "ACS+": 96,
+        "rating": 0.67
+    },
+    {
+        "Player-Agent": "nats-cypher",
+        "Rounds": 340,
+        "ACS+": 96,
+        "rating": 0.89
+    },
+    {
+        "Player-Agent": "alfajer-cypher",
+        "Rounds": 161,
+        "ACS+": 102,
+        "rating": 0.96
+    },
+    {
+        "Player-Agent": "chronicle-cypher",
+        "Rounds": 137,
+        "ACS+": 96,
+        "rating": 0.71
+    },
+    {
+        "Player-Agent": "al0rante-cypher",
+        "Rounds": 70,
+        "ACS+": 96,
+        "rating": 0.81
+    },
+    {
+        "Player-Agent": "echo-cypher",
+        "Rounds": 325,
+        "ACS+": 109,
+        "rating": 1.02
+    },
+    {
+        "Player-Agent": "flickless-cypher",
+        "Rounds": 122,
+        "ACS+": 93,
+        "rating": 1.16
+    },
+    {
+        "Player-Agent": "vo0kashu-cypher",
+        "Rounds": 57,
+        "ACS+": 148,
+        "rating": 1.37
+    },
+    {
+        "Player-Agent": "happywei-cypher",
+        "Rounds": 204,
+        "ACS+": 106,
+        "rating": 0.98
+    },
+    {
+        "Player-Agent": "leviathan-cypher",
+        "Rounds": 153,
+        "ACS+": 75,
+        "rating": 0.77
+    },
+    {
+        "Player-Agent": "jieni7-cypher",
+        "Rounds": 35,
+        "ACS+": 75,
+        "rating": 0.53
+    },
+    {
+        "Player-Agent": "keznit-cypher",
+        "Rounds": 14,
+        "ACS+": 125,
+        "rating": 1.33
+    },
+    {
+        "Player-Agent": "artzin-cypher",
+        "Rounds": 85,
+        "ACS+": 115,
+        "rating": 1.07
+    },
+    {
+        "Player-Agent": "minny-cypher",
+        "Rounds": 377,
+        "ACS+": 109,
+        "rating": 1.13
+    },
+    {
+        "Player-Agent": "xdll-cypher",
+        "Rounds": 22,
+        "ACS+": 115,
+        "rating": 1.1
+    },
+    {
+        "Player-Agent": "klaus-cypher",
+        "Rounds": 83,
+        "ACS+": 102,
+        "rating": 1.08
+    },
+    {
+        "Player-Agent": "karon-cypher",
+        "Rounds": 84,
+        "ACS+": 108,
+        "rating": 1.17
+    },
+    {
+        "Player-Agent": "berserx-cypher",
+        "Rounds": 129,
+        "ACS+": 88,
+        "rating": 0.93
+    },
+    {
+        "Player-Agent": "yong-cypher",
+        "Rounds": 123,
+        "ACS+": 98,
+        "rating": 0.92
+    },
+    {
+        "Player-Agent": "hermes-cypher",
+        "Rounds": 64,
+        "ACS+": 92,
+        "rating": 0.9
+    },
+    {
+        "Player-Agent": "zynx-cypher",
+        "Rounds": 17,
+        "ACS+": 58,
+        "rating": 0.43
+    },
+    {
+        "Player-Agent": "izu-cypher",
+        "Rounds": 30,
+        "ACS+": 139,
+        "rating": 1.22
+    },
+    {
+        "Player-Agent": "lar0k-deadlock",
+        "Rounds": 169,
+        "ACS+": 110,
+        "rating": 0.85
+    },
+    {
+        "Player-Agent": "kr1stal-deadlock",
+        "Rounds": 192,
+        "ACS+": 80,
+        "rating": 0.82
+    },
+    {
+        "Player-Agent": "basic-deadlock",
+        "Rounds": 36,
+        "ACS+": 143,
+        "rating": 1.54
+    },
+    {
+        "Player-Agent": "oonzmlp-deadlock",
+        "Rounds": 69,
+        "ACS+": 125,
+        "rating": 1.31
+    },
+    {
+        "Player-Agent": "primmie-deadlock",
+        "Rounds": 66,
+        "ACS+": 86,
+        "rating": 0.85
+    },
+    {
+        "Player-Agent": "crws-deadlock",
+        "Rounds": 85,
+        "ACS+": 79,
+        "rating": 0.82
+    },
+    {
+        "Player-Agent": "ninja-deadlock",
+        "Rounds": 75,
+        "ACS+": 95,
+        "rating": 0.81
+    },
+    {
+        "Player-Agent": "noman-deadlock",
+        "Rounds": 105,
+        "ACS+": 69,
+        "rating": 0.67
+    },
+    {
+        "Player-Agent": "brawk-deadlock",
+        "Rounds": 23,
+        "ACS+": 81,
+        "rating": 0.72
+    },
+    {
+        "Player-Agent": "seven-deadlock",
+        "Rounds": 24,
+        "ACS+": 130,
+        "rating": 1.33
+    },
+    {
+        "Player-Agent": "vora-fade",
+        "Rounds": 427,
+        "ACS+": 101,
+        "rating": 0.94
+    },
+    {
+        "Player-Agent": "starxo-fade",
+        "Rounds": 750,
+        "ACS+": 112,
+        "rating": 0.98
+    },
+    {
+        "Player-Agent": "riens-fade",
+        "Rounds": 594,
+        "ACS+": 115,
+        "rating": 0.84
+    },
+    {
+        "Player-Agent": "ethan-fade",
+        "Rounds": 454,
+        "ACS+": 110,
+        "rating": 0.84
+    },
+    {
+        "Player-Agent": "shr1mp-fade",
+        "Rounds": 156,
+        "ACS+": 102,
+        "rating": 0.99
+    },
+    {
+        "Player-Agent": "patmen-fade",
+        "Rounds": 234,
+        "ACS+": 124,
+        "rating": 0.9
+    },
+    {
+        "Player-Agent": "xross-fade",
+        "Rounds": 520,
+        "ACS+": 106,
+        "rating": 0.89
+    },
+    {
+        "Player-Agent": "francis-fade",
+        "Rounds": 87,
+        "ACS+": 83,
+        "rating": 0.63
+    },
+    {
+        "Player-Agent": "mazino-fade",
+        "Rounds": 73,
+        "ACS+": 103,
+        "rating": 0.82
+    },
+    {
+        "Player-Agent": "avez-fade",
+        "Rounds": 319,
+        "ACS+": 97,
+        "rating": 0.9
+    },
+    {
+        "Player-Agent": "brawk-fade",
+        "Rounds": 19,
+        "ACS+": 71,
+        "rating": 0.76
+    },
+    {
+        "Player-Agent": "invy-fade",
+        "Rounds": 744,
+        "ACS+": 111,
+        "rating": 0.94
+    },
+    {
+        "Player-Agent": "jamppi-fade",
+        "Rounds": 381,
+        "ACS+": 101,
+        "rating": 0.98
+    },
+    {
+        "Player-Agent": "ros-fade",
+        "Rounds": 372,
+        "ACS+": 85,
+        "rating": 0.68
+    },
+    {
+        "Player-Agent": "wsleo-fade",
+        "Rounds": 144,
+        "ACS+": 88,
+        "rating": 0.78
+    },
+    {
+        "Player-Agent": "blowz-fade",
+        "Rounds": 505,
+        "ACS+": 100,
+        "rating": 0.98
+    },
+    {
+        "Player-Agent": "davih-fade",
+        "Rounds": 62,
+        "ACS+": 97,
+        "rating": 1.01
+    },
+    {
+        "Player-Agent": "mwzera-fade",
+        "Rounds": 348,
+        "ACS+": 112,
+        "rating": 1.06
+    },
+    {
+        "Player-Agent": "jonahp-fade",
+        "Rounds": 185,
+        "ACS+": 96,
+        "rating": 0.75
+    },
+    {
+        "Player-Agent": "jackk-fade",
+        "Rounds": 187,
+        "ACS+": 86,
+        "rating": 0.8
+    },
+    {
+        "Player-Agent": "glyph-fade",
+        "Rounds": 37,
+        "ACS+": 81,
+        "rating": 0.71
+    },
+    {
+        "Player-Agent": "paincakes-fade",
+        "Rounds": 42,
+        "ACS+": 93,
+        "rating": 1.03
+    },
+    {
+        "Player-Agent": "killua-fade",
+        "Rounds": 491,
+        "ACS+": 115,
+        "rating": 1.02
+    },
+    {
+        "Player-Agent": "akame-fade",
+        "Rounds": 281,
+        "ACS+": 118,
+        "rating": 0.97
+    },
+    {
+        "Player-Agent": "xuna-fade",
+        "Rounds": 201,
+        "ACS+": 121,
+        "rating": 0.96
+    },
+    {
+        "Player-Agent": "crazyguy-fade",
+        "Rounds": 48,
+        "ACS+": 114,
+        "rating": 0.99
+    },
+    {
+        "Player-Agent": "beyn-fade",
+        "Rounds": 290,
+        "ACS+": 101,
+        "rating": 0.96
+    },
+    {
+        "Player-Agent": "efina-fade",
+        "Rounds": 183,
+        "ACS+": 85,
+        "rating": 0.81
+    },
+    {
+        "Player-Agent": "kushy-fade",
+        "Rounds": 159,
+        "ACS+": 115,
+        "rating": 1.07
+    },
+    {
+        "Player-Agent": "sayonara-fade",
+        "Rounds": 105,
+        "ACS+": 125,
+        "rating": 1.34
+    },
+    {
+        "Player-Agent": "net-fade",
+        "Rounds": 38,
+        "ACS+": 140,
+        "rating": 1.16
+    },
+    {
+        "Player-Agent": "trexx-fade",
+        "Rounds": 62,
+        "ACS+": 118,
+        "rating": 1.14
+    },
+    {
+        "Player-Agent": "crashies-fade",
+        "Rounds": 476,
+        "ACS+": 101,
+        "rating": 0.93
+    },
+    {
+        "Player-Agent": "boo-fade",
+        "Rounds": 38,
+        "ACS+": 98,
+        "rating": 0.96
+    },
+    {
+        "Player-Agent": "waddle-fade",
+        "Rounds": 135,
+        "ACS+": 102,
+        "rating": 0.9
+    },
+    {
+        "Player-Agent": "nekky-fade",
+        "Rounds": 450,
+        "ACS+": 112,
+        "rating": 1.02
+    },
+    {
+        "Player-Agent": "trent-fade",
+        "Rounds": 779,
+        "ACS+": 108,
+        "rating": 1.03
+    },
+    {
+        "Player-Agent": "nobody-fade",
+        "Rounds": 92,
+        "ACS+": 126,
+        "rating": 0.98
+    },
+    {
+        "Player-Agent": "nicc-fade",
+        "Rounds": 46,
+        "ACS+": 111,
+        "rating": 0.94
+    },
+    {
+        "Player-Agent": "krostaly-fade",
+        "Rounds": 386,
+        "ACS+": 100,
+        "rating": 1.0
+    },
+    {
+        "Player-Agent": "kr1stal-fade",
+        "Rounds": 295,
+        "ACS+": 95,
+        "rating": 0.9
+    },
+    {
+        "Player-Agent": "sociablee-fade",
+        "Rounds": 50,
+        "ACS+": 73,
+        "rating": 0.6
+    },
+    {
+        "Player-Agent": "verno-fade",
+        "Rounds": 288,
+        "ACS+": 110,
+        "rating": 1.06
+    },
+    {
+        "Player-Agent": "cauanzin-fade",
+        "Rounds": 91,
+        "ACS+": 79,
+        "rating": 0.58
+    },
+    {
+        "Player-Agent": "eeiu-fade",
+        "Rounds": 327,
+        "ACS+": 115,
+        "rating": 1.24
+    },
+    {
+        "Player-Agent": "c0m-fade",
+        "Rounds": 95,
+        "ACS+": 86,
+        "rating": 0.71
+    },
+    {
+        "Player-Agent": "p0ppin-fade",
+        "Rounds": 106,
+        "ACS+": 86,
+        "rating": 0.68
+    },
+    {
+        "Player-Agent": "purp0-fade",
+        "Rounds": 231,
+        "ACS+": 104,
+        "rating": 0.97
+    },
+    {
+        "Player-Agent": "chloric-fade",
+        "Rounds": 127,
+        "ACS+": 95,
+        "rating": 0.97
+    },
+    {
+        "Player-Agent": "n4rrate-fade",
+        "Rounds": 208,
+        "ACS+": 114,
+        "rating": 0.97
+    },
+    {
+        "Player-Agent": "ninja-fade",
+        "Rounds": 257,
+        "ACS+": 103,
+        "rating": 0.91
+    },
+    {
+        "Player-Agent": "flickless-fade",
+        "Rounds": 42,
+        "ACS+": 96,
+        "rating": 0.79
+    },
+    {
+        "Player-Agent": "hiro-fade",
+        "Rounds": 21,
+        "ACS+": 96,
+        "rating": 0.74
+    },
+    {
+        "Player-Agent": "cloud-fade",
+        "Rounds": 20,
+        "ACS+": 39,
+        "rating": 0.43
+    },
+    {
+        "Player-Agent": "stax-fade",
+        "Rounds": 298,
+        "ACS+": 103,
+        "rating": 0.81
+    },
+    {
+        "Player-Agent": "jessievash-fade",
+        "Rounds": 137,
+        "ACS+": 112,
+        "rating": 0.95
+    },
+    {
+        "Player-Agent": "lakia-fade",
+        "Rounds": 230,
+        "ACS+": 111,
+        "rating": 0.97
+    },
+    {
+        "Player-Agent": "yatsuka-fade",
+        "Rounds": 91,
+        "ACS+": 79,
+        "rating": 0.83
+    },
+    {
+        "Player-Agent": "eko-fade",
+        "Rounds": 20,
+        "ACS+": 74,
+        "rating": 0.68
+    },
+    {
+        "Player-Agent": "xavi8k-fade",
+        "Rounds": 19,
+        "ACS+": 75,
+        "rating": 0.63
+    },
+    {
+        "Player-Agent": "xdll-fade",
+        "Rounds": 109,
+        "ACS+": 86,
+        "rating": 0.75
+    },
+    {
+        "Player-Agent": "leaf-fade",
+        "Rounds": 16,
+        "ACS+": 138,
+        "rating": 1.13
+    },
+    {
+        "Player-Agent": "kyu-fade",
+        "Rounds": 54,
+        "ACS+": 99,
+        "rating": 0.8
+    },
+    {
+        "Player-Agent": "xeppaa-fade",
+        "Rounds": 24,
+        "ACS+": 77,
+        "rating": 0.76
+    },
+    {
+        "Player-Agent": "governor-fade",
+        "Rounds": 64,
+        "ACS+": 85,
+        "rating": 0.7
+    },
+    {
+        "Player-Agent": "kamo-fade",
+        "Rounds": 71,
+        "ACS+": 137,
+        "rating": 1.22
+    },
+    {
+        "Player-Agent": "mrfalin-fade",
+        "Rounds": 54,
+        "ACS+": 120,
+        "rating": 1.16
+    },
+    {
+        "Player-Agent": "sheydos-fade",
+        "Rounds": 44,
+        "ACS+": 103,
+        "rating": 0.96
+    },
+    {
+        "Player-Agent": "unfake-fade",
+        "Rounds": 26,
+        "ACS+": 84,
+        "rating": 0.7
+    },
+    {
+        "Player-Agent": "wo0t-fade",
+        "Rounds": 37,
+        "ACS+": 85,
+        "rating": 0.63
+    },
+    {
+        "Player-Agent": "f0rsaken-fade",
+        "Rounds": 21,
+        "ACS+": 59,
+        "rating": 0.45
+    },
+    {
+        "Player-Agent": "something-gekko",
+        "Rounds": 50,
+        "ACS+": 111,
+        "rating": 0.99
+    },
+    {
+        "Player-Agent": "patmen-gekko",
+        "Rounds": 75,
+        "ACS+": 119,
+        "rating": 1.16
+    },
+    {
+        "Player-Agent": "f0rsaken-gekko",
+        "Rounds": 23,
+        "ACS+": 118,
+        "rating": 0.75
+    },
+    {
+        "Player-Agent": "n4rrate-gekko",
+        "Rounds": 21,
+        "ACS+": 65,
+        "rating": 0.59
+    },
+    {
+        "Player-Agent": "riens-gekko",
+        "Rounds": 37,
+        "ACS+": 124,
+        "rating": 0.96
+    },
+    {
+        "Player-Agent": "kamo-gekko",
+        "Rounds": 30,
+        "ACS+": 62,
+        "rating": 0.59
+    },
+    {
+        "Player-Agent": "mazino-harbor",
+        "Rounds": 154,
+        "ACS+": 102,
+        "rating": 0.77
+    },
+    {
+        "Player-Agent": "f0rsaken-harbor",
+        "Rounds": 69,
+        "ACS+": 126,
+        "rating": 0.77
+    },
+    {
+        "Player-Agent": "rb-harbor",
+        "Rounds": 182,
+        "ACS+": 108,
+        "rating": 0.83
+    },
+    {
+        "Player-Agent": "mada-harbor",
+        "Rounds": 264,
+        "ACS+": 121,
+        "rating": 1.02
+    },
+    {
+        "Player-Agent": "bang-harbor",
+        "Rounds": 224,
+        "ACS+": 106,
+        "rating": 1.09
+    },
+    {
+        "Player-Agent": "profek-harbor",
+        "Rounds": 189,
+        "ACS+": 99,
+        "rating": 0.7
+    },
+    {
+        "Player-Agent": "signed-harbor",
+        "Rounds": 42,
+        "ACS+": 68,
+        "rating": 0.6
+    },
+    {
+        "Player-Agent": "dos9-harbor",
+        "Rounds": 49,
+        "ACS+": 109,
+        "rating": 0.96
+    },
+    {
+        "Player-Agent": "lukxo-harbor",
+        "Rounds": 141,
+        "ACS+": 132,
+        "rating": 1.15
+    },
+    {
+        "Player-Agent": "johnqt-harbor",
+        "Rounds": 152,
+        "ACS+": 106,
+        "rating": 1.08
+    },
+    {
+        "Player-Agent": "basic-harbor",
+        "Rounds": 48,
+        "ACS+": 104,
+        "rating": 0.96
+    },
+    {
+        "Player-Agent": "marved-harbor",
+        "Rounds": 17,
+        "ACS+": 89,
+        "rating": 0.95
+    },
+    {
+        "Player-Agent": "nightz-harbor",
+        "Rounds": 22,
+        "ACS+": 122,
+        "rating": 0.92
+    },
+    {
+        "Player-Agent": "v1c-harbor",
+        "Rounds": 34,
+        "ACS+": 81,
+        "rating": 0.64
+    },
+    {
+        "Player-Agent": "saadhak-harbor",
+        "Rounds": 82,
+        "ACS+": 86,
+        "rating": 0.86
+    },
+    {
+        "Player-Agent": "zellsis-harbor",
+        "Rounds": 67,
+        "ACS+": 99,
+        "rating": 1.03
+    },
+    {
+        "Player-Agent": "karon-harbor",
+        "Rounds": 21,
+        "ACS+": 142,
+        "rating": 1.23
+    },
+    {
+        "Player-Agent": "sugarz3ro-harbor",
+        "Rounds": 87,
+        "ACS+": 109,
+        "rating": 0.83
+    },
+    {
+        "Player-Agent": "buzz-harbor",
+        "Rounds": 32,
+        "ACS+": 112,
+        "rating": 0.99
+    },
+    {
+        "Player-Agent": "invy-harbor",
+        "Rounds": 23,
+        "ACS+": 121,
+        "rating": 0.98
+    },
+    {
+        "Player-Agent": "jinggg-harbor",
+        "Rounds": 75,
+        "ACS+": 101,
+        "rating": 0.91
+    },
+    {
+        "Player-Agent": "crws-harbor",
+        "Rounds": 44,
+        "ACS+": 83,
+        "rating": 0.93
+    },
+    {
+        "Player-Agent": "qpert-harbor",
+        "Rounds": 26,
+        "ACS+": 119,
+        "rating": 0.99
+    },
+    {
+        "Player-Agent": "kicks-harbor",
+        "Rounds": 45,
+        "ACS+": 87,
+        "rating": 0.81
+    },
+    {
+        "Player-Agent": "chloric-harbor",
+        "Rounds": 19,
+        "ACS+": 111,
+        "rating": 0.56
+    },
+    {
+        "Player-Agent": "jesse-harbor",
+        "Rounds": 19,
+        "ACS+": 53,
+        "rating": 0.33
+    },
+    {
+        "Player-Agent": "smoggy-harbor",
+        "Rounds": 51,
+        "ACS+": 83,
+        "rating": 0.66
+    },
+    {
+        "Player-Agent": "kingg-harbor",
+        "Rounds": 94,
+        "ACS+": 80,
+        "rating": 0.82
+    },
+    {
+        "Player-Agent": "alym-harbor",
+        "Rounds": 21,
+        "ACS+": 153,
+        "rating": 1.62
+    },
+    {
+        "Player-Agent": "nerve-harbor",
+        "Rounds": 19,
+        "ACS+": 137,
+        "rating": 1.03
+    },
+    {
+        "Player-Agent": "valyn-harbor",
+        "Rounds": 214,
+        "ACS+": 119,
+        "rating": 1.34
+    },
+    {
+        "Player-Agent": "artzin-harbor",
+        "Rounds": 20,
+        "ACS+": 64,
+        "rating": 0.56
+    },
+    {
+        "Player-Agent": "bao-harbor",
+        "Rounds": 17,
+        "ACS+": 88,
+        "rating": 0.55
+    },
+    {
+        "Player-Agent": "eggsterr-harbor",
+        "Rounds": 21,
+        "ACS+": 62,
+        "rating": 0.33
+    },
+    {
+        "Player-Agent": "benjyfishy-harbor",
+        "Rounds": 67,
+        "ACS+": 109,
+        "rating": 0.97
+    },
+    {
+        "Player-Agent": "boaster-harbor",
+        "Rounds": 88,
+        "ACS+": 97,
+        "rating": 0.9
+    },
+    {
+        "Player-Agent": "monyet-harbor",
+        "Rounds": 66,
+        "ACS+": 106,
+        "rating": 1.0
+    },
+    {
+        "Player-Agent": "ash-harbor",
+        "Rounds": 16,
+        "ACS+": 100,
+        "rating": 0.74
+    },
+    {
+        "Player-Agent": "yong-harbor",
+        "Rounds": 36,
+        "ACS+": 94,
+        "rating": 0.74
+    },
+    {
+        "Player-Agent": "munchkin-harbor",
+        "Rounds": 61,
+        "ACS+": 72,
+        "rating": 0.64
+    },
+    {
+        "Player-Agent": "au1-harbor",
+        "Rounds": 17,
+        "ACS+": 112,
+        "rating": 0.73
+    },
+    {
+        "Player-Agent": "wayne-harbor",
+        "Rounds": 41,
+        "ACS+": 82,
+        "rating": 0.66
+    },
+    {
+        "Player-Agent": "pancada-harbor",
+        "Rounds": 24,
+        "ACS+": 68,
+        "rating": 0.81
+    },
+    {
+        "Player-Agent": "oonzmlp-harbor",
+        "Rounds": 20,
+        "ACS+": 75,
+        "rating": 0.6
+    },
+    {
+        "Player-Agent": "reduxx-iso",
+        "Rounds": 66,
+        "ACS+": 109,
+        "rating": 1.03
+    },
+    {
+        "Player-Agent": "demon1-iso",
+        "Rounds": 21,
+        "ACS+": 115,
+        "rating": 1.02
+    },
+    {
+        "Player-Agent": "penny-iso",
+        "Rounds": 26,
+        "ACS+": 98,
+        "rating": 0.95
+    },
+    {
+        "Player-Agent": "koalanoob-iso",
+        "Rounds": 19,
+        "ACS+": 86,
+        "rating": 0.81
+    },
+    {
+        "Player-Agent": "xeppaa-iso",
+        "Rounds": 24,
+        "ACS+": 101,
+        "rating": 0.79
+    },
+    {
+        "Player-Agent": "alfajer-iso",
+        "Rounds": 26,
+        "ACS+": 91,
+        "rating": 0.79
+    },
+    {
+        "Player-Agent": "autumn-iso",
+        "Rounds": 19,
+        "ACS+": 125,
+        "rating": 1.19
+    },
+    {
+        "Player-Agent": "caedye-iso",
+        "Rounds": 19,
+        "ACS+": 85,
+        "rating": 0.66
+    },
+    {
+        "Player-Agent": "jawgemo-iso",
+        "Rounds": 58,
+        "ACS+": 108,
+        "rating": 0.94
+    },
+    {
+        "Player-Agent": "meteor-iso",
+        "Rounds": 30,
+        "ACS+": 88,
+        "rating": 0.83
+    },
+    {
+        "Player-Agent": "babybay-iso",
+        "Rounds": 24,
+        "ACS+": 112,
+        "rating": 0.95
+    },
+    {
+        "Player-Agent": "keznit-iso",
+        "Rounds": 42,
+        "ACS+": 82,
+        "rating": 0.75
+    },
+    {
+        "Player-Agent": "f4ngeer-jett",
+        "Rounds": 42,
+        "ACS+": 126,
+        "rating": 1.31
+    },
+    {
+        "Player-Agent": "n4rrate-jett",
+        "Rounds": 19,
+        "ACS+": 102,
+        "rating": 1.26
+    },
+    {
+        "Player-Agent": "wo0t-jett",
+        "Rounds": 286,
+        "ACS+": 103,
+        "rating": 1.01
+    },
+    {
+        "Player-Agent": "lovers-rock-jett",
+        "Rounds": 206,
+        "ACS+": 101,
+        "rating": 0.94
+    },
+    {
+        "Player-Agent": "timotino-jett",
+        "Rounds": 149,
+        "ACS+": 125,
+        "rating": 0.97
+    },
+    {
+        "Player-Agent": "zmjjkk-jett",
+        "Rounds": 274,
+        "ACS+": 113,
+        "rating": 0.98
+    },
+    {
+        "Player-Agent": "aspas-jett",
+        "Rounds": 387,
+        "ACS+": 103,
+        "rating": 1.03
+    },
+    {
+        "Player-Agent": "noman-jett",
+        "Rounds": 184,
+        "ACS+": 99,
+        "rating": 0.97
+    },
+    {
+        "Player-Agent": "something-jett",
+        "Rounds": 728,
+        "ACS+": 114,
+        "rating": 0.94
+    },
+    {
+        "Player-Agent": "keiko-jett",
+        "Rounds": 333,
+        "ACS+": 114,
+        "rating": 0.98
+    },
+    {
+        "Player-Agent": "minny-jett",
+        "Rounds": 97,
+        "ACS+": 114,
+        "rating": 1.14
+    },
+    {
+        "Player-Agent": "derke-jett",
+        "Rounds": 534,
+        "ACS+": 119,
+        "rating": 1.4
+    },
+    {
+        "Player-Agent": "jemkin-jett",
+        "Rounds": 152,
+        "ACS+": 115,
+        "rating": 1.21
+    },
+    {
+        "Player-Agent": "lar0k-jett",
+        "Rounds": 188,
+        "ACS+": 125,
+        "rating": 1.18
+    },
+    {
+        "Player-Agent": "rarga-jett",
+        "Rounds": 34,
+        "ACS+": 105,
+        "rating": 0.92
+    },
+    {
+        "Player-Agent": "autumn-jett",
+        "Rounds": 108,
+        "ACS+": 114,
+        "rating": 1.42
+    },
+    {
+        "Player-Agent": "babybay-jett",
+        "Rounds": 23,
+        "ACS+": 73,
+        "rating": 0.6
+    },
+    {
+        "Player-Agent": "dgzin-jett",
+        "Rounds": 22,
+        "ACS+": 123,
+        "rating": 1.19
+    },
+    {
+        "Player-Agent": "neon-jett",
+        "Rounds": 253,
+        "ACS+": 123,
+        "rating": 1.26
+    },
+    {
+        "Player-Agent": "heat-jett",
+        "Rounds": 55,
+        "ACS+": 123,
+        "rating": 1.08
+    },
+    {
+        "Player-Agent": "tkzin-jett",
+        "Rounds": 52,
+        "ACS+": 105,
+        "rating": 1.03
+    },
+    {
+        "Player-Agent": "reduxx-jett",
+        "Rounds": 24,
+        "ACS+": 90,
+        "rating": 0.89
+    },
+    {
+        "Player-Agent": "koalanoob-jett",
+        "Rounds": 263,
+        "ACS+": 97,
+        "rating": 1.05
+    },
+    {
+        "Player-Agent": "keznit-jett",
+        "Rounds": 106,
+        "ACS+": 113,
+        "rating": 1.4
+    },
+    {
+        "Player-Agent": "oxy-jett",
+        "Rounds": 49,
+        "ACS+": 114,
+        "rating": 1.11
+    },
+    {
+        "Player-Agent": "xross-jett",
+        "Rounds": 20,
+        "ACS+": 121,
+        "rating": 1.16
+    },
+    {
+        "Player-Agent": "primmie-jett",
+        "Rounds": 299,
+        "ACS+": 129,
+        "rating": 1.16
+    },
+    {
+        "Player-Agent": "meteor-jett",
+        "Rounds": 100,
+        "ACS+": 113,
+        "rating": 1.06
+    },
+    {
+        "Player-Agent": "meiy-jett",
+        "Rounds": 278,
+        "ACS+": 113,
+        "rating": 0.83
+    },
+    {
+        "Player-Agent": "udotan-jett",
+        "Rounds": 59,
+        "ACS+": 93,
+        "rating": 0.95
+    },
+    {
+        "Player-Agent": "zexy-jett",
+        "Rounds": 161,
+        "ACS+": 89,
+        "rating": 1.25
+    },
+    {
+        "Player-Agent": "dambi-jett",
+        "Rounds": 21,
+        "ACS+": 48,
+        "rating": 0.48
+    },
+    {
+        "Player-Agent": "rb-jett",
+        "Rounds": 19,
+        "ACS+": 48,
+        "rating": 0.21
+    },
+    {
+        "Player-Agent": "ara-jett",
+        "Rounds": 129,
+        "ACS+": 103,
+        "rating": 0.59
+    },
+    {
+        "Player-Agent": "purp0-jett",
+        "Rounds": 218,
+        "ACS+": 108,
+        "rating": 1.15
+    },
+    {
+        "Player-Agent": "s0pp-jett",
+        "Rounds": 262,
+        "ACS+": 109,
+        "rating": 1.01
+    },
+    {
+        "Player-Agent": "exit-jett",
+        "Rounds": 19,
+        "ACS+": 80,
+        "rating": 0.62
+    },
+    {
+        "Player-Agent": "ninja-jett",
+        "Rounds": 19,
+        "ACS+": 44,
+        "rating": 0.39
+    },
+    {
+        "Player-Agent": "xeus-jett",
+        "Rounds": 114,
+        "ACS+": 123,
+        "rating": 1.15
+    },
+    {
+        "Player-Agent": "spiritz1-jett",
+        "Rounds": 40,
+        "ACS+": 110,
+        "rating": 1.05
+    },
+    {
+        "Player-Agent": "mada-jett",
+        "Rounds": 46,
+        "ACS+": 85,
+        "rating": 0.63
+    },
+    {
+        "Player-Agent": "demon1-jett",
+        "Rounds": 59,
+        "ACS+": 121,
+        "rating": 0.99
+    },
+    {
+        "Player-Agent": "virtyy-jett",
+        "Rounds": 63,
+        "ACS+": 101,
+        "rating": 1.09
+    },
+    {
+        "Player-Agent": "lewn-jett",
+        "Rounds": 97,
+        "ACS+": 135,
+        "rating": 1.82
+    },
+    {
+        "Player-Agent": "izzy-jett",
+        "Rounds": 67,
+        "ACS+": 106,
+        "rating": 1.05
+    },
+    {
+        "Player-Agent": "cned-jett",
+        "Rounds": 21,
+        "ACS+": 97,
+        "rating": 0.92
+    },
+    {
+        "Player-Agent": "kaajak-jett",
+        "Rounds": 119,
+        "ACS+": 112,
+        "rating": 1.16
+    },
+    {
+        "Player-Agent": "bipo-jett",
+        "Rounds": 80,
+        "ACS+": 87,
+        "rating": 0.75
+    },
+    {
+        "Player-Agent": "hyunmin-jett",
+        "Rounds": 209,
+        "ACS+": 106,
+        "rating": 0.84
+    },
+    {
+        "Player-Agent": "buzz-jett",
+        "Rounds": 120,
+        "ACS+": 108,
+        "rating": 0.92
+    },
+    {
+        "Player-Agent": "t3xture-jett",
+        "Rounds": 175,
+        "ACS+": 108,
+        "rating": 1.03
+    },
+    {
+        "Player-Agent": "rimuru-jett",
+        "Rounds": 17,
+        "ACS+": 27,
+        "rating": 0.03
+    },
+    {
+        "Player-Agent": "infiltrator-jett",
+        "Rounds": 21,
+        "ACS+": 79,
+        "rating": 0.73
+    },
+    {
+        "Player-Agent": "jawgemo-jett",
+        "Rounds": 20,
+        "ACS+": 56,
+        "rating": 0.47
+    },
+    {
+        "Player-Agent": "d3mur-jett",
+        "Rounds": 21,
+        "ACS+": 105,
+        "rating": 1.14
+    },
+    {
+        "Player-Agent": "favian-jett",
+        "Rounds": 16,
+        "ACS+": 96,
+        "rating": 0.92
+    },
+    {
+        "Player-Agent": "comeback-jett",
+        "Rounds": 62,
+        "ACS+": 90,
+        "rating": 0.91
+    },
+    {
+        "Player-Agent": "veqaj-jett",
+        "Rounds": 19,
+        "ACS+": 62,
+        "rating": 0.54
+    },
+    {
+        "Player-Agent": "tenten-jett",
+        "Rounds": 24,
+        "ACS+": 84,
+        "rating": 0.9
+    },
+    {
+        "Player-Agent": "jinggg-jett",
+        "Rounds": 64,
+        "ACS+": 99,
+        "rating": 0.89
+    },
+    {
+        "Player-Agent": "monyet-jett",
+        "Rounds": 35,
+        "ACS+": 95,
+        "rating": 0.69
+    },
+    {
+        "Player-Agent": "thyy-jett",
+        "Rounds": 23,
+        "ACS+": 55,
+        "rating": 0.47
+    },
+    {
+        "Player-Agent": "jieni7-kayo",
+        "Rounds": 111,
+        "ACS+": 107,
+        "rating": 0.98
+    },
+    {
+        "Player-Agent": "wo0t-kayo",
+        "Rounds": 78,
+        "ACS+": 93,
+        "rating": 0.89
+    },
+    {
+        "Player-Agent": "ethan-kayo",
+        "Rounds": 385,
+        "ACS+": 113,
+        "rating": 0.86
+    },
+    {
+        "Player-Agent": "jawgemo-kayo",
+        "Rounds": 80,
+        "ACS+": 110,
+        "rating": 1.0
+    },
+    {
+        "Player-Agent": "jamppi-kayo",
+        "Rounds": 297,
+        "ACS+": 106,
+        "rating": 1.13
+    },
+    {
+        "Player-Agent": "glyph-kayo",
+        "Rounds": 17,
+        "ACS+": 158,
+        "rating": 1.41
+    },
+    {
+        "Player-Agent": "basic-kayo",
+        "Rounds": 39,
+        "ACS+": 115,
+        "rating": 1.06
+    },
+    {
+        "Player-Agent": "artzin-kayo",
+        "Rounds": 92,
+        "ACS+": 122,
+        "rating": 1.22
+    },
+    {
+        "Player-Agent": "zellsis-kayo",
+        "Rounds": 150,
+        "ACS+": 83,
+        "rating": 0.86
+    },
+    {
+        "Player-Agent": "eko-kayo",
+        "Rounds": 68,
+        "ACS+": 109,
+        "rating": 0.93
+    },
+    {
+        "Player-Agent": "munchkin-kayo",
+        "Rounds": 74,
+        "ACS+": 90,
+        "rating": 0.92
+    },
+    {
+        "Player-Agent": "kellys-kayo",
+        "Rounds": 102,
+        "ACS+": 90,
+        "rating": 0.87
+    },
+    {
+        "Player-Agent": "cloud-kayo",
+        "Rounds": 47,
+        "ACS+": 134,
+        "rating": 1.29
+    },
+    {
+        "Player-Agent": "cyvoph-kayo",
+        "Rounds": 90,
+        "ACS+": 85,
+        "rating": 0.81
+    },
+    {
+        "Player-Agent": "krostaly-kayo",
+        "Rounds": 100,
+        "ACS+": 98,
+        "rating": 0.79
+    },
+    {
+        "Player-Agent": "asuna-kayo",
+        "Rounds": 172,
+        "ACS+": 98,
+        "rating": 1.02
+    },
+    {
+        "Player-Agent": "erde-kayo",
+        "Rounds": 24,
+        "ACS+": 89,
+        "rating": 0.93
+    },
+    {
+        "Player-Agent": "bati-kayo",
+        "Rounds": 68,
+        "ACS+": 84,
+        "rating": 0.85
+    },
+    {
+        "Player-Agent": "darker-kayo",
+        "Rounds": 94,
+        "ACS+": 95,
+        "rating": 1.03
+    },
+    {
+        "Player-Agent": "okeanos-kayo",
+        "Rounds": 17,
+        "ACS+": 96,
+        "rating": 0.76
+    },
+    {
+        "Player-Agent": "silentzz-kayo",
+        "Rounds": 41,
+        "ACS+": 79,
+        "rating": 0.58
+    },
+    {
+        "Player-Agent": "lar0k-kayo",
+        "Rounds": 21,
+        "ACS+": 126,
+        "rating": 1.43
+    },
+    {
+        "Player-Agent": "seven-kayo",
+        "Rounds": 124,
+        "ACS+": 123,
+        "rating": 1.15
+    },
+    {
+        "Player-Agent": "favian-kayo",
+        "Rounds": 69,
+        "ACS+": 104,
+        "rating": 0.79
+    },
+    {
+        "Player-Agent": "avez-kayo",
+        "Rounds": 72,
+        "ACS+": 116,
+        "rating": 1.34
+    },
+    {
+        "Player-Agent": "veqaj-kayo",
+        "Rounds": 215,
+        "ACS+": 123,
+        "rating": 1.23
+    },
+    {
+        "Player-Agent": "kamo-kayo",
+        "Rounds": 22,
+        "ACS+": 83,
+        "rating": 0.71
+    },
+    {
+        "Player-Agent": "desmo-kayo",
+        "Rounds": 22,
+        "ACS+": 60,
+        "rating": 0.61
+    },
+    {
+        "Player-Agent": "beyn-kayo",
+        "Rounds": 62,
+        "ACS+": 95,
+        "rating": 0.75
+    },
+    {
+        "Player-Agent": "stax-kayo",
+        "Rounds": 84,
+        "ACS+": 119,
+        "rating": 1.08
+    },
+    {
+        "Player-Agent": "xavi8k-kayo",
+        "Rounds": 69,
+        "ACS+": 105,
+        "rating": 1.06
+    },
+    {
+        "Player-Agent": "crazyguy-kayo",
+        "Rounds": 109,
+        "ACS+": 103,
+        "rating": 0.92
+    },
+    {
+        "Player-Agent": "oonzmlp-kayo",
+        "Rounds": 17,
+        "ACS+": 80,
+        "rating": 0.48
+    },
+    {
+        "Player-Agent": "zynx-kayo",
+        "Rounds": 16,
+        "ACS+": 37,
+        "rating": 0.25
+    },
+    {
+        "Player-Agent": "minny-kayo",
+        "Rounds": 23,
+        "ACS+": 56,
+        "rating": 0.46
+    },
+    {
+        "Player-Agent": "mazino-kayo",
+        "Rounds": 139,
+        "ACS+": 123,
+        "rating": 1.1
+    },
+    {
+        "Player-Agent": "mta-kayo",
+        "Rounds": 39,
+        "ACS+": 94,
+        "rating": 0.94
+    },
+    {
+        "Player-Agent": "spike-kayo",
+        "Rounds": 39,
+        "ACS+": 96,
+        "rating": 0.88
+    },
+    {
+        "Player-Agent": "flickless-kayo",
+        "Rounds": 83,
+        "ACS+": 93,
+        "rating": 0.99
+    },
+    {
+        "Player-Agent": "purp0-kayo",
+        "Rounds": 40,
+        "ACS+": 101,
+        "rating": 0.95
+    },
+    {
+        "Player-Agent": "invy-kayo",
+        "Rounds": 21,
+        "ACS+": 117,
+        "rating": 1.03
+    },
+    {
+        "Player-Agent": "hermes-kayo",
+        "Rounds": 59,
+        "ACS+": 92,
+        "rating": 0.99
+    },
+    {
+        "Player-Agent": "d4v41-killjoy",
+        "Rounds": 236,
+        "ACS+": 107,
+        "rating": 0.79
+    },
+    {
+        "Player-Agent": "noman-killjoy",
+        "Rounds": 52,
+        "ACS+": 83,
+        "rating": 0.69
+    },
+    {
+        "Player-Agent": "chronicle-killjoy",
+        "Rounds": 106,
+        "ACS+": 103,
+        "rating": 1.05
+    },
+    {
+        "Player-Agent": "demon1-killjoy",
+        "Rounds": 17,
+        "ACS+": 71,
+        "rating": 0.58
+    },
+    {
+        "Player-Agent": "ivy-killjoy",
+        "Rounds": 135,
+        "ACS+": 93,
+        "rating": 0.91
+    },
+    {
+        "Player-Agent": "seph1roth-killjoy",
+        "Rounds": 38,
+        "ACS+": 121,
+        "rating": 1.08
+    },
+    {
+        "Player-Agent": "kr1stal-killjoy",
+        "Rounds": 118,
+        "ACS+": 138,
+        "rating": 1.21
+    },
+    {
+        "Player-Agent": "cortezia-killjoy",
+        "Rounds": 87,
+        "ACS+": 101,
+        "rating": 0.86
+    },
+    {
+        "Player-Agent": "artzin-killjoy",
+        "Rounds": 166,
+        "ACS+": 108,
+        "rating": 1.31
+    },
+    {
+        "Player-Agent": "zellsis-killjoy",
+        "Rounds": 60,
+        "ACS+": 89,
+        "rating": 0.82
+    },
+    {
+        "Player-Agent": "keiko-killjoy",
+        "Rounds": 220,
+        "ACS+": 114,
+        "rating": 1.36
+    },
+    {
+        "Player-Agent": "bao-killjoy",
+        "Rounds": 205,
+        "ACS+": 107,
+        "rating": 1.11
+    },
+    {
+        "Player-Agent": "alfajer-killjoy",
+        "Rounds": 90,
+        "ACS+": 101,
+        "rating": 0.71
+    },
+    {
+        "Player-Agent": "yetujey-killjoy",
+        "Rounds": 42,
+        "ACS+": 97,
+        "rating": 0.92
+    },
+    {
+        "Player-Agent": "nats-killjoy",
+        "Rounds": 196,
+        "ACS+": 101,
+        "rating": 0.94
+    },
+    {
+        "Player-Agent": "jemkin-killjoy",
+        "Rounds": 24,
+        "ACS+": 139,
+        "rating": 1.38
+    },
+    {
+        "Player-Agent": "caedye-killjoy",
+        "Rounds": 131,
+        "ACS+": 124,
+        "rating": 0.89
+    },
+    {
+        "Player-Agent": "akame-killjoy",
+        "Rounds": 19,
+        "ACS+": 137,
+        "rating": 1.19
+    },
+    {
+        "Player-Agent": "meteor-killjoy",
+        "Rounds": 254,
+        "ACS+": 109,
+        "rating": 0.84
+    },
+    {
+        "Player-Agent": "yong-killjoy",
+        "Rounds": 24,
+        "ACS+": 116,
+        "rating": 1.0
+    },
+    {
+        "Player-Agent": "izu-killjoy",
+        "Rounds": 83,
+        "ACS+": 102,
+        "rating": 0.99
+    },
+    {
+        "Player-Agent": "xffero-killjoy",
+        "Rounds": 64,
+        "ACS+": 113,
+        "rating": 1.46
+    },
+    {
+        "Player-Agent": "xdll-killjoy",
+        "Rounds": 19,
+        "ACS+": 112,
+        "rating": 0.87
+    },
+    {
+        "Player-Agent": "berserx-killjoy",
+        "Rounds": 54,
+        "ACS+": 77,
+        "rating": 0.54
+    },
+    {
+        "Player-Agent": "zynx-killjoy",
+        "Rounds": 21,
+        "ACS+": 89,
+        "rating": 0.72
+    },
+    {
+        "Player-Agent": "klaus-killjoy",
+        "Rounds": 17,
+        "ACS+": 67,
+        "rating": 0.47
+    },
+    {
+        "Player-Agent": "skuba-killjoy",
+        "Rounds": 79,
+        "ACS+": 101,
+        "rating": 1.22
+    },
+    {
+        "Player-Agent": "chichoo-killjoy",
+        "Rounds": 20,
+        "ACS+": 91,
+        "rating": 0.94
+    },
+    {
+        "Player-Agent": "au1-killjoy",
+        "Rounds": 38,
+        "ACS+": 103,
+        "rating": 0.82
+    },
+    {
+        "Player-Agent": "inspire-killjoy",
+        "Rounds": 56,
+        "ACS+": 98,
+        "rating": 1.23
+    },
+    {
+        "Player-Agent": "rossy-killjoy",
+        "Rounds": 30,
+        "ACS+": 82,
+        "rating": 0.9
+    },
+    {
+        "Player-Agent": "nagz-killjoy",
+        "Rounds": 41,
+        "ACS+": 77,
+        "rating": 0.87
+    },
+    {
+        "Player-Agent": "lukxo-killjoy",
+        "Rounds": 53,
+        "ACS+": 111,
+        "rating": 0.85
+    },
+    {
+        "Player-Agent": "tex-killjoy",
+        "Rounds": 59,
+        "ACS+": 87,
+        "rating": 0.75
+    },
+    {
+        "Player-Agent": "hiro-killjoy",
+        "Rounds": 62,
+        "ACS+": 120,
+        "rating": 1.12
+    },
+    {
+        "Player-Agent": "westside-killjoy",
+        "Rounds": 42,
+        "ACS+": 114,
+        "rating": 1.11
+    },
+    {
+        "Player-Agent": "suygetsu-killjoy",
+        "Rounds": 20,
+        "ACS+": 108,
+        "rating": 0.9
+    },
+    {
+        "Player-Agent": "unfake-killjoy",
+        "Rounds": 22,
+        "ACS+": 73,
+        "rating": 0.58
+    },
+    {
+        "Player-Agent": "al0rante-killjoy",
+        "Rounds": 17,
+        "ACS+": 71,
+        "rating": 0.45
+    },
+    {
+        "Player-Agent": "baha-killjoy",
+        "Rounds": 26,
+        "ACS+": 71,
+        "rating": 0.45
+    },
+    {
+        "Player-Agent": "sturnn-killjoy",
+        "Rounds": 20,
+        "ACS+": 45,
+        "rating": 0.42
+    },
+    {
+        "Player-Agent": "karon-killjoy",
+        "Rounds": 61,
+        "ACS+": 131,
+        "rating": 1.19
+    },
+    {
+        "Player-Agent": "jitboys-killjoy",
+        "Rounds": 41,
+        "ACS+": 96,
+        "rating": 0.9
+    },
+    {
+        "Player-Agent": "f0rsaken-miks",
+        "Rounds": 24,
+        "ACS+": 100,
+        "rating": 1.15
+    },
+    {
+        "Player-Agent": "rarga-neon",
+        "Rounds": 52,
+        "ACS+": 125,
+        "rating": 0.56
+    },
+    {
+        "Player-Agent": "marteen-neon",
+        "Rounds": 20,
+        "ACS+": 127,
+        "rating": 1.24
+    },
+    {
+        "Player-Agent": "wo0t-neon",
+        "Rounds": 166,
+        "ACS+": 108,
+        "rating": 0.9
+    },
+    {
+        "Player-Agent": "f4ngeer-neon",
+        "Rounds": 74,
+        "ACS+": 116,
+        "rating": 1.09
+    },
+    {
+        "Player-Agent": "dambi-neon",
+        "Rounds": 1116,
+        "ACS+": 115,
+        "rating": 1.17
+    },
+    {
+        "Player-Agent": "zmjjkk-neon",
+        "Rounds": 100,
+        "ACS+": 104,
+        "rating": 0.72
+    },
+    {
+        "Player-Agent": "zekken-neon",
+        "Rounds": 308,
+        "ACS+": 114,
+        "rating": 1.01
+    },
+    {
+        "Player-Agent": "lovers-rock-neon",
+        "Rounds": 505,
+        "ACS+": 102,
+        "rating": 1.02
+    },
+    {
+        "Player-Agent": "timotino-neon",
+        "Rounds": 532,
+        "ACS+": 106,
+        "rating": 0.89
+    },
+    {
+        "Player-Agent": "jawgemo-neon",
+        "Rounds": 762,
+        "ACS+": 111,
+        "rating": 1.2
+    },
+    {
+        "Player-Agent": "aspas-neon",
+        "Rounds": 252,
+        "ACS+": 103,
+        "rating": 0.64
+    },
+    {
+        "Player-Agent": "bai-neon",
+        "Rounds": 62,
+        "ACS+": 94,
+        "rating": 0.86
+    },
+    {
+        "Player-Agent": "lewn-neon",
+        "Rounds": 431,
+        "ACS+": 116,
+        "rating": 1.2
+    },
+    {
+        "Player-Agent": "koshmaras-neon",
+        "Rounds": 855,
+        "ACS+": 109,
+        "rating": 1.03
+    },
+    {
+        "Player-Agent": "ethan-neon",
+        "Rounds": 172,
+        "ACS+": 92,
+        "rating": 0.79
+    },
+    {
+        "Player-Agent": "xan-neon",
+        "Rounds": 204,
+        "ACS+": 89,
+        "rating": 0.78
+    },
+    {
+        "Player-Agent": "minny-neon",
+        "Rounds": 318,
+        "ACS+": 100,
+        "rating": 0.89
+    },
+    {
+        "Player-Agent": "babybay-neon",
+        "Rounds": 103,
+        "ACS+": 84,
+        "rating": 0.74
+    },
+    {
+        "Player-Agent": "udotan-neon",
+        "Rounds": 501,
+        "ACS+": 101,
+        "rating": 0.76
+    },
+    {
+        "Player-Agent": "f0rsaken-neon",
+        "Rounds": 210,
+        "ACS+": 104,
+        "rating": 1.1
+    },
+    {
+        "Player-Agent": "oxy-neon",
+        "Rounds": 411,
+        "ACS+": 119,
+        "rating": 0.92
+    },
+    {
+        "Player-Agent": "tkzin-neon",
+        "Rounds": 79,
+        "ACS+": 131,
+        "rating": 1.11
+    },
+    {
+        "Player-Agent": "jerrwin-neon",
+        "Rounds": 276,
+        "ACS+": 101,
+        "rating": 0.82
+    },
+    {
+        "Player-Agent": "mada-neon",
+        "Rounds": 538,
+        "ACS+": 100,
+        "rating": 1.3
+    },
+    {
+        "Player-Agent": "spike-neon",
+        "Rounds": 1061,
+        "ACS+": 114,
+        "rating": 0.92
+    },
+    {
+        "Player-Agent": "dgzin-neon",
+        "Rounds": 342,
+        "ACS+": 113,
+        "rating": 1.19
+    },
+    {
+        "Player-Agent": "dantedeu5-neon",
+        "Rounds": 487,
+        "ACS+": 90,
+        "rating": 0.81
+    },
+    {
+        "Player-Agent": "koalanoob-neon",
+        "Rounds": 26,
+        "ACS+": 94,
+        "rating": 0.6
+    },
+    {
+        "Player-Agent": "keznit-neon",
+        "Rounds": 325,
+        "ACS+": 91,
+        "rating": 0.83
+    },
+    {
+        "Player-Agent": "something-neon",
+        "Rounds": 130,
+        "ACS+": 94,
+        "rating": 0.79
+    },
+    {
+        "Player-Agent": "free1ng-neon",
+        "Rounds": 383,
+        "ACS+": 103,
+        "rating": 0.83
+    },
+    {
+        "Player-Agent": "meiy-neon",
+        "Rounds": 188,
+        "ACS+": 118,
+        "rating": 1.15
+    },
+    {
+        "Player-Agent": "zeus-neon",
+        "Rounds": 310,
+        "ACS+": 110,
+        "rating": 0.96
+    },
+    {
+        "Player-Agent": "ash-neon",
+        "Rounds": 387,
+        "ACS+": 114,
+        "rating": 1.05
+    },
+    {
+        "Player-Agent": "absol-neon",
+        "Rounds": 476,
+        "ACS+": 110,
+        "rating": 1.03
+    },
+    {
+        "Player-Agent": "izu-neon",
+        "Rounds": 109,
+        "ACS+": 102,
+        "rating": 0.88
+    },
+    {
+        "Player-Agent": "jitboys-neon",
+        "Rounds": 320,
+        "ACS+": 98,
+        "rating": 1.05
+    },
+    {
+        "Player-Agent": "yatsuka-neon",
+        "Rounds": 100,
+        "ACS+": 85,
+        "rating": 0.72
+    },
+    {
+        "Player-Agent": "zexy-neon",
+        "Rounds": 162,
+        "ACS+": 87,
+        "rating": 0.67
+    },
+    {
+        "Player-Agent": "flicker-neon",
+        "Rounds": 96,
+        "ACS+": 75,
+        "rating": 0.66
+    },
+    {
+        "Player-Agent": "seph1roth-neon",
+        "Rounds": 22,
+        "ACS+": 62,
+        "rating": 0.44
+    },
+    {
+        "Player-Agent": "favian-neon",
+        "Rounds": 17,
+        "ACS+": 122,
+        "rating": 1.25
+    },
+    {
+        "Player-Agent": "alfajer-neon",
+        "Rounds": 49,
+        "ACS+": 120,
+        "rating": 1.07
+    },
+    {
+        "Player-Agent": "exit-neon",
+        "Rounds": 70,
+        "ACS+": 103,
+        "rating": 0.96
+    },
+    {
+        "Player-Agent": "izzy-neon",
+        "Rounds": 480,
+        "ACS+": 101,
+        "rating": 0.97
+    },
+    {
+        "Player-Agent": "ara-neon",
+        "Rounds": 417,
+        "ACS+": 108,
+        "rating": 1.14
+    },
+    {
+        "Player-Agent": "s0pp-neon",
+        "Rounds": 782,
+        "ACS+": 109,
+        "rating": 1.02
+    },
+    {
+        "Player-Agent": "purp0-neon",
+        "Rounds": 45,
+        "ACS+": 99,
+        "rating": 0.87
+    },
+    {
+        "Player-Agent": "derke-neon",
+        "Rounds": 557,
+        "ACS+": 104,
+        "rating": 1.04
+    },
+    {
+        "Player-Agent": "spear-neon",
+        "Rounds": 74,
+        "ACS+": 91,
+        "rating": 0.78
+    },
+    {
+        "Player-Agent": "kaajak-neon",
+        "Rounds": 476,
+        "ACS+": 110,
+        "rating": 1.15
+    },
+    {
+        "Player-Agent": "seven-neon",
+        "Rounds": 76,
+        "ACS+": 103,
+        "rating": 1.34
+    },
+    {
+        "Player-Agent": "ruxic-neon",
+        "Rounds": 24,
+        "ACS+": 85,
+        "rating": 0.5
+    },
+    {
+        "Player-Agent": "life-neon",
+        "Rounds": 17,
+        "ACS+": 81,
+        "rating": 0.77
+    },
+    {
+        "Player-Agent": "demon1-neon",
+        "Rounds": 19,
+        "ACS+": 101,
+        "rating": 1.11
+    },
+    {
+        "Player-Agent": "asuna-neon",
+        "Rounds": 132,
+        "ACS+": 98,
+        "rating": 0.93
+    },
+    {
+        "Player-Agent": "alym-neon",
+        "Rounds": 447,
+        "ACS+": 103,
+        "rating": 0.86
+    },
+    {
+        "Player-Agent": "victor-neon",
+        "Rounds": 22,
+        "ACS+": 101,
+        "rating": 0.76
+    },
+    {
+        "Player-Agent": "virtyy-neon",
+        "Rounds": 252,
+        "ACS+": 84,
+        "rating": 0.33
+    },
+    {
+        "Player-Agent": "okeanos-neon",
+        "Rounds": 21,
+        "ACS+": 88,
+        "rating": 0.66
+    },
+    {
+        "Player-Agent": "sato-neon",
+        "Rounds": 19,
+        "ACS+": 70,
+        "rating": 0.44
+    },
+    {
+        "Player-Agent": "miniboo-neon",
+        "Rounds": 657,
+        "ACS+": 109,
+        "rating": 1.23
+    },
+    {
+        "Player-Agent": "filu-neon",
+        "Rounds": 80,
+        "ACS+": 115,
+        "rating": 1.21
+    },
+    {
+        "Player-Agent": "cned-neon",
+        "Rounds": 195,
+        "ACS+": 87,
+        "rating": 0.84
+    },
+    {
+        "Player-Agent": "comeback-neon",
+        "Rounds": 228,
+        "ACS+": 116,
+        "rating": 1.16
+    },
+    {
+        "Player-Agent": "dos9-neon",
+        "Rounds": 56,
+        "ACS+": 90,
+        "rating": 0.83
+    },
+    {
+        "Player-Agent": "bipo-neon",
+        "Rounds": 491,
+        "ACS+": 87,
+        "rating": 1.0
+    },
+    {
+        "Player-Agent": "kolosha-neon",
+        "Rounds": 107,
+        "ACS+": 80,
+        "rating": 0.68
+    },
+    {
+        "Player-Agent": "lar0k-neon",
+        "Rounds": 295,
+        "ACS+": 90,
+        "rating": 1.17
+    },
+    {
+        "Player-Agent": "t3xture-neon",
+        "Rounds": 136,
+        "ACS+": 109,
+        "rating": 0.82
+    },
+    {
+        "Player-Agent": "buzz-neon",
+        "Rounds": 502,
+        "ACS+": 114,
+        "rating": 0.79
+    },
+    {
+        "Player-Agent": "zynx-neon",
+        "Rounds": 48,
+        "ACS+": 123,
+        "rating": 0.99
+    },
+    {
+        "Player-Agent": "jemkin-neon",
+        "Rounds": 107,
+        "ACS+": 102,
+        "rating": 0.96
+    },
+    {
+        "Player-Agent": "francis-neon",
+        "Rounds": 189,
+        "ACS+": 117,
+        "rating": 0.93
+    },
+    {
+        "Player-Agent": "monyet-neon",
+        "Rounds": 553,
+        "ACS+": 100,
+        "rating": 0.87
+    },
+    {
+        "Player-Agent": "akame-neon",
+        "Rounds": 209,
+        "ACS+": 97,
+        "rating": 0.82
+    },
+    {
+        "Player-Agent": "rimuru-neon",
+        "Rounds": 124,
+        "ACS+": 90,
+        "rating": 0.76
+    },
+    {
+        "Player-Agent": "klaus-neon",
+        "Rounds": 114,
+        "ACS+": 83,
+        "rating": 0.75
+    },
+    {
+        "Player-Agent": "jinggg-neon",
+        "Rounds": 64,
+        "ACS+": 100,
+        "rating": 1.22
+    },
+    {
+        "Player-Agent": "cb-neon",
+        "Rounds": 61,
+        "ACS+": 76,
+        "rating": 0.68
+    },
+    {
+        "Player-Agent": "iamgrq-neon",
+        "Rounds": 43,
+        "ACS+": 72,
+        "rating": 0.62
+    },
+    {
+        "Player-Agent": "keiko-neon",
+        "Rounds": 43,
+        "ACS+": 105,
+        "rating": 1.06
+    },
+    {
+        "Player-Agent": "n4rrate-neon",
+        "Rounds": 47,
+        "ACS+": 113,
+        "rating": 1.0
+    },
+    {
+        "Player-Agent": "penny-neon",
+        "Rounds": 80,
+        "ACS+": 100,
+        "rating": 0.9
+    },
+    {
+        "Player-Agent": "infiltrator-neon",
+        "Rounds": 63,
+        "ACS+": 91,
+        "rating": 0.68
+    },
+    {
+        "Player-Agent": "xeus-neon",
+        "Rounds": 51,
+        "ACS+": 95,
+        "rating": 0.97
+    },
+    {
+        "Player-Agent": "d3mur-neon",
+        "Rounds": 78,
+        "ACS+": 101,
+        "rating": 0.84
+    },
+    {
+        "Player-Agent": "eko-neon",
+        "Rounds": 115,
+        "ACS+": 108,
+        "rating": 0.95
+    },
+    {
+        "Player-Agent": "hyunmin-neon",
+        "Rounds": 42,
+        "ACS+": 64,
+        "rating": 0.54
+    },
+    {
+        "Player-Agent": "tenten-neon",
+        "Rounds": 18,
+        "ACS+": 52,
+        "rating": 0.34
+    },
+    {
+        "Player-Agent": "loita-omen",
+        "Rounds": 1056,
+        "ACS+": 111,
+        "rating": 1.1
+    },
+    {
+        "Player-Agent": "skuba-omen",
+        "Rounds": 224,
+        "ACS+": 110,
+        "rating": 1.16
+    },
+    {
+        "Player-Agent": "chichoo-omen",
+        "Rounds": 109,
+        "ACS+": 94,
+        "rating": 0.91
+    },
+    {
+        "Player-Agent": "bang-omen",
+        "Rounds": 730,
+        "ACS+": 108,
+        "rating": 1.2
+    },
+    {
+        "Player-Agent": "keiko-omen",
+        "Rounds": 593,
+        "ACS+": 115,
+        "rating": 1.0
+    },
+    {
+        "Player-Agent": "verno-omen",
+        "Rounds": 92,
+        "ACS+": 102,
+        "rating": 1.02
+    },
+    {
+        "Player-Agent": "signed-omen",
+        "Rounds": 18,
+        "ACS+": 105,
+        "rating": 1.01
+    },
+    {
+        "Player-Agent": "dos9-omen",
+        "Rounds": 625,
+        "ACS+": 115,
+        "rating": 1.16
+    },
+    {
+        "Player-Agent": "proxh-omen",
+        "Rounds": 451,
+        "ACS+": 98,
+        "rating": 0.98
+    },
+    {
+        "Player-Agent": "valyn-omen",
+        "Rounds": 487,
+        "ACS+": 116,
+        "rating": 0.89
+    },
+    {
+        "Player-Agent": "rb-omen",
+        "Rounds": 954,
+        "ACS+": 100,
+        "rating": 1.09
+    },
+    {
+        "Player-Agent": "happywei-omen",
+        "Rounds": 20,
+        "ACS+": 113,
+        "rating": 0.96
+    },
+    {
+        "Player-Agent": "mazino-omen",
+        "Rounds": 374,
+        "ACS+": 108,
+        "rating": 0.9
+    },
+    {
+        "Player-Agent": "boo-omen",
+        "Rounds": 798,
+        "ACS+": 94,
+        "rating": 0.97
+    },
+    {
+        "Player-Agent": "profek-omen",
+        "Rounds": 901,
+        "ACS+": 99,
+        "rating": 0.78
+    },
+    {
+        "Player-Agent": "lysoar-omen",
+        "Rounds": 442,
+        "ACS+": 100,
+        "rating": 0.88
+    },
+    {
+        "Player-Agent": "iamgrq-omen",
+        "Rounds": 169,
+        "ACS+": 89,
+        "rating": 0.95
+    },
+    {
+        "Player-Agent": "crazyguy-omen",
+        "Rounds": 359,
+        "ACS+": 99,
+        "rating": 0.9
+    },
+    {
+        "Player-Agent": "k1ra-omen",
+        "Rounds": 85,
+        "ACS+": 89,
+        "rating": 1.19
+    },
+    {
+        "Player-Agent": "xffero-omen",
+        "Rounds": 24,
+        "ACS+": 95,
+        "rating": 0.78
+    },
+    {
+        "Player-Agent": "xan-omen",
+        "Rounds": 41,
+        "ACS+": 75,
+        "rating": 0.63
+    },
+    {
+        "Player-Agent": "xavi8k-omen",
+        "Rounds": 248,
+        "ACS+": 94,
+        "rating": 0.77
+    },
+    {
+        "Player-Agent": "jinggg-omen",
+        "Rounds": 464,
+        "ACS+": 118,
+        "rating": 0.87
+    },
+    {
+        "Player-Agent": "jieni7-omen",
+        "Rounds": 95,
+        "ACS+": 91,
+        "rating": 0.93
+    },
+    {
+        "Player-Agent": "f0rsaken-omen",
+        "Rounds": 991,
+        "ACS+": 114,
+        "rating": 1.05
+    },
+    {
+        "Player-Agent": "patmen-omen",
+        "Rounds": 431,
+        "ACS+": 120,
+        "rating": 1.12
+    },
+    {
+        "Player-Agent": "rossy-omen",
+        "Rounds": 164,
+        "ACS+": 114,
+        "rating": 0.97
+    },
+    {
+        "Player-Agent": "johnqt-omen",
+        "Rounds": 115,
+        "ACS+": 99,
+        "rating": 1.08
+    },
+    {
+        "Player-Agent": "neon-omen",
+        "Rounds": 261,
+        "ACS+": 115,
+        "rating": 1.24
+    },
+    {
+        "Player-Agent": "kingg-omen",
+        "Rounds": 299,
+        "ACS+": 93,
+        "rating": 0.89
+    },
+    {
+        "Player-Agent": "marved-omen",
+        "Rounds": 24,
+        "ACS+": 114,
+        "rating": 1.16
+    },
+    {
+        "Player-Agent": "cortezia-omen",
+        "Rounds": 28,
+        "ACS+": 114,
+        "rating": 1.09
+    },
+    {
+        "Player-Agent": "v1c-omen",
+        "Rounds": 368,
+        "ACS+": 110,
+        "rating": 1.0
+    },
+    {
+        "Player-Agent": "reduxx-omen",
+        "Rounds": 271,
+        "ACS+": 115,
+        "rating": 0.49
+    },
+    {
+        "Player-Agent": "basic-omen",
+        "Rounds": 42,
+        "ACS+": 100,
+        "rating": 1.04
+    },
+    {
+        "Player-Agent": "demon1-omen",
+        "Rounds": 22,
+        "ACS+": 77,
+        "rating": 0.96
+    },
+    {
+        "Player-Agent": "darker-omen",
+        "Rounds": 79,
+        "ACS+": 108,
+        "rating": 0.95
+    },
+    {
+        "Player-Agent": "nightz-omen",
+        "Rounds": 71,
+        "ACS+": 106,
+        "rating": 0.9
+    },
+    {
+        "Player-Agent": "bao-omen",
+        "Rounds": 81,
+        "ACS+": 65,
+        "rating": 0.47
+    },
+    {
+        "Player-Agent": "artzin-omen",
+        "Rounds": 248,
+        "ACS+": 102,
+        "rating": 1.16
+    },
+    {
+        "Player-Agent": "supamen-omen",
+        "Rounds": 124,
+        "ACS+": 80,
+        "rating": 0.77
+    },
+    {
+        "Player-Agent": "erde-omen",
+        "Rounds": 116,
+        "ACS+": 111,
+        "rating": 1.19
+    },
+    {
+        "Player-Agent": "sato-omen",
+        "Rounds": 117,
+        "ACS+": 97,
+        "rating": 0.91
+    },
+    {
+        "Player-Agent": "saadhak-omen",
+        "Rounds": 373,
+        "ACS+": 108,
+        "rating": 1.13
+    },
+    {
+        "Player-Agent": "klaus-omen",
+        "Rounds": 111,
+        "ACS+": 116,
+        "rating": 1.21
+    },
+    {
+        "Player-Agent": "monyet-omen",
+        "Rounds": 142,
+        "ACS+": 127,
+        "rating": 0.74
+    },
+    {
+        "Player-Agent": "buzz-omen",
+        "Rounds": 42,
+        "ACS+": 130,
+        "rating": 1.12
+    },
+    {
+        "Player-Agent": "karon-omen",
+        "Rounds": 199,
+        "ACS+": 119,
+        "rating": 1.12
+    },
+    {
+        "Player-Agent": "mako-omen",
+        "Rounds": 594,
+        "ACS+": 118,
+        "rating": 1.14
+    },
+    {
+        "Player-Agent": "sylvan-omen",
+        "Rounds": 310,
+        "ACS+": 99,
+        "rating": 0.63
+    },
+    {
+        "Player-Agent": "free1ng-omen",
+        "Rounds": 19,
+        "ACS+": 113,
+        "rating": 1.01
+    },
+    {
+        "Player-Agent": "ssees-omen",
+        "Rounds": 499,
+        "ACS+": 93,
+        "rating": 0.88
+    },
+    {
+        "Player-Agent": "francis-omen",
+        "Rounds": 75,
+        "ACS+": 105,
+        "rating": 0.93
+    },
+    {
+        "Player-Agent": "caedye-omen",
+        "Rounds": 48,
+        "ACS+": 104,
+        "rating": 1.0
+    },
+    {
+        "Player-Agent": "dh-omen",
+        "Rounds": 135,
+        "ACS+": 102,
+        "rating": 0.89
+    },
+    {
+        "Player-Agent": "seph1roth-omen",
+        "Rounds": 68,
+        "ACS+": 92,
+        "rating": 0.83
+    },
+    {
+        "Player-Agent": "sugarz3ro-omen",
+        "Rounds": 446,
+        "ACS+": 103,
+        "rating": 1.03
+    },
+    {
+        "Player-Agent": "c1nder-omen",
+        "Rounds": 299,
+        "ACS+": 85,
+        "rating": 0.58
+    },
+    {
+        "Player-Agent": "crws-omen",
+        "Rounds": 62,
+        "ACS+": 75,
+        "rating": 0.74
+    },
+    {
+        "Player-Agent": "sociablee-omen",
+        "Rounds": 844,
+        "ACS+": 109,
+        "rating": 0.95
+    },
+    {
+        "Player-Agent": "ruxic-omen",
+        "Rounds": 342,
+        "ACS+": 116,
+        "rating": 0.57
+    },
+    {
+        "Player-Agent": "yetujey-omen",
+        "Rounds": 56,
+        "ACS+": 108,
+        "rating": 0.89
+    },
+    {
+        "Player-Agent": "kicks-omen",
+        "Rounds": 189,
+        "ACS+": 99,
+        "rating": 1.04
+    },
+    {
+        "Player-Agent": "cyvoph-omen",
+        "Rounds": 24,
+        "ACS+": 102,
+        "rating": 0.93
+    },
+    {
+        "Player-Agent": "qpert-omen",
+        "Rounds": 472,
+        "ACS+": 86,
+        "rating": 0.81
+    },
+    {
+        "Player-Agent": "audaz-omen",
+        "Rounds": 466,
+        "ACS+": 92,
+        "rating": 1.02
+    },
+    {
+        "Player-Agent": "jesse-omen",
+        "Rounds": 143,
+        "ACS+": 79,
+        "rating": 0.79
+    },
+    {
+        "Player-Agent": "flickless-omen",
+        "Rounds": 45,
+        "ACS+": 80,
+        "rating": 0.73
+    },
+    {
+        "Player-Agent": "boaster-omen",
+        "Rounds": 381,
+        "ACS+": 83,
+        "rating": 0.59
+    },
+    {
+        "Player-Agent": "koshmaras-omen",
+        "Rounds": 38,
+        "ACS+": 61,
+        "rating": 0.56
+    },
+    {
+        "Player-Agent": "spike-omen",
+        "Rounds": 135,
+        "ACS+": 138,
+        "rating": 1.25
+    },
+    {
+        "Player-Agent": "flex1n-omen",
+        "Rounds": 35,
+        "ACS+": 88,
+        "rating": 0.76
+    },
+    {
+        "Player-Agent": "leviathan-omen",
+        "Rounds": 395,
+        "ACS+": 110,
+        "rating": 0.93
+    },
+    {
+        "Player-Agent": "ethan-omen",
+        "Rounds": 235,
+        "ACS+": 96,
+        "rating": 0.84
+    },
+    {
+        "Player-Agent": "notexxd-omen",
+        "Rounds": 41,
+        "ACS+": 112,
+        "rating": 1.02
+    },
+    {
+        "Player-Agent": "nerve-omen",
+        "Rounds": 102,
+        "ACS+": 103,
+        "rating": 0.97
+    },
+    {
+        "Player-Agent": "koalanoob-omen",
+        "Rounds": 273,
+        "ACS+": 120,
+        "rating": 1.14
+    },
+    {
+        "Player-Agent": "eggsterr-omen",
+        "Rounds": 65,
+        "ACS+": 111,
+        "rating": 0.91
+    },
+    {
+        "Player-Agent": "okeanos-omen",
+        "Rounds": 132,
+        "ACS+": 97,
+        "rating": 1.03
+    },
+    {
+        "Player-Agent": "bati-omen",
+        "Rounds": 84,
+        "ACS+": 75,
+        "rating": 0.58
+    },
+    {
+        "Player-Agent": "leaf-omen",
+        "Rounds": 21,
+        "ACS+": 76,
+        "rating": 0.5
+    },
+    {
+        "Player-Agent": "filu-omen",
+        "Rounds": 42,
+        "ACS+": 105,
+        "rating": 1.04
+    },
+    {
+        "Player-Agent": "avez-omen",
+        "Rounds": 56,
+        "ACS+": 97,
+        "rating": 1.04
+    },
+    {
+        "Player-Agent": "glyph-omen",
+        "Rounds": 191,
+        "ACS+": 112,
+        "rating": 1.03
+    },
+    {
+        "Player-Agent": "grubinho-omen",
+        "Rounds": 231,
+        "ACS+": 94,
+        "rating": 0.95
+    },
+    {
+        "Player-Agent": "wayne-omen",
+        "Rounds": 448,
+        "ACS+": 100,
+        "rating": 0.99
+    },
+    {
+        "Player-Agent": "ash-omen",
+        "Rounds": 116,
+        "ACS+": 87,
+        "rating": 0.82
+    },
+    {
+        "Player-Agent": "syouta-omen",
+        "Rounds": 19,
+        "ACS+": 130,
+        "rating": 1.08
+    },
+    {
+        "Player-Agent": "munchkin-omen",
+        "Rounds": 290,
+        "ACS+": 106,
+        "rating": 1.03
+    },
+    {
+        "Player-Agent": "autumn-omen",
+        "Rounds": 22,
+        "ACS+": 84,
+        "rating": 0.78
+    },
+    {
+        "Player-Agent": "kitae-omen",
+        "Rounds": 96,
+        "ACS+": 99,
+        "rating": 0.73
+    },
+    {
+        "Player-Agent": "foxy9-omen",
+        "Rounds": 17,
+        "ACS+": 77,
+        "rating": 0.6
+    },
+    {
+        "Player-Agent": "izu-omen",
+        "Rounds": 84,
+        "ACS+": 110,
+        "rating": 1.02
+    },
+    {
+        "Player-Agent": "smoggy-omen",
+        "Rounds": 47,
+        "ACS+": 81,
+        "rating": 0.76
+    },
+    {
+        "Player-Agent": "zekken-omen",
+        "Rounds": 159,
+        "ACS+": 116,
+        "rating": 0.92
+    },
+    {
+        "Player-Agent": "asuna-omen",
+        "Rounds": 46,
+        "ACS+": 69,
+        "rating": 0.75
+    },
+    {
+        "Player-Agent": "pancada-omen",
+        "Rounds": 38,
+        "ACS+": 89,
+        "rating": 0.72
+    },
+    {
+        "Player-Agent": "beng-omen",
+        "Rounds": 18,
+        "ACS+": 68,
+        "rating": 0.45
+    },
+    {
+        "Player-Agent": "mrfalin-omen",
+        "Rounds": 45,
+        "ACS+": 91,
+        "rating": 0.8
+    },
+    {
+        "Player-Agent": "shao-omen",
+        "Rounds": 66,
+        "ACS+": 73,
+        "rating": 0.71
+    },
+    {
+        "Player-Agent": "oonzmlp-omen",
+        "Rounds": 23,
+        "ACS+": 91,
+        "rating": 0.87
+    },
+    {
+        "Player-Agent": "zekken-phoenix",
+        "Rounds": 253,
+        "ACS+": 109,
+        "rating": 1.15
+    },
+    {
+        "Player-Agent": "keiko-phoenix",
+        "Rounds": 240,
+        "ACS+": 113,
+        "rating": 1.26
+    },
+    {
+        "Player-Agent": "marteen-phoenix",
+        "Rounds": 487,
+        "ACS+": 121,
+        "rating": 1.14
+    },
+    {
+        "Player-Agent": "sayonara-phoenix",
+        "Rounds": 252,
+        "ACS+": 103,
+        "rating": 1.1
+    },
+    {
+        "Player-Agent": "lar0k-phoenix",
+        "Rounds": 87,
+        "ACS+": 91,
+        "rating": 0.65
+    },
+    {
+        "Player-Agent": "n4rrate-phoenix",
+        "Rounds": 164,
+        "ACS+": 114,
+        "rating": 1.17
+    },
+    {
+        "Player-Agent": "xross-phoenix",
+        "Rounds": 377,
+        "ACS+": 107,
+        "rating": 1.21
+    },
+    {
+        "Player-Agent": "iamgrq-phoenix",
+        "Rounds": 62,
+        "ACS+": 113,
+        "rating": 1.14
+    },
+    {
+        "Player-Agent": "mada-phoenix",
+        "Rounds": 172,
+        "ACS+": 112,
+        "rating": 1.1
+    },
+    {
+        "Player-Agent": "koshmaras-phoenix",
+        "Rounds": 151,
+        "ACS+": 109,
+        "rating": 1.1
+    },
+    {
+        "Player-Agent": "autumn-phoenix",
+        "Rounds": 195,
+        "ACS+": 104,
+        "rating": 1.28
+    },
+    {
+        "Player-Agent": "asuna-phoenix",
+        "Rounds": 513,
+        "ACS+": 111,
+        "rating": 1.01
+    },
+    {
+        "Player-Agent": "rarga-phoenix",
+        "Rounds": 184,
+        "ACS+": 94,
+        "rating": 0.9
+    },
+    {
+        "Player-Agent": "signed-phoenix",
+        "Rounds": 36,
+        "ACS+": 91,
+        "rating": 0.87
+    },
+    {
+        "Player-Agent": "jawgemo-phoenix",
+        "Rounds": 167,
+        "ACS+": 132,
+        "rating": 0.95
+    },
+    {
+        "Player-Agent": "fireballops-phoenix",
+        "Rounds": 24,
+        "ACS+": 111,
+        "rating": 1.25
+    },
+    {
+        "Player-Agent": "sato-phoenix",
+        "Rounds": 845,
+        "ACS+": 115,
+        "rating": 1.12
+    },
+    {
+        "Player-Agent": "heat-phoenix",
+        "Rounds": 59,
+        "ACS+": 116,
+        "rating": 1.16
+    },
+    {
+        "Player-Agent": "nightz-phoenix",
+        "Rounds": 68,
+        "ACS+": 94,
+        "rating": 0.99
+    },
+    {
+        "Player-Agent": "zerona-phoenix",
+        "Rounds": 85,
+        "ACS+": 97,
+        "rating": 0.83
+    },
+    {
+        "Player-Agent": "reduxx-phoenix",
+        "Rounds": 111,
+        "ACS+": 87,
+        "rating": 0.8
+    },
+    {
+        "Player-Agent": "dantedeu5-phoenix",
+        "Rounds": 23,
+        "ACS+": 74,
+        "rating": 0.68
+    },
+    {
+        "Player-Agent": "ethan-phoenix",
+        "Rounds": 52,
+        "ACS+": 67,
+        "rating": 0.64
+    },
+    {
+        "Player-Agent": "demon1-phoenix",
+        "Rounds": 22,
+        "ACS+": 76,
+        "rating": 0.6
+    },
+    {
+        "Player-Agent": "artzin-phoenix",
+        "Rounds": 21,
+        "ACS+": 83,
+        "rating": 0.55
+    },
+    {
+        "Player-Agent": "jitboys-phoenix",
+        "Rounds": 124,
+        "ACS+": 111,
+        "rating": 1.09
+    },
+    {
+        "Player-Agent": "raxcal-phoenix",
+        "Rounds": 77,
+        "ACS+": 103,
+        "rating": 1.09
+    },
+    {
+        "Player-Agent": "f0rsaken-phoenix",
+        "Rounds": 19,
+        "ACS+": 114,
+        "rating": 1.07
+    },
+    {
+        "Player-Agent": "buzz-phoenix",
+        "Rounds": 109,
+        "ACS+": 102,
+        "rating": 1.06
+    },
+    {
+        "Player-Agent": "hyunmin-phoenix",
+        "Rounds": 251,
+        "ACS+": 102,
+        "rating": 1.16
+    },
+    {
+        "Player-Agent": "kellys-phoenix",
+        "Rounds": 119,
+        "ACS+": 103,
+        "rating": 0.99
+    },
+    {
+        "Player-Agent": "oonzmlp-phoenix",
+        "Rounds": 119,
+        "ACS+": 92,
+        "rating": 1.32
+    },
+    {
+        "Player-Agent": "t3xture-phoenix",
+        "Rounds": 21,
+        "ACS+": 86,
+        "rating": 0.85
+    },
+    {
+        "Player-Agent": "kushy-phoenix",
+        "Rounds": 74,
+        "ACS+": 85,
+        "rating": 0.74
+    },
+    {
+        "Player-Agent": "jemkin-phoenix",
+        "Rounds": 40,
+        "ACS+": 75,
+        "rating": 0.66
+    },
+    {
+        "Player-Agent": "spear-phoenix",
+        "Rounds": 17,
+        "ACS+": 149,
+        "rating": 1.51
+    },
+    {
+        "Player-Agent": "derke-phoenix",
+        "Rounds": 77,
+        "ACS+": 145,
+        "rating": 1.45
+    },
+    {
+        "Player-Agent": "kamo-phoenix",
+        "Rounds": 335,
+        "ACS+": 109,
+        "rating": 1.06
+    },
+    {
+        "Player-Agent": "favian-phoenix",
+        "Rounds": 132,
+        "ACS+": 107,
+        "rating": 1.02
+    },
+    {
+        "Player-Agent": "cloud-phoenix",
+        "Rounds": 13,
+        "ACS+": 110,
+        "rating": 1.13
+    },
+    {
+        "Player-Agent": "cyvoph-phoenix",
+        "Rounds": 129,
+        "ACS+": 106,
+        "rating": 1.16
+    },
+    {
+        "Player-Agent": "westside-phoenix",
+        "Rounds": 179,
+        "ACS+": 108,
+        "rating": 1.26
+    },
+    {
+        "Player-Agent": "jamppi-phoenix",
+        "Rounds": 228,
+        "ACS+": 110,
+        "rating": 1.03
+    },
+    {
+        "Player-Agent": "xeus-phoenix",
+        "Rounds": 143,
+        "ACS+": 86,
+        "rating": 0.8
+    },
+    {
+        "Player-Agent": "flickless-phoenix",
+        "Rounds": 43,
+        "ACS+": 109,
+        "rating": 0.97
+    },
+    {
+        "Player-Agent": "sociablee-phoenix",
+        "Rounds": 22,
+        "ACS+": 96,
+        "rating": 0.79
+    },
+    {
+        "Player-Agent": "seven-phoenix",
+        "Rounds": 109,
+        "ACS+": 90,
+        "rating": 0.78
+    },
+    {
+        "Player-Agent": "jesse-phoenix",
+        "Rounds": 45,
+        "ACS+": 59,
+        "rating": 0.67
+    },
+    {
+        "Player-Agent": "smoggy-phoenix",
+        "Rounds": 92,
+        "ACS+": 101,
+        "rating": 1.11
+    },
+    {
+        "Player-Agent": "primmie-phoenix",
+        "Rounds": 164,
+        "ACS+": 123,
+        "rating": 1.28
+    },
+    {
+        "Player-Agent": "leaf-phoenix",
+        "Rounds": 269,
+        "ACS+": 102,
+        "rating": 1.0
+    },
+    {
+        "Player-Agent": "life-phoenix",
+        "Rounds": 46,
+        "ACS+": 70,
+        "rating": 0.6
+    },
+    {
+        "Player-Agent": "darker-phoenix",
+        "Rounds": 23,
+        "ACS+": 124,
+        "rating": 1.27
+    },
+    {
+        "Player-Agent": "timotino-phoenix",
+        "Rounds": 132,
+        "ACS+": 98,
+        "rating": 0.97
+    },
+    {
+        "Player-Agent": "eggsterr-phoenix",
+        "Rounds": 57,
+        "ACS+": 96,
+        "rating": 0.9
+    },
+    {
+        "Player-Agent": "okeanos-phoenix",
+        "Rounds": 22,
+        "ACS+": 88,
+        "rating": 0.8
+    },
+    {
+        "Player-Agent": "koalanoob-phoenix",
+        "Rounds": 138,
+        "ACS+": 83,
+        "rating": 0.78
+    },
+    {
+        "Player-Agent": "silentzz-phoenix",
+        "Rounds": 87,
+        "ACS+": 81,
+        "rating": 0.77
+    },
+    {
+        "Player-Agent": "alym-phoenix",
+        "Rounds": 21,
+        "ACS+": 75,
+        "rating": 0.55
+    },
+    {
+        "Player-Agent": "wo0t-phoenix",
+        "Rounds": 40,
+        "ACS+": 110,
+        "rating": 0.97
+    },
+    {
+        "Player-Agent": "desmo-phoenix",
+        "Rounds": 16,
+        "ACS+": 100,
+        "rating": 0.94
+    },
+    {
+        "Player-Agent": "lewn-phoenix",
+        "Rounds": 41,
+        "ACS+": 103,
+        "rating": 0.94
+    },
+    {
+        "Player-Agent": "filu-phoenix",
+        "Rounds": 22,
+        "ACS+": 98,
+        "rating": 0.91
+    },
+    {
+        "Player-Agent": "avez-phoenix",
+        "Rounds": 157,
+        "ACS+": 79,
+        "rating": 0.83
+    },
+    {
+        "Player-Agent": "karon-phoenix",
+        "Rounds": 92,
+        "ACS+": 119,
+        "rating": 1.27
+    },
+    {
+        "Player-Agent": "dambi-phoenix",
+        "Rounds": 144,
+        "ACS+": 106,
+        "rating": 1.13
+    },
+    {
+        "Player-Agent": "meteor-phoenix",
+        "Rounds": 62,
+        "ACS+": 103,
+        "rating": 1.12
+    },
+    {
+        "Player-Agent": "jinggg-phoenix",
+        "Rounds": 345,
+        "ACS+": 100,
+        "rating": 1.11
+    },
+    {
+        "Player-Agent": "zexy-phoenix",
+        "Rounds": 18,
+        "ACS+": 90,
+        "rating": 0.71
+    },
+    {
+        "Player-Agent": "eko-phoenix",
+        "Rounds": 18,
+        "ACS+": 47,
+        "rating": 0.39
+    },
+    {
+        "Player-Agent": "caedye-phoenix",
+        "Rounds": 84,
+        "ACS+": 100,
+        "rating": 0.84
+    },
+    {
+        "Player-Agent": "derke-raze",
+        "Rounds": 267,
+        "ACS+": 117,
+        "rating": 0.82
+    },
+    {
+        "Player-Agent": "mada-raze",
+        "Rounds": 170,
+        "ACS+": 115,
+        "rating": 1.3
+    },
+    {
+        "Player-Agent": "jawgemo-raze",
+        "Rounds": 372,
+        "ACS+": 96,
+        "rating": 0.91
+    },
+    {
+        "Player-Agent": "lar0k-raze",
+        "Rounds": 363,
+        "ACS+": 128,
+        "rating": 1.1
+    },
+    {
+        "Player-Agent": "marteen-raze",
+        "Rounds": 236,
+        "ACS+": 125,
+        "rating": 1.21
+    },
+    {
+        "Player-Agent": "wo0t-raze",
+        "Rounds": 469,
+        "ACS+": 106,
+        "rating": 1.15
+    },
+    {
+        "Player-Agent": "lewn-raze",
+        "Rounds": 95,
+        "ACS+": 112,
+        "rating": 1.13
+    },
+    {
+        "Player-Agent": "zekken-raze",
+        "Rounds": 107,
+        "ACS+": 89,
+        "rating": 0.98
+    },
+    {
+        "Player-Agent": "xross-raze",
+        "Rounds": 76,
+        "ACS+": 87,
+        "rating": 0.95
+    },
+    {
+        "Player-Agent": "jieni7-raze",
+        "Rounds": 51,
+        "ACS+": 110,
+        "rating": 0.93
+    },
+    {
+        "Player-Agent": "udotan-raze",
+        "Rounds": 332,
+        "ACS+": 101,
+        "rating": 0.65
+    },
+    {
+        "Player-Agent": "k1ra-raze",
+        "Rounds": 190,
+        "ACS+": 99,
+        "rating": 1.04
+    },
+    {
+        "Player-Agent": "jinggg-raze",
+        "Rounds": 925,
+        "ACS+": 110,
+        "rating": 1.08
+    },
+    {
+        "Player-Agent": "noman-raze",
+        "Rounds": 96,
+        "ACS+": 75,
+        "rating": 0.81
+    },
+    {
+        "Player-Agent": "sayonara-raze",
+        "Rounds": 143,
+        "ACS+": 100,
+        "rating": 1.04
+    },
+    {
+        "Player-Agent": "timotino-raze",
+        "Rounds": 111,
+        "ACS+": 116,
+        "rating": 1.15
+    },
+    {
+        "Player-Agent": "oxy-raze",
+        "Rounds": 66,
+        "ACS+": 109,
+        "rating": 1.11
+    },
+    {
+        "Player-Agent": "tkzin-raze",
+        "Rounds": 41,
+        "ACS+": 88,
+        "rating": 0.87
+    },
+    {
+        "Player-Agent": "heat-raze",
+        "Rounds": 74,
+        "ACS+": 78,
+        "rating": 0.86
+    },
+    {
+        "Player-Agent": "jerrwin-raze",
+        "Rounds": 72,
+        "ACS+": 94,
+        "rating": 0.85
+    },
+    {
+        "Player-Agent": "koalanoob-raze",
+        "Rounds": 53,
+        "ACS+": 86,
+        "rating": 0.49
+    },
+    {
+        "Player-Agent": "artzin-raze",
+        "Rounds": 21,
+        "ACS+": 76,
+        "rating": 0.57
+    },
+    {
+        "Player-Agent": "keznit-raze",
+        "Rounds": 60,
+        "ACS+": 89,
+        "rating": 0.72
+    },
+    {
+        "Player-Agent": "yatsuka-raze",
+        "Rounds": 48,
+        "ACS+": 128,
+        "rating": 1.31
+    },
+    {
+        "Player-Agent": "buzz-raze",
+        "Rounds": 120,
+        "ACS+": 124,
+        "rating": 1.43
+    },
+    {
+        "Player-Agent": "jitboys-raze",
+        "Rounds": 178,
+        "ACS+": 114,
+        "rating": 1.02
+    },
+    {
+        "Player-Agent": "hyunmin-raze",
+        "Rounds": 244,
+        "ACS+": 117,
+        "rating": 1.22
+    },
+    {
+        "Player-Agent": "zexy-raze",
+        "Rounds": 225,
+        "ACS+": 110,
+        "rating": 0.73
+    },
+    {
+        "Player-Agent": "t3xture-raze",
+        "Rounds": 145,
+        "ACS+": 110,
+        "rating": 1.44
+    },
+    {
+        "Player-Agent": "klaus-raze",
+        "Rounds": 19,
+        "ACS+": 56,
+        "rating": 0.44
+    },
+    {
+        "Player-Agent": "kamo-raze",
+        "Rounds": 236,
+        "ACS+": 110,
+        "rating": 1.08
+    },
+    {
+        "Player-Agent": "favian-raze",
+        "Rounds": 275,
+        "ACS+": 104,
+        "rating": 1.08
+    },
+    {
+        "Player-Agent": "seven-raze",
+        "Rounds": 198,
+        "ACS+": 85,
+        "rating": 0.78
+    },
+    {
+        "Player-Agent": "xeus-raze",
+        "Rounds": 448,
+        "ACS+": 94,
+        "rating": 1.02
+    },
+    {
+        "Player-Agent": "kaajak-raze",
+        "Rounds": 18,
+        "ACS+": 70,
+        "rating": 0.65
+    },
+    {
+        "Player-Agent": "smoggy-raze",
+        "Rounds": 117,
+        "ACS+": 96,
+        "rating": 0.87
+    },
+    {
+        "Player-Agent": "sato-raze",
+        "Rounds": 116,
+        "ACS+": 91,
+        "rating": 0.79
+    },
+    {
+        "Player-Agent": "penny-raze",
+        "Rounds": 135,
+        "ACS+": 98,
+        "rating": 0.92
+    },
+    {
+        "Player-Agent": "asuna-raze",
+        "Rounds": 66,
+        "ACS+": 123,
+        "rating": 1.18
+    },
+    {
+        "Player-Agent": "aspas-raze",
+        "Rounds": 244,
+        "ACS+": 97,
+        "rating": 1.05
+    },
+    {
+        "Player-Agent": "virtyy-raze",
+        "Rounds": 38,
+        "ACS+": 102,
+        "rating": 1.05
+    },
+    {
+        "Player-Agent": "reduxx-raze",
+        "Rounds": 71,
+        "ACS+": 107,
+        "rating": 1.04
+    },
+    {
+        "Player-Agent": "xeppaa-raze",
+        "Rounds": 57,
+        "ACS+": 98,
+        "rating": 0.89
+    },
+    {
+        "Player-Agent": "victor-raze",
+        "Rounds": 21,
+        "ACS+": 83,
+        "rating": 0.65
+    },
+    {
+        "Player-Agent": "darker-raze",
+        "Rounds": 17,
+        "ACS+": 60,
+        "rating": 0.6
+    },
+    {
+        "Player-Agent": "bipo-raze",
+        "Rounds": 87,
+        "ACS+": 96,
+        "rating": 0.9
+    },
+    {
+        "Player-Agent": "alfajer-raze",
+        "Rounds": 244,
+        "ACS+": 119,
+        "rating": 1.22
+    },
+    {
+        "Player-Agent": "filu-raze",
+        "Rounds": 204,
+        "ACS+": 89,
+        "rating": 0.82
+    },
+    {
+        "Player-Agent": "primmie-raze",
+        "Rounds": 20,
+        "ACS+": 149,
+        "rating": 1.38
+    },
+    {
+        "Player-Agent": "meiy-raze",
+        "Rounds": 208,
+        "ACS+": 120,
+        "rating": 1.09
+    },
+    {
+        "Player-Agent": "jemkin-raze",
+        "Rounds": 56,
+        "ACS+": 110,
+        "rating": 1.3
+    },
+    {
+        "Player-Agent": "izu-raze",
+        "Rounds": 22,
+        "ACS+": 95,
+        "rating": 1.02
+    },
+    {
+        "Player-Agent": "dambi-raze",
+        "Rounds": 45,
+        "ACS+": 103,
+        "rating": 1.02
+    },
+    {
+        "Player-Agent": "free1ng-raze",
+        "Rounds": 33,
+        "ACS+": 78,
+        "rating": 0.88
+    },
+    {
+        "Player-Agent": "syouta-raze",
+        "Rounds": 65,
+        "ACS+": 93,
+        "rating": 0.81
+    },
+    {
+        "Player-Agent": "keiko-raze",
+        "Rounds": 46,
+        "ACS+": 94,
+        "rating": 0.83
+    },
+    {
+        "Player-Agent": "mta-raze",
+        "Rounds": 23,
+        "ACS+": 102,
+        "rating": 1.14
+    },
+    {
+        "Player-Agent": "miniboo-raze",
+        "Rounds": 64,
+        "ACS+": 110,
+        "rating": 1.11
+    },
+    {
+        "Player-Agent": "ara-raze",
+        "Rounds": 102,
+        "ACS+": 79,
+        "rating": 0.79
+    },
+    {
+        "Player-Agent": "comeback-raze",
+        "Rounds": 42,
+        "ACS+": 69,
+        "rating": 0.62
+    },
+    {
+        "Player-Agent": "absol-raze",
+        "Rounds": 37,
+        "ACS+": 121,
+        "rating": 1.08
+    },
+    {
+        "Player-Agent": "tenten-raze",
+        "Rounds": 34,
+        "ACS+": 93,
+        "rating": 1.03
+    },
+    {
+        "Player-Agent": "monyet-raze",
+        "Rounds": 40,
+        "ACS+": 105,
+        "rating": 0.99
+    },
+    {
+        "Player-Agent": "thyy-raze",
+        "Rounds": 140,
+        "ACS+": 89,
+        "rating": 0.91
+    },
+    {
+        "Player-Agent": "demon1-reyna",
+        "Rounds": 16,
+        "ACS+": 100,
+        "rating": 0.79
+    },
+    {
+        "Player-Agent": "leaf-sage",
+        "Rounds": 121,
+        "ACS+": 123,
+        "rating": 1.39
+    },
+    {
+        "Player-Agent": "crazyguy-sage",
+        "Rounds": 63,
+        "ACS+": 76,
+        "rating": 0.56
+    },
+    {
+        "Player-Agent": "asuna-sage",
+        "Rounds": 272,
+        "ACS+": 100,
+        "rating": 0.95
+    },
+    {
+        "Player-Agent": "xross-sage",
+        "Rounds": 20,
+        "ACS+": 76,
+        "rating": 0.56
+    },
+    {
+        "Player-Agent": "chichoo-sage",
+        "Rounds": 36,
+        "ACS+": 57,
+        "rating": 0.42
+    },
+    {
+        "Player-Agent": "erde-sage",
+        "Rounds": 79,
+        "ACS+": 100,
+        "rating": 1.03
+    },
+    {
+        "Player-Agent": "zellsis-sage",
+        "Rounds": 64,
+        "ACS+": 85,
+        "rating": 0.89
+    },
+    {
+        "Player-Agent": "rossy-sage",
+        "Rounds": 37,
+        "ACS+": 75,
+        "rating": 0.67
+    },
+    {
+        "Player-Agent": "less-sage",
+        "Rounds": 16,
+        "ACS+": 46,
+        "rating": 0.2
+    },
+    {
+        "Player-Agent": "something-sage",
+        "Rounds": 37,
+        "ACS+": 155,
+        "rating": 1.57
+    },
+    {
+        "Player-Agent": "xffero-sage",
+        "Rounds": 21,
+        "ACS+": 135,
+        "rating": 1.25
+    },
+    {
+        "Player-Agent": "raxcal-sage",
+        "Rounds": 122,
+        "ACS+": 117,
+        "rating": 1.11
+    },
+    {
+        "Player-Agent": "oonzmlp-sage",
+        "Rounds": 66,
+        "ACS+": 110,
+        "rating": 1.07
+    },
+    {
+        "Player-Agent": "yatsuka-sage",
+        "Rounds": 43,
+        "ACS+": 112,
+        "rating": 1.05
+    },
+    {
+        "Player-Agent": "crws-sage",
+        "Rounds": 23,
+        "ACS+": 107,
+        "rating": 0.85
+    },
+    {
+        "Player-Agent": "xdll-sage",
+        "Rounds": 102,
+        "ACS+": 85,
+        "rating": 0.79
+    },
+    {
+        "Player-Agent": "kushy-sage",
+        "Rounds": 18,
+        "ACS+": 63,
+        "rating": 0.26
+    },
+    {
+        "Player-Agent": "cloud-sage",
+        "Rounds": 71,
+        "ACS+": 125,
+        "rating": 1.23
+    },
+    {
+        "Player-Agent": "jamppi-sage",
+        "Rounds": 20,
+        "ACS+": 112,
+        "rating": 1.14
+    },
+    {
+        "Player-Agent": "spear-sage",
+        "Rounds": 30,
+        "ACS+": 121,
+        "rating": 1.08
+    },
+    {
+        "Player-Agent": "ninja-sage",
+        "Rounds": 61,
+        "ACS+": 114,
+        "rating": 1.05
+    },
+    {
+        "Player-Agent": "cyvoph-sage",
+        "Rounds": 146,
+        "ACS+": 89,
+        "rating": 0.91
+    },
+    {
+        "Player-Agent": "n4rrate-sage",
+        "Rounds": 32,
+        "ACS+": 88,
+        "rating": 0.77
+    },
+    {
+        "Player-Agent": "jinggg-sage",
+        "Rounds": 105,
+        "ACS+": 103,
+        "rating": 0.95
+    },
+    {
+        "Player-Agent": "jitboys-sage",
+        "Rounds": 43,
+        "ACS+": 124,
+        "rating": 1.11
+    },
+    {
+        "Player-Agent": "rarga-sage",
+        "Rounds": 105,
+        "ACS+": 113,
+        "rating": 1.04
+    },
+    {
+        "Player-Agent": "boo-sage",
+        "Rounds": 90,
+        "ACS+": 97,
+        "rating": 1.3
+    },
+    {
+        "Player-Agent": "xavi8k-sage",
+        "Rounds": 216,
+        "ACS+": 97,
+        "rating": 0.84
+    },
+    {
+        "Player-Agent": "xeus-sage",
+        "Rounds": 34,
+        "ACS+": 75,
+        "rating": 0.52
+    },
+    {
+        "Player-Agent": "verno-sage",
+        "Rounds": 20,
+        "ACS+": 100,
+        "rating": 0.98
+    },
+    {
+        "Player-Agent": "mada-sage",
+        "Rounds": 23,
+        "ACS+": 85,
+        "rating": 0.92
+    },
+    {
+        "Player-Agent": "johnqt-sage",
+        "Rounds": 53,
+        "ACS+": 83,
+        "rating": 0.75
+    },
+    {
+        "Player-Agent": "seven-sage",
+        "Rounds": 34,
+        "ACS+": 71,
+        "rating": 0.56
+    },
+    {
+        "Player-Agent": "udotan-sage",
+        "Rounds": 41,
+        "ACS+": 101,
+        "rating": 0.82
+    },
+    {
+        "Player-Agent": "wayne-sage",
+        "Rounds": 19,
+        "ACS+": 123,
+        "rating": 1.24
+    },
+    {
+        "Player-Agent": "alfajer-sage",
+        "Rounds": 24,
+        "ACS+": 106,
+        "rating": 1.06
+    },
+    {
+        "Player-Agent": "westside-sage",
+        "Rounds": 79,
+        "ACS+": 119,
+        "rating": 0.98
+    },
+    {
+        "Player-Agent": "chronicle-sage",
+        "Rounds": 26,
+        "ACS+": 97,
+        "rating": 0.88
+    },
+    {
+        "Player-Agent": "patmen-sage",
+        "Rounds": 23,
+        "ACS+": 134,
+        "rating": 1.24
+    },
+    {
+        "Player-Agent": "trent-skye",
+        "Rounds": 348,
+        "ACS+": 109,
+        "rating": 1.16
+    },
+    {
+        "Player-Agent": "f0rsaken-skye",
+        "Rounds": 104,
+        "ACS+": 129,
+        "rating": 1.1
+    },
+    {
+        "Player-Agent": "mazino-skye",
+        "Rounds": 34,
+        "ACS+": 125,
+        "rating": 1.05
+    },
+    {
+        "Player-Agent": "francis-skye",
+        "Rounds": 76,
+        "ACS+": 101,
+        "rating": 1.01
+    },
+    {
+        "Player-Agent": "shr1mp-skye",
+        "Rounds": 95,
+        "ACS+": 98,
+        "rating": 0.86
+    },
+    {
+        "Player-Agent": "invy-skye",
+        "Rounds": 303,
+        "ACS+": 117,
+        "rating": 1.22
+    },
+    {
+        "Player-Agent": "vora-skye",
+        "Rounds": 259,
+        "ACS+": 108,
+        "rating": 0.98
+    },
+    {
+        "Player-Agent": "nobody-skye",
+        "Rounds": 182,
+        "ACS+": 83,
+        "rating": 0.1
+    },
+    {
+        "Player-Agent": "jamppi-skye",
+        "Rounds": 56,
+        "ACS+": 85,
+        "rating": 0.74
+    },
+    {
+        "Player-Agent": "wsleo-skye",
+        "Rounds": 98,
+        "ACS+": 68,
+        "rating": 0.72
+    },
+    {
+        "Player-Agent": "jackk-skye",
+        "Rounds": 18,
+        "ACS+": 78,
+        "rating": 1.04
+    },
+    {
+        "Player-Agent": "jonahp-skye",
+        "Rounds": 98,
+        "ACS+": 104,
+        "rating": 0.91
+    },
+    {
+        "Player-Agent": "eeiu-skye",
+        "Rounds": 21,
+        "ACS+": 84,
+        "rating": 0.79
+    },
+    {
+        "Player-Agent": "glyph-skye",
+        "Rounds": 17,
+        "ACS+": 64,
+        "rating": 0.68
+    },
+    {
+        "Player-Agent": "blowz-skye",
+        "Rounds": 198,
+        "ACS+": 110,
+        "rating": 1.27
+    },
+    {
+        "Player-Agent": "patmen-skye",
+        "Rounds": 110,
+        "ACS+": 138,
+        "rating": 0.99
+    },
+    {
+        "Player-Agent": "akame-skye",
+        "Rounds": 100,
+        "ACS+": 134,
+        "rating": 1.27
+    },
+    {
+        "Player-Agent": "eko-skye",
+        "Rounds": 68,
+        "ACS+": 112,
+        "rating": 1.01
+    },
+    {
+        "Player-Agent": "izu-skye",
+        "Rounds": 26,
+        "ACS+": 134,
+        "rating": 1.17
+    },
+    {
+        "Player-Agent": "beyn-skye",
+        "Rounds": 162,
+        "ACS+": 111,
+        "rating": 1.12
+    },
+    {
+        "Player-Agent": "killua-skye",
+        "Rounds": 316,
+        "ACS+": 117,
+        "rating": 1.08
+    },
+    {
+        "Player-Agent": "styron-skye",
+        "Rounds": 19,
+        "ACS+": 127,
+        "rating": 1.06
+    },
+    {
+        "Player-Agent": "xdll-skye",
+        "Rounds": 159,
+        "ACS+": 103,
+        "rating": 0.97
+    },
+    {
+        "Player-Agent": "krostaly-skye",
+        "Rounds": 294,
+        "ACS+": 100,
+        "rating": 0.98
+    },
+    {
+        "Player-Agent": "trexx-skye",
+        "Rounds": 15,
+        "ACS+": 99,
+        "rating": 0.67
+    },
+    {
+        "Player-Agent": "kicks-skye",
+        "Rounds": 19,
+        "ACS+": 82,
+        "rating": 0.65
+    },
+    {
+        "Player-Agent": "chloric-skye",
+        "Rounds": 107,
+        "ACS+": 93,
+        "rating": 0.94
+    },
+    {
+        "Player-Agent": "nicc-skye",
+        "Rounds": 35,
+        "ACS+": 114,
+        "rating": 1.34
+    },
+    {
+        "Player-Agent": "xavi8k-skye",
+        "Rounds": 22,
+        "ACS+": 68,
+        "rating": 0.41
+    },
+    {
+        "Player-Agent": "xeppaa-skye",
+        "Rounds": 196,
+        "ACS+": 114,
+        "rating": 1.05
+    },
+    {
+        "Player-Agent": "p0ppin-skye",
+        "Rounds": 120,
+        "ACS+": 107,
+        "rating": 0.71
+    },
+    {
+        "Player-Agent": "verno-skye",
+        "Rounds": 126,
+        "ACS+": 101,
+        "rating": 1.02
+    },
+    {
+        "Player-Agent": "paincakes-skye",
+        "Rounds": 19,
+        "ACS+": 89,
+        "rating": 0.82
+    },
+    {
+        "Player-Agent": "c0m-skye",
+        "Rounds": 24,
+        "ACS+": 76,
+        "rating": 0.7
+    },
+    {
+        "Player-Agent": "cauanzin-skye",
+        "Rounds": 50,
+        "ACS+": 87,
+        "rating": 0.7
+    },
+    {
+        "Player-Agent": "ethan-skye",
+        "Rounds": 207,
+        "ACS+": 86,
+        "rating": 0.73
+    },
+    {
+        "Player-Agent": "favian-skye",
+        "Rounds": 71,
+        "ACS+": 134,
+        "rating": 1.24
+    },
+    {
+        "Player-Agent": "purp0-skye",
+        "Rounds": 321,
+        "ACS+": 96,
+        "rating": 1.04
+    },
+    {
+        "Player-Agent": "cloud-skye",
+        "Rounds": 171,
+        "ACS+": 128,
+        "rating": 1.07
+    },
+    {
+        "Player-Agent": "crashies-skye",
+        "Rounds": 100,
+        "ACS+": 89,
+        "rating": 1.05
+    },
+    {
+        "Player-Agent": "seven-skye",
+        "Rounds": 24,
+        "ACS+": 130,
+        "rating": 1.01
+    },
+    {
+        "Player-Agent": "flickless-skye",
+        "Rounds": 42,
+        "ACS+": 104,
+        "rating": 0.93
+    },
+    {
+        "Player-Agent": "ros-skye",
+        "Rounds": 47,
+        "ACS+": 108,
+        "rating": 0.92
+    },
+    {
+        "Player-Agent": "riens-skye",
+        "Rounds": 110,
+        "ACS+": 101,
+        "rating": 0.85
+    },
+    {
+        "Player-Agent": "westside-skye",
+        "Rounds": 23,
+        "ACS+": 92,
+        "rating": 0.69
+    },
+    {
+        "Player-Agent": "nekky-skye",
+        "Rounds": 68,
+        "ACS+": 98,
+        "rating": 1.01
+    },
+    {
+        "Player-Agent": "avez-skye",
+        "Rounds": 43,
+        "ACS+": 77,
+        "rating": 0.63
+    },
+    {
+        "Player-Agent": "starxo-skye",
+        "Rounds": 38,
+        "ACS+": 63,
+        "rating": 0.5
+    },
+    {
+        "Player-Agent": "xross-skye",
+        "Rounds": 45,
+        "ACS+": 123,
+        "rating": 1.04
+    },
+    {
+        "Player-Agent": "kushy-skye",
+        "Rounds": 216,
+        "ACS+": 93,
+        "rating": 1.01
+    },
+    {
+        "Player-Agent": "kellys-skye",
+        "Rounds": 49,
+        "ACS+": 118,
+        "rating": 0.99
+    },
+    {
+        "Player-Agent": "xuna-skye",
+        "Rounds": 141,
+        "ACS+": 98,
+        "rating": 1.05
+    },
+    {
+        "Player-Agent": "stax-skye",
+        "Rounds": 133,
+        "ACS+": 85,
+        "rating": 0.86
+    },
+    {
+        "Player-Agent": "yatsuka-skye",
+        "Rounds": 93,
+        "ACS+": 87,
+        "rating": 0.84
+    },
+    {
+        "Player-Agent": "jessievash-skye",
+        "Rounds": 116,
+        "ACS+": 85,
+        "rating": 0.8
+    },
+    {
+        "Player-Agent": "d4v41-skye",
+        "Rounds": 24,
+        "ACS+": 119,
+        "rating": 1.19
+    },
+    {
+        "Player-Agent": "kyu-skye",
+        "Rounds": 50,
+        "ACS+": 94,
+        "rating": 0.82
+    },
+    {
+        "Player-Agent": "governor-skye",
+        "Rounds": 17,
+        "ACS+": 87,
+        "rating": 0.71
+    },
+    {
+        "Player-Agent": "sociablee-skye",
+        "Rounds": 163,
+        "ACS+": 96,
+        "rating": 0.84
+    },
+    {
+        "Player-Agent": "sheydos-skye",
+        "Rounds": 66,
+        "ACS+": 84,
+        "rating": 0.76
+    },
+    {
+        "Player-Agent": "unfake-skye",
+        "Rounds": 37,
+        "ACS+": 61,
+        "rating": 0.4
+    },
+    {
+        "Player-Agent": "lakia-skye",
+        "Rounds": 21,
+        "ACS+": 92,
+        "rating": 0.98
+    },
+    {
+        "Player-Agent": "verno-sova",
+        "Rounds": 527,
+        "ACS+": 121,
+        "rating": 1.1
+    },
+    {
+        "Player-Agent": "trent-sova",
+        "Rounds": 522,
+        "ACS+": 117,
+        "rating": 1.25
+    },
+    {
+        "Player-Agent": "riens-sova",
+        "Rounds": 660,
+        "ACS+": 122,
+        "rating": 1.02
+    },
+    {
+        "Player-Agent": "invy-sova",
+        "Rounds": 797,
+        "ACS+": 111,
+        "rating": 1.22
+    },
+    {
+        "Player-Agent": "starxo-sova",
+        "Rounds": 570,
+        "ACS+": 98,
+        "rating": 0.86
+    },
+    {
+        "Player-Agent": "vora-sova",
+        "Rounds": 635,
+        "ACS+": 100,
+        "rating": 0.94
+    },
+    {
+        "Player-Agent": "sayonara-sova",
+        "Rounds": 440,
+        "ACS+": 113,
+        "rating": 1.25
+    },
+    {
+        "Player-Agent": "jamppi-sova",
+        "Rounds": 295,
+        "ACS+": 102,
+        "rating": 0.75
+    },
+    {
+        "Player-Agent": "shr1mp-sova",
+        "Rounds": 79,
+        "ACS+": 101,
+        "rating": 0.62
+    },
+    {
+        "Player-Agent": "brawk-sova",
+        "Rounds": 1307,
+        "ACS+": 109,
+        "rating": 1.15
+    },
+    {
+        "Player-Agent": "crazyguy-sova",
+        "Rounds": 168,
+        "ACS+": 107,
+        "rating": 0.96
+    },
+    {
+        "Player-Agent": "ros-sova",
+        "Rounds": 916,
+        "ACS+": 93,
+        "rating": 0.9
+    },
+    {
+        "Player-Agent": "francis-sova",
+        "Rounds": 330,
+        "ACS+": 107,
+        "rating": 1.14
+    },
+    {
+        "Player-Agent": "nobody-sova",
+        "Rounds": 214,
+        "ACS+": 100,
+        "rating": 0.81
+    },
+    {
+        "Player-Agent": "kushy-sova",
+        "Rounds": 523,
+        "ACS+": 94,
+        "rating": 0.93
+    },
+    {
+        "Player-Agent": "avez-sova",
+        "Rounds": 141,
+        "ACS+": 126,
+        "rating": 1.56
+    },
+    {
+        "Player-Agent": "xavi8k-sova",
+        "Rounds": 123,
+        "ACS+": 109,
+        "rating": 1.06
+    },
+    {
+        "Player-Agent": "wsleo-sova",
+        "Rounds": 261,
+        "ACS+": 89,
+        "rating": 0.67
+    },
+    {
+        "Player-Agent": "eeiu-sova",
+        "Rounds": 455,
+        "ACS+": 103,
+        "rating": 0.89
+    },
+    {
+        "Player-Agent": "jackk-sova",
+        "Rounds": 79,
+        "ACS+": 109,
+        "rating": 1.21
+    },
+    {
+        "Player-Agent": "blowz-sova",
+        "Rounds": 586,
+        "ACS+": 97,
+        "rating": 0.66
+    },
+    {
+        "Player-Agent": "jonahp-sova",
+        "Rounds": 236,
+        "ACS+": 103,
+        "rating": 0.92
+    },
+    {
+        "Player-Agent": "davih-sova",
+        "Rounds": 110,
+        "ACS+": 87,
+        "rating": 0.96
+    },
+    {
+        "Player-Agent": "c0m-sova",
+        "Rounds": 496,
+        "ACS+": 93,
+        "rating": 0.95
+    },
+    {
+        "Player-Agent": "mwzera-sova",
+        "Rounds": 175,
+        "ACS+": 106,
+        "rating": 1.25
+    },
+    {
+        "Player-Agent": "rossy-sova",
+        "Rounds": 39,
+        "ACS+": 97,
+        "rating": 0.92
+    },
+    {
+        "Player-Agent": "glyph-sova",
+        "Rounds": 90,
+        "ACS+": 80,
+        "rating": 0.87
+    },
+    {
+        "Player-Agent": "paincakes-sova",
+        "Rounds": 122,
+        "ACS+": 97,
+        "rating": 1.06
+    },
+    {
+        "Player-Agent": "xross-sova",
+        "Rounds": 339,
+        "ACS+": 115,
+        "rating": 1.33
+    },
+    {
+        "Player-Agent": "izu-sova",
+        "Rounds": 194,
+        "ACS+": 134,
+        "rating": 1.11
+    },
+    {
+        "Player-Agent": "xdll-sova",
+        "Rounds": 202,
+        "ACS+": 98,
+        "rating": 0.95
+    },
+    {
+        "Player-Agent": "xuna-sova",
+        "Rounds": 302,
+        "ACS+": 109,
+        "rating": 1.07
+    },
+    {
+        "Player-Agent": "eko-sova",
+        "Rounds": 76,
+        "ACS+": 103,
+        "rating": 1.1
+    },
+    {
+        "Player-Agent": "kr1stal-sova",
+        "Rounds": 436,
+        "ACS+": 96,
+        "rating": 0.99
+    },
+    {
+        "Player-Agent": "munchkin-sova",
+        "Rounds": 109,
+        "ACS+": 99,
+        "rating": 1.03
+    },
+    {
+        "Player-Agent": "beyn-sova",
+        "Rounds": 293,
+        "ACS+": 91,
+        "rating": 0.89
+    },
+    {
+        "Player-Agent": "styron-sova",
+        "Rounds": 163,
+        "ACS+": 101,
+        "rating": 0.99
+    },
+    {
+        "Player-Agent": "akame-sova",
+        "Rounds": 235,
+        "ACS+": 98,
+        "rating": 0.95
+    },
+    {
+        "Player-Agent": "killua-sova",
+        "Rounds": 186,
+        "ACS+": 97,
+        "rating": 1.22
+    },
+    {
+        "Player-Agent": "efina-sova",
+        "Rounds": 61,
+        "ACS+": 71,
+        "rating": 0.68
+    },
+    {
+        "Player-Agent": "trexx-sova",
+        "Rounds": 135,
+        "ACS+": 123,
+        "rating": 1.24
+    },
+    {
+        "Player-Agent": "krostaly-sova",
+        "Rounds": 438,
+        "ACS+": 101,
+        "rating": 0.98
+    },
+    {
+        "Player-Agent": "waddle-sova",
+        "Rounds": 132,
+        "ACS+": 104,
+        "rating": 0.97
+    },
+    {
+        "Player-Agent": "chloric-sova",
+        "Rounds": 266,
+        "ACS+": 93,
+        "rating": 0.83
+    },
+    {
+        "Player-Agent": "net-sova",
+        "Rounds": 169,
+        "ACS+": 96,
+        "rating": 0.92
+    },
+    {
+        "Player-Agent": "nekky-sova",
+        "Rounds": 271,
+        "ACS+": 96,
+        "rating": 0.81
+    },
+    {
+        "Player-Agent": "crashies-sova",
+        "Rounds": 514,
+        "ACS+": 102,
+        "rating": 1.09
+    },
+    {
+        "Player-Agent": "hiro-sova",
+        "Rounds": 55,
+        "ACS+": 102,
+        "rating": 1.27
+    },
+    {
+        "Player-Agent": "nicc-sova",
+        "Rounds": 16,
+        "ACS+": 101,
+        "rating": 0.91
+    },
+    {
+        "Player-Agent": "cauanzin-sova",
+        "Rounds": 316,
+        "ACS+": 100,
+        "rating": 0.86
+    },
+    {
+        "Player-Agent": "p0ppin-sova",
+        "Rounds": 309,
+        "ACS+": 102,
+        "rating": 0.9
+    },
+    {
+        "Player-Agent": "xeppaa-sova",
+        "Rounds": 188,
+        "ACS+": 88,
+        "rating": 0.93
+    },
+    {
+        "Player-Agent": "zekken-sova",
+        "Rounds": 20,
+        "ACS+": 78,
+        "rating": 0.77
+    },
+    {
+        "Player-Agent": "purp0-sova",
+        "Rounds": 229,
+        "ACS+": 97,
+        "rating": 0.92
+    },
+    {
+        "Player-Agent": "ninja-sova",
+        "Rounds": 87,
+        "ACS+": 81,
+        "rating": 0.54
+    },
+    {
+        "Player-Agent": "cloud-sova",
+        "Rounds": 230,
+        "ACS+": 100,
+        "rating": 0.86
+    },
+    {
+        "Player-Agent": "n4rrate-sova",
+        "Rounds": 22,
+        "ACS+": 102,
+        "rating": 0.85
+    },
+    {
+        "Player-Agent": "free1ng-sova",
+        "Rounds": 18,
+        "ACS+": 136,
+        "rating": 1.21
+    },
+    {
+        "Player-Agent": "stax-sova",
+        "Rounds": 330,
+        "ACS+": 95,
+        "rating": 0.98
+    },
+    {
+        "Player-Agent": "lakia-sova",
+        "Rounds": 220,
+        "ACS+": 97,
+        "rating": 0.86
+    },
+    {
+        "Player-Agent": "yatsuka-sova",
+        "Rounds": 65,
+        "ACS+": 98,
+        "rating": 0.93
+    },
+    {
+        "Player-Agent": "jessievash-sova",
+        "Rounds": 100,
+        "ACS+": 85,
+        "rating": 0.92
+    },
+    {
+        "Player-Agent": "kyu-sova",
+        "Rounds": 47,
+        "ACS+": 124,
+        "rating": 1.1
+    },
+    {
+        "Player-Agent": "governor-sova",
+        "Rounds": 83,
+        "ACS+": 81,
+        "rating": 0.72
+    },
+    {
+        "Player-Agent": "unfake-sova",
+        "Rounds": 195,
+        "ACS+": 87,
+        "rating": 0.96
+    },
+    {
+        "Player-Agent": "sheydos-sova",
+        "Rounds": 120,
+        "ACS+": 84,
+        "rating": 0.88
+    },
+    {
+        "Player-Agent": "kamo-sova",
+        "Rounds": 87,
+        "ACS+": 93,
+        "rating": 0.81
+    },
+    {
+        "Player-Agent": "shao-sova",
+        "Rounds": 62,
+        "ACS+": 82,
+        "rating": 0.78
+    },
+    {
+        "Player-Agent": "mrfalin-sova",
+        "Rounds": 37,
+        "ACS+": 71,
+        "rating": 0.65
+    },
+    {
+        "Player-Agent": "jackk-tejo",
+        "Rounds": 21,
+        "ACS+": 86,
+        "rating": 0.86
+    },
+    {
+        "Player-Agent": "xuna-tejo",
+        "Rounds": 41,
+        "ACS+": 116,
+        "rating": 0.77
+    },
+    {
+        "Player-Agent": "kr1stal-tejo",
+        "Rounds": 70,
+        "ACS+": 78,
+        "rating": 0.93
+    },
+    {
+        "Player-Agent": "d4v41-tejo",
+        "Rounds": 46,
+        "ACS+": 80,
+        "rating": 0.9
+    },
+    {
+        "Player-Agent": "killua-tejo",
+        "Rounds": 16,
+        "ACS+": 31,
+        "rating": 0.34
+    },
+    {
+        "Player-Agent": "noman-tejo",
+        "Rounds": 22,
+        "ACS+": 110,
+        "rating": 1.13
+    },
+    {
+        "Player-Agent": "ethan-tejo",
+        "Rounds": 400,
+        "ACS+": 98,
+        "rating": 1.06
+    },
+    {
+        "Player-Agent": "blowz-tejo",
+        "Rounds": 138,
+        "ACS+": 99,
+        "rating": 0.9
+    },
+    {
+        "Player-Agent": "rossy-tejo",
+        "Rounds": 24,
+        "ACS+": 95,
+        "rating": 0.91
+    },
+    {
+        "Player-Agent": "zellsis-tejo",
+        "Rounds": 37,
+        "ACS+": 70,
+        "rating": 0.63
+    },
+    {
+        "Player-Agent": "hiro-tejo",
+        "Rounds": 142,
+        "ACS+": 132,
+        "rating": 1.44
+    },
+    {
+        "Player-Agent": "ninja-tejo",
+        "Rounds": 86,
+        "ACS+": 109,
+        "rating": 1.0
+    },
+    {
+        "Player-Agent": "nekky-tejo",
+        "Rounds": 67,
+        "ACS+": 115,
+        "rating": 1.1
+    },
+    {
+        "Player-Agent": "cloud-tejo",
+        "Rounds": 119,
+        "ACS+": 88,
+        "rating": 0.99
+    },
+    {
+        "Player-Agent": "avez-tejo",
+        "Rounds": 153,
+        "ACS+": 103,
+        "rating": 0.96
+    },
+    {
+        "Player-Agent": "ros-tejo",
+        "Rounds": 18,
+        "ACS+": 63,
+        "rating": 0.45
+    },
+    {
+        "Player-Agent": "klaus-tejo",
+        "Rounds": 30,
+        "ACS+": 151,
+        "rating": 1.55
+    },
+    {
+        "Player-Agent": "patmen-tejo",
+        "Rounds": 42,
+        "ACS+": 157,
+        "rating": 1.2
+    },
+    {
+        "Player-Agent": "izu-tejo",
+        "Rounds": 40,
+        "ACS+": 105,
+        "rating": 1.18
+    },
+    {
+        "Player-Agent": "akame-tejo",
+        "Rounds": 43,
+        "ACS+": 124,
+        "rating": 1.12
+    },
+    {
+        "Player-Agent": "free1ng-tejo",
+        "Rounds": 210,
+        "ACS+": 96,
+        "rating": 0.89
+    },
+    {
+        "Player-Agent": "xross-tejo",
+        "Rounds": 56,
+        "ACS+": 116,
+        "rating": 1.03
+    },
+    {
+        "Player-Agent": "jessievash-tejo",
+        "Rounds": 49,
+        "ACS+": 92,
+        "rating": 1.0
+    },
+    {
+        "Player-Agent": "ssees-tejo",
+        "Rounds": 46,
+        "ACS+": 75,
+        "rating": 0.8
+    },
+    {
+        "Player-Agent": "caedye-tejo",
+        "Rounds": 19,
+        "ACS+": 91,
+        "rating": 0.72
+    },
+    {
+        "Player-Agent": "nerve-tejo",
+        "Rounds": 83,
+        "ACS+": 99,
+        "rating": 1.15
+    },
+    {
+        "Player-Agent": "johnqt-tejo",
+        "Rounds": 45,
+        "ACS+": 168,
+        "rating": 1.74
+    },
+    {
+        "Player-Agent": "vora-tejo",
+        "Rounds": 36,
+        "ACS+": 138,
+        "rating": 1.3
+    },
+    {
+        "Player-Agent": "xeppaa-tejo",
+        "Rounds": 95,
+        "ACS+": 144,
+        "rating": 1.22
+    },
+    {
+        "Player-Agent": "brawk-tejo",
+        "Rounds": 90,
+        "ACS+": 92,
+        "rating": 0.94
+    },
+    {
+        "Player-Agent": "trent-tejo",
+        "Rounds": 36,
+        "ACS+": 102,
+        "rating": 0.85
+    },
+    {
+        "Player-Agent": "kyu-tejo",
+        "Rounds": 18,
+        "ACS+": 83,
+        "rating": 0.74
+    },
+    {
+        "Player-Agent": "darker-tejo",
+        "Rounds": 34,
+        "ACS+": 62,
+        "rating": 0.44
+    },
+    {
+        "Player-Agent": "wo0t-tejo",
+        "Rounds": 24,
+        "ACS+": 150,
+        "rating": 1.25
+    },
+    {
+        "Player-Agent": "kamo-tejo",
+        "Rounds": 15,
+        "ACS+": 85,
+        "rating": 0.66
+    },
+    {
+        "Player-Agent": "jamppi-tejo",
+        "Rounds": 63,
+        "ACS+": 81,
+        "rating": 0.62
+    },
+    {
+        "Player-Agent": "krostaly-tejo",
+        "Rounds": 41,
+        "ACS+": 59,
+        "rating": 0.6
+    },
+    {
+        "Player-Agent": "stax-tejo",
+        "Rounds": 36,
+        "ACS+": 83,
+        "rating": 0.89
+    },
+    {
+        "Player-Agent": "lakia-tejo",
+        "Rounds": 61,
+        "ACS+": 90,
+        "rating": 0.81
+    },
+    {
+        "Player-Agent": "crazyguy-tejo",
+        "Rounds": 61,
+        "ACS+": 85,
+        "rating": 0.77
+    },
+    {
+        "Player-Agent": "xffero-veto",
+        "Rounds": 119,
+        "ACS+": 118,
+        "rating": 1.3
+    },
+    {
+        "Player-Agent": "dgzin-veto",
+        "Rounds": 32,
+        "ACS+": 126,
+        "rating": 1.04
+    },
+    {
+        "Player-Agent": "autumn-veto",
+        "Rounds": 150,
+        "ACS+": 116,
+        "rating": 1.47
+    },
+    {
+        "Player-Agent": "primmie-veto",
+        "Rounds": 23,
+        "ACS+": 122,
+        "rating": 1.11
+    },
+    {
+        "Player-Agent": "favian-veto",
+        "Rounds": 85,
+        "ACS+": 130,
+        "rating": 1.15
+    },
+    {
+        "Player-Agent": "cortezia-veto",
+        "Rounds": 21,
+        "ACS+": 88,
+        "rating": 0.94
+    },
+    {
+        "Player-Agent": "demon1-veto",
+        "Rounds": 39,
+        "ACS+": 83,
+        "rating": 0.8
+    },
+    {
+        "Player-Agent": "eggsterr-veto",
+        "Rounds": 24,
+        "ACS+": 34,
+        "rating": 0.16
+    },
+    {
+        "Player-Agent": "al0rante-veto",
+        "Rounds": 67,
+        "ACS+": 97,
+        "rating": 1.01
+    },
+    {
+        "Player-Agent": "marteen-veto",
+        "Rounds": 61,
+        "ACS+": 95,
+        "rating": 0.81
+    },
+    {
+        "Player-Agent": "n4rrate-veto",
+        "Rounds": 22,
+        "ACS+": 58,
+        "rating": 0.51
+    },
+    {
+        "Player-Agent": "seven-veto",
+        "Rounds": 48,
+        "ACS+": 89,
+        "rating": 1.17
+    },
+    {
+        "Player-Agent": "echo-veto",
+        "Rounds": 15,
+        "ACS+": 59,
+        "rating": 0.35
+    },
+    {
+        "Player-Agent": "syouta-veto",
+        "Rounds": 38,
+        "ACS+": 89,
+        "rating": 0.76
+    },
+    {
+        "Player-Agent": "f0rsaken-veto",
+        "Rounds": 46,
+        "ACS+": 131,
+        "rating": 1.82
+    },
+    {
+        "Player-Agent": "penny-veto",
+        "Rounds": 24,
+        "ACS+": 109,
+        "rating": 1.26
+    },
+    {
+        "Player-Agent": "cryocells-veto",
+        "Rounds": 152,
+        "ACS+": 110,
+        "rating": 1.1
+    },
+    {
+        "Player-Agent": "bao-veto",
+        "Rounds": 69,
+        "ACS+": 114,
+        "rating": 1.1
+    },
+    {
+        "Player-Agent": "oxy-veto",
+        "Rounds": 24,
+        "ACS+": 104,
+        "rating": 0.91
+    },
+    {
+        "Player-Agent": "leaf-veto",
+        "Rounds": 16,
+        "ACS+": 89,
+        "rating": 0.89
+    },
+    {
+        "Player-Agent": "benjyfishy-veto",
+        "Rounds": 24,
+        "ACS+": 125,
+        "rating": 1.09
+    },
+    {
+        "Player-Agent": "chronicle-veto",
+        "Rounds": 52,
+        "ACS+": 120,
+        "rating": 1.01
+    },
+    {
+        "Player-Agent": "westside-veto",
+        "Rounds": 20,
+        "ACS+": 48,
+        "rating": 0.52
+    },
+    {
+        "Player-Agent": "caedye-veto",
+        "Rounds": 21,
+        "ACS+": 161,
+        "rating": 1.56
+    },
+    {
+        "Player-Agent": "udotan-veto",
+        "Rounds": 284,
+        "ACS+": 110,
+        "rating": 1.06
+    },
+    {
+        "Player-Agent": "karon-veto",
+        "Rounds": 45,
+        "ACS+": 112,
+        "rating": 1.04
+    },
+    {
+        "Player-Agent": "something-veto",
+        "Rounds": 21,
+        "ACS+": 80,
+        "rating": 0.87
+    },
+    {
+        "Player-Agent": "klaus-veto",
+        "Rounds": 20,
+        "ACS+": 81,
+        "rating": 0.79
+    },
+    {
+        "Player-Agent": "tex-viper",
+        "Rounds": 263,
+        "ACS+": 92,
+        "rating": 0.87
+    },
+    {
+        "Player-Agent": "ivy-viper",
+        "Rounds": 639,
+        "ACS+": 107,
+        "rating": 1.05
+    },
+    {
+        "Player-Agent": "leaf-viper",
+        "Rounds": 824,
+        "ACS+": 107,
+        "rating": 1.05
+    },
+    {
+        "Player-Agent": "boo-viper",
+        "Rounds": 56,
+        "ACS+": 100,
+        "rating": 1.17
+    },
+    {
+        "Player-Agent": "chichoo-viper",
+        "Rounds": 213,
+        "ACS+": 101,
+        "rating": 0.86
+    },
+    {
+        "Player-Agent": "kr1stal-viper",
+        "Rounds": 49,
+        "ACS+": 109,
+        "rating": 1.14
+    },
+    {
+        "Player-Agent": "sayonara-viper",
+        "Rounds": 294,
+        "ACS+": 110,
+        "rating": 1.07
+    },
+    {
+        "Player-Agent": "skuba-viper",
+        "Rounds": 1063,
+        "ACS+": 97,
+        "rating": 1.07
+    },
+    {
+        "Player-Agent": "cryocells-viper",
+        "Rounds": 276,
+        "ACS+": 112,
+        "rating": 0.99
+    },
+    {
+        "Player-Agent": "bipo-viper",
+        "Rounds": 58,
+        "ACS+": 112,
+        "rating": 1.08
+    },
+    {
+        "Player-Agent": "d4v41-viper",
+        "Rounds": 949,
+        "ACS+": 103,
+        "rating": 0.91
+    },
+    {
+        "Player-Agent": "bai-viper",
+        "Rounds": 42,
+        "ACS+": 98,
+        "rating": 0.98
+    },
+    {
+        "Player-Agent": "crewen-viper",
+        "Rounds": 331,
+        "ACS+": 103,
+        "rating": 0.77
+    },
+    {
+        "Player-Agent": "suygetsu-viper",
+        "Rounds": 361,
+        "ACS+": 95,
+        "rating": 1.03
+    },
+    {
+        "Player-Agent": "chronicle-viper",
+        "Rounds": 586,
+        "ACS+": 111,
+        "rating": 1.14
+    },
+    {
+        "Player-Agent": "xffero-viper",
+        "Rounds": 440,
+        "ACS+": 106,
+        "rating": 1.08
+    },
+    {
+        "Player-Agent": "kushy-viper",
+        "Rounds": 24,
+        "ACS+": 82,
+        "rating": 0.79
+    },
+    {
+        "Player-Agent": "happywei-viper",
+        "Rounds": 216,
+        "ACS+": 110,
+        "rating": 0.97
+    },
+    {
+        "Player-Agent": "johnqt-viper",
+        "Rounds": 126,
+        "ACS+": 109,
+        "rating": 1.05
+    },
+    {
+        "Player-Agent": "kingg-viper",
+        "Rounds": 362,
+        "ACS+": 105,
+        "rating": 1.06
+    },
+    {
+        "Player-Agent": "zellsis-viper",
+        "Rounds": 237,
+        "ACS+": 91,
+        "rating": 0.88
+    },
+    {
+        "Player-Agent": "rossy-viper",
+        "Rounds": 204,
+        "ACS+": 112,
+        "rating": 1.02
+    },
+    {
+        "Player-Agent": "supamen-viper",
+        "Rounds": 323,
+        "ACS+": 103,
+        "rating": 1.18
+    },
+    {
+        "Player-Agent": "cortezia-viper",
+        "Rounds": 371,
+        "ACS+": 103,
+        "rating": 0.85
+    },
+    {
+        "Player-Agent": "less-viper",
+        "Rounds": 356,
+        "ACS+": 114,
+        "rating": 1.15
+    },
+    {
+        "Player-Agent": "lukxo-viper",
+        "Rounds": 175,
+        "ACS+": 110,
+        "rating": 1.12
+    },
+    {
+        "Player-Agent": "shyy-viper",
+        "Rounds": 69,
+        "ACS+": 100,
+        "rating": 0.93
+    },
+    {
+        "Player-Agent": "marved-viper",
+        "Rounds": 30,
+        "ACS+": 87,
+        "rating": 0.9
+    },
+    {
+        "Player-Agent": "v1c-viper",
+        "Rounds": 129,
+        "ACS+": 118,
+        "rating": 1.4
+    },
+    {
+        "Player-Agent": "fireballops-viper",
+        "Rounds": 44,
+        "ACS+": 62,
+        "rating": 0.57
+    },
+    {
+        "Player-Agent": "zerona-viper",
+        "Rounds": 66,
+        "ACS+": 94,
+        "rating": 1.02
+    },
+    {
+        "Player-Agent": "something-viper",
+        "Rounds": 23,
+        "ACS+": 167,
+        "rating": 1.66
+    },
+    {
+        "Player-Agent": "monyet-viper",
+        "Rounds": 59,
+        "ACS+": 82,
+        "rating": 0.51
+    },
+    {
+        "Player-Agent": "foxy9-viper",
+        "Rounds": 93,
+        "ACS+": 126,
+        "rating": 1.17
+    },
+    {
+        "Player-Agent": "syouta-viper",
+        "Rounds": 285,
+        "ACS+": 98,
+        "rating": 0.76
+    },
+    {
+        "Player-Agent": "jitboys-viper",
+        "Rounds": 95,
+        "ACS+": 89,
+        "rating": 0.89
+    },
+    {
+        "Player-Agent": "dh-viper",
+        "Rounds": 32,
+        "ACS+": 74,
+        "rating": 0.88
+    },
+    {
+        "Player-Agent": "crws-viper",
+        "Rounds": 109,
+        "ACS+": 89,
+        "rating": 0.93
+    },
+    {
+        "Player-Agent": "munchkin-viper",
+        "Rounds": 207,
+        "ACS+": 93,
+        "rating": 0.96
+    },
+    {
+        "Player-Agent": "patmen-viper",
+        "Rounds": 303,
+        "ACS+": 113,
+        "rating": 1.36
+    },
+    {
+        "Player-Agent": "caedye-viper",
+        "Rounds": 223,
+        "ACS+": 86,
+        "rating": 0.76
+    },
+    {
+        "Player-Agent": "kellys-viper",
+        "Rounds": 163,
+        "ACS+": 112,
+        "rating": 1.03
+    },
+    {
+        "Player-Agent": "mako-viper",
+        "Rounds": 101,
+        "ACS+": 93,
+        "rating": 1.11
+    },
+    {
+        "Player-Agent": "nats-viper",
+        "Rounds": 554,
+        "ACS+": 116,
+        "rating": 1.13
+    },
+    {
+        "Player-Agent": "ruxic-viper",
+        "Rounds": 280,
+        "ACS+": 116,
+        "rating": 1.09
+    },
+    {
+        "Player-Agent": "hiro-viper",
+        "Rounds": 275,
+        "ACS+": 122,
+        "rating": 1.28
+    },
+    {
+        "Player-Agent": "riens-viper",
+        "Rounds": 38,
+        "ACS+": 102,
+        "rating": 1.15
+    },
+    {
+        "Player-Agent": "al0rante-viper",
+        "Rounds": 434,
+        "ACS+": 106,
+        "rating": 1.04
+    },
+    {
+        "Player-Agent": "flickless-viper",
+        "Rounds": 268,
+        "ACS+": 113,
+        "rating": 1.12
+    },
+    {
+        "Player-Agent": "echo-viper",
+        "Rounds": 365,
+        "ACS+": 108,
+        "rating": 1.04
+    },
+    {
+        "Player-Agent": "cloud-viper",
+        "Rounds": 121,
+        "ACS+": 82,
+        "rating": 0.93
+    },
+    {
+        "Player-Agent": "yetujey-viper",
+        "Rounds": 374,
+        "ACS+": 98,
+        "rating": 1.22
+    },
+    {
+        "Player-Agent": "lohan-viper",
+        "Rounds": 34,
+        "ACS+": 59,
+        "rating": 0.52
+    },
+    {
+        "Player-Agent": "vo0kashu-viper",
+        "Rounds": 16,
+        "ACS+": 94,
+        "rating": 0.78
+    },
+    {
+        "Player-Agent": "autumn-viper",
+        "Rounds": 87,
+        "ACS+": 90,
+        "rating": 1.05
+    },
+    {
+        "Player-Agent": "benjyfishy-viper",
+        "Rounds": 236,
+        "ACS+": 99,
+        "rating": 1.09
+    },
+    {
+        "Player-Agent": "bang-viper",
+        "Rounds": 180,
+        "ACS+": 96,
+        "rating": 0.97
+    },
+    {
+        "Player-Agent": "penny-viper",
+        "Rounds": 104,
+        "ACS+": 96,
+        "rating": 1.07
+    },
+    {
+        "Player-Agent": "nerve-viper",
+        "Rounds": 426,
+        "ACS+": 83,
+        "rating": 0.85
+    },
+    {
+        "Player-Agent": "darker-viper",
+        "Rounds": 99,
+        "ACS+": 111,
+        "rating": 1.16
+    },
+    {
+        "Player-Agent": "alfajer-viper",
+        "Rounds": 81,
+        "ACS+": 124,
+        "rating": 1.07
+    },
+    {
+        "Player-Agent": "chloric-viper",
+        "Rounds": 21,
+        "ACS+": 107,
+        "rating": 1.11
+    },
+    {
+        "Player-Agent": "veqaj-viper",
+        "Rounds": 401,
+        "ACS+": 115,
+        "rating": 1.05
+    },
+    {
+        "Player-Agent": "desmo-viper",
+        "Rounds": 20,
+        "ACS+": 93,
+        "rating": 0.97
+    },
+    {
+        "Player-Agent": "minny-viper",
+        "Rounds": 354,
+        "ACS+": 99,
+        "rating": 1.2
+    },
+    {
+        "Player-Agent": "cyvoph-viper",
+        "Rounds": 15,
+        "ACS+": 99,
+        "rating": 0.7
+    },
+    {
+        "Player-Agent": "westside-viper",
+        "Rounds": 106,
+        "ACS+": 94,
+        "rating": 1.04
+    },
+    {
+        "Player-Agent": "oonzmlp-viper",
+        "Rounds": 138,
+        "ACS+": 106,
+        "rating": 0.83
+    },
+    {
+        "Player-Agent": "leviathan-viper",
+        "Rounds": 63,
+        "ACS+": 99,
+        "rating": 1.09
+    },
+    {
+        "Player-Agent": "berserx-viper",
+        "Rounds": 149,
+        "ACS+": 108,
+        "rating": 1.06
+    },
+    {
+        "Player-Agent": "xdll-viper",
+        "Rounds": 23,
+        "ACS+": 121,
+        "rating": 0.98
+    },
+    {
+        "Player-Agent": "ssees-viper",
+        "Rounds": 24,
+        "ACS+": 84,
+        "rating": 0.93
+    },
+    {
+        "Player-Agent": "klaus-viper",
+        "Rounds": 23,
+        "ACS+": 102,
+        "rating": 0.92
+    },
+    {
+        "Player-Agent": "meteor-viper",
+        "Rounds": 380,
+        "ACS+": 103,
+        "rating": 1.09
+    },
+    {
+        "Player-Agent": "yatsuka-viper",
+        "Rounds": 19,
+        "ACS+": 91,
+        "rating": 0.91
+    },
+    {
+        "Player-Agent": "akame-viper",
+        "Rounds": 21,
+        "ACS+": 103,
+        "rating": 0.67
+    },
+    {
+        "Player-Agent": "karon-viper",
+        "Rounds": 166,
+        "ACS+": 92,
+        "rating": 1.15
+    },
+    {
+        "Player-Agent": "keiko-viper",
+        "Rounds": 79,
+        "ACS+": 106,
+        "rating": 1.33
+    },
+    {
+        "Player-Agent": "f0rsaken-viper",
+        "Rounds": 101,
+        "ACS+": 123,
+        "rating": 1.1
+    },
+    {
+        "Player-Agent": "loita-viper",
+        "Rounds": 91,
+        "ACS+": 103,
+        "rating": 1.1
+    },
+    {
+        "Player-Agent": "au1-viper",
+        "Rounds": 97,
+        "ACS+": 100,
+        "rating": 0.93
+    },
+    {
+        "Player-Agent": "pxs-viper",
+        "Rounds": 65,
+        "ACS+": 93,
+        "rating": 0.99
+    },
+    {
+        "Player-Agent": "inspire-viper",
+        "Rounds": 113,
+        "ACS+": 101,
+        "rating": 0.97
+    },
+    {
+        "Player-Agent": "spike-viper",
+        "Rounds": 127,
+        "ACS+": 97,
+        "rating": 0.95
+    },
+    {
+        "Player-Agent": "nagz-viper",
+        "Rounds": 62,
+        "ACS+": 80,
+        "rating": 0.86
+    },
+    {
+        "Player-Agent": "demon1-viper",
+        "Rounds": 18,
+        "ACS+": 72,
+        "rating": 0.84
+    },
+    {
+        "Player-Agent": "mazino-viper",
+        "Rounds": 59,
+        "ACS+": 86,
+        "rating": 0.77
+    },
+    {
+        "Player-Agent": "beng-viper",
+        "Rounds": 21,
+        "ACS+": 70,
+        "rating": 0.67
+    },
+    {
+        "Player-Agent": "babybay-viper",
+        "Rounds": 53,
+        "ACS+": 71,
+        "rating": 0.57
+    },
+    {
+        "Player-Agent": "sturnn-viper",
+        "Rounds": 78,
+        "ACS+": 105,
+        "rating": 0.92
+    },
+    {
+        "Player-Agent": "audaz-viper",
+        "Rounds": 16,
+        "ACS+": 89,
+        "rating": 0.89
+    },
+    {
+        "Player-Agent": "favian-viper",
+        "Rounds": 20,
+        "ACS+": 108,
+        "rating": 0.87
+    },
+    {
+        "Player-Agent": "baha-viper",
+        "Rounds": 70,
+        "ACS+": 89,
+        "rating": 0.78
+    },
+    {
+        "Player-Agent": "rb-viper",
+        "Rounds": 20,
+        "ACS+": 93,
+        "rating": 1.22
+    },
+    {
+        "Player-Agent": "free1ng-viper",
+        "Rounds": 120,
+        "ACS+": 105,
+        "rating": 1.07
+    },
+    {
+        "Player-Agent": "hermes-viper",
+        "Rounds": 86,
+        "ACS+": 92,
+        "rating": 0.86
+    },
+    {
+        "Player-Agent": "brawk-vyse",
+        "Rounds": 350,
+        "ACS+": 113,
+        "rating": 1.0
+    },
+    {
+        "Player-Agent": "lysoar-vyse",
+        "Rounds": 20,
+        "ACS+": 128,
+        "rating": 1.12
+    },
+    {
+        "Player-Agent": "d4v41-vyse",
+        "Rounds": 518,
+        "ACS+": 109,
+        "rating": 1.06
+    },
+    {
+        "Player-Agent": "benjyfishy-vyse",
+        "Rounds": 422,
+        "ACS+": 106,
+        "rating": 1.12
+    },
+    {
+        "Player-Agent": "kr1stal-vyse",
+        "Rounds": 75,
+        "ACS+": 119,
+        "rating": 0.93
+    },
+    {
+        "Player-Agent": "chronicle-vyse",
+        "Rounds": 344,
+        "ACS+": 113,
+        "rating": 1.11
+    },
+    {
+        "Player-Agent": "crewen-vyse",
+        "Rounds": 183,
+        "ACS+": 88,
+        "rating": 0.75
+    },
+    {
+        "Player-Agent": "bai-vyse",
+        "Rounds": 48,
+        "ACS+": 92,
+        "rating": 0.92
+    },
+    {
+        "Player-Agent": "asuna-vyse",
+        "Rounds": 46,
+        "ACS+": 107,
+        "rating": 0.91
+    },
+    {
+        "Player-Agent": "ivy-vyse",
+        "Rounds": 99,
+        "ACS+": 102,
+        "rating": 1.14
+    },
+    {
+        "Player-Agent": "babybay-vyse",
+        "Rounds": 668,
+        "ACS+": 117,
+        "rating": 1.08
+    },
+    {
+        "Player-Agent": "signed-vyse",
+        "Rounds": 51,
+        "ACS+": 78,
+        "rating": 0.77
+    },
+    {
+        "Player-Agent": "bao-vyse",
+        "Rounds": 101,
+        "ACS+": 100,
+        "rating": 0.92
+    },
+    {
+        "Player-Agent": "cortezia-vyse",
+        "Rounds": 112,
+        "ACS+": 138,
+        "rating": 1.35
+    },
+    {
+        "Player-Agent": "fireballops-vyse",
+        "Rounds": 21,
+        "ACS+": 108,
+        "rating": 0.94
+    },
+    {
+        "Player-Agent": "darker-vyse",
+        "Rounds": 98,
+        "ACS+": 123,
+        "rating": 1.14
+    },
+    {
+        "Player-Agent": "zellsis-vyse",
+        "Rounds": 68,
+        "ACS+": 90,
+        "rating": 0.89
+    },
+    {
+        "Player-Agent": "raxcal-vyse",
+        "Rounds": 24,
+        "ACS+": 120,
+        "rating": 1.24
+    },
+    {
+        "Player-Agent": "oonzmlp-vyse",
+        "Rounds": 24,
+        "ACS+": 81,
+        "rating": 0.93
+    },
+    {
+        "Player-Agent": "syouta-vyse",
+        "Rounds": 20,
+        "ACS+": 112,
+        "rating": 0.85
+    },
+    {
+        "Player-Agent": "ssees-vyse",
+        "Rounds": 24,
+        "ACS+": 75,
+        "rating": 0.49
+    },
+    {
+        "Player-Agent": "hiro-vyse",
+        "Rounds": 108,
+        "ACS+": 117,
+        "rating": 0.86
+    },
+    {
+        "Player-Agent": "alfajer-vyse",
+        "Rounds": 292,
+        "ACS+": 133,
+        "rating": 1.23
+    },
+    {
+        "Player-Agent": "yetujey-vyse",
+        "Rounds": 118,
+        "ACS+": 97,
+        "rating": 0.81
+    },
+    {
+        "Player-Agent": "keiko-vyse",
+        "Rounds": 40,
+        "ACS+": 155,
+        "rating": 1.27
+    },
+    {
+        "Player-Agent": "skuba-vyse",
+        "Rounds": 43,
+        "ACS+": 114,
+        "rating": 0.83
+    },
+    {
+        "Player-Agent": "vo0kashu-vyse",
+        "Rounds": 24,
+        "ACS+": 110,
+        "rating": 1.09
+    },
+    {
+        "Player-Agent": "crws-vyse",
+        "Rounds": 131,
+        "ACS+": 96,
+        "rating": 0.9
+    },
+    {
+        "Player-Agent": "jieni7-vyse",
+        "Rounds": 71,
+        "ACS+": 107,
+        "rating": 0.94
+    },
+    {
+        "Player-Agent": "kingg-vyse",
+        "Rounds": 116,
+        "ACS+": 83,
+        "rating": 0.86
+    },
+    {
+        "Player-Agent": "happywei-vyse",
+        "Rounds": 19,
+        "ACS+": 91,
+        "rating": 0.8
+    },
+    {
+        "Player-Agent": "lukxo-vyse",
+        "Rounds": 45,
+        "ACS+": 132,
+        "rating": 1.22
+    },
+    {
+        "Player-Agent": "artzin-vyse",
+        "Rounds": 115,
+        "ACS+": 118,
+        "rating": 1.08
+    },
+    {
+        "Player-Agent": "penny-vyse",
+        "Rounds": 18,
+        "ACS+": 112,
+        "rating": 1.04
+    },
+    {
+        "Player-Agent": "silentzz-vyse",
+        "Rounds": 185,
+        "ACS+": 97,
+        "rating": 0.98
+    },
+    {
+        "Player-Agent": "rossy-vyse",
+        "Rounds": 19,
+        "ACS+": 96,
+        "rating": 0.97
+    },
+    {
+        "Player-Agent": "tex-vyse",
+        "Rounds": 160,
+        "ACS+": 88,
+        "rating": 0.9
+    },
+    {
+        "Player-Agent": "cryocells-vyse",
+        "Rounds": 23,
+        "ACS+": 86,
+        "rating": 0.68
+    },
+    {
+        "Player-Agent": "xeppaa-vyse",
+        "Rounds": 19,
+        "ACS+": 72,
+        "rating": 0.46
+    },
+    {
+        "Player-Agent": "minny-vyse",
+        "Rounds": 22,
+        "ACS+": 103,
+        "rating": 0.99
+    },
+    {
+        "Player-Agent": "suygetsu-vyse",
+        "Rounds": 100,
+        "ACS+": 93,
+        "rating": 0.8
+    },
+    {
+        "Player-Agent": "al0rante-vyse",
+        "Rounds": 24,
+        "ACS+": 70,
+        "rating": 0.68
+    },
+    {
+        "Player-Agent": "nekky-vyse",
+        "Rounds": 24,
+        "ACS+": 62,
+        "rating": 0.65
+    },
+    {
+        "Player-Agent": "karon-vyse",
+        "Rounds": 100,
+        "ACS+": 109,
+        "rating": 1.1
+    },
+    {
+        "Player-Agent": "caedye-vyse",
+        "Rounds": 91,
+        "ACS+": 109,
+        "rating": 0.93
+    },
+    {
+        "Player-Agent": "xdll-vyse",
+        "Rounds": 20,
+        "ACS+": 73,
+        "rating": 0.88
+    },
+    {
+        "Player-Agent": "berserx-vyse",
+        "Rounds": 70,
+        "ACS+": 82,
+        "rating": 0.79
+    },
+    {
+        "Player-Agent": "autumn-vyse",
+        "Rounds": 16,
+        "ACS+": 80,
+        "rating": 0.79
+    },
+    {
+        "Player-Agent": "yong-vyse",
+        "Rounds": 54,
+        "ACS+": 93,
+        "rating": 0.75
+    },
+    {
+        "Player-Agent": "leviathan-vyse",
+        "Rounds": 26,
+        "ACS+": 73,
+        "rating": 0.69
+    },
+    {
+        "Player-Agent": "crazyguy-vyse",
+        "Rounds": 22,
+        "ACS+": 96,
+        "rating": 0.62
+    },
+    {
+        "Player-Agent": "hermes-vyse",
+        "Rounds": 22,
+        "ACS+": 71,
+        "rating": 0.58
+    },
+    {
+        "Player-Agent": "leaf-vyse",
+        "Rounds": 17,
+        "ACS+": 81,
+        "rating": 0.83
+    },
+    {
+        "Player-Agent": "jitboys-vyse",
+        "Rounds": 23,
+        "ACS+": 81,
+        "rating": 0.74
+    },
+    {
+        "Player-Agent": "sayonara-waylay",
+        "Rounds": 21,
+        "ACS+": 145,
+        "rating": 1.02
+    },
+    {
+        "Player-Agent": "aspas-waylay",
+        "Rounds": 185,
+        "ACS+": 110,
+        "rating": 1.05
+    },
+    {
+        "Player-Agent": "something-waylay",
+        "Rounds": 192,
+        "ACS+": 115,
+        "rating": 1.2
+    },
+    {
+        "Player-Agent": "zekken-waylay",
+        "Rounds": 16,
+        "ACS+": 75,
+        "rating": 0.94
+    },
+    {
+        "Player-Agent": "timotino-waylay",
+        "Rounds": 433,
+        "ACS+": 114,
+        "rating": 0.93
+    },
+    {
+        "Player-Agent": "babybay-waylay",
+        "Rounds": 223,
+        "ACS+": 109,
+        "rating": 1.1
+    },
+    {
+        "Player-Agent": "mada-waylay",
+        "Rounds": 620,
+        "ACS+": 113,
+        "rating": 1.06
+    },
+    {
+        "Player-Agent": "oxy-waylay",
+        "Rounds": 48,
+        "ACS+": 101,
+        "rating": 0.84
+    },
+    {
+        "Player-Agent": "jerrwin-waylay",
+        "Rounds": 128,
+        "ACS+": 106,
+        "rating": 0.96
+    },
+    {
+        "Player-Agent": "keznit-waylay",
+        "Rounds": 155,
+        "ACS+": 110,
+        "rating": 1.0
+    },
+    {
+        "Player-Agent": "koalanoob-waylay",
+        "Rounds": 20,
+        "ACS+": 76,
+        "rating": 0.58
+    },
+    {
+        "Player-Agent": "dantedeu5-waylay",
+        "Rounds": 13,
+        "ACS+": 72,
+        "rating": 0.34
+    },
+    {
+        "Player-Agent": "primmie-waylay",
+        "Rounds": 157,
+        "ACS+": 143,
+        "rating": 1.27
+    },
+    {
+        "Player-Agent": "jemkin-waylay",
+        "Rounds": 168,
+        "ACS+": 125,
+        "rating": 1.24
+    },
+    {
+        "Player-Agent": "dambi-waylay",
+        "Rounds": 127,
+        "ACS+": 113,
+        "rating": 0.56
+    },
+    {
+        "Player-Agent": "absol-waylay",
+        "Rounds": 20,
+        "ACS+": 92,
+        "rating": 0.71
+    },
+    {
+        "Player-Agent": "zexy-waylay",
+        "Rounds": 121,
+        "ACS+": 99,
+        "rating": 0.99
+    },
+    {
+        "Player-Agent": "jinggg-waylay",
+        "Rounds": 41,
+        "ACS+": 93,
+        "rating": 0.81
+    },
+    {
+        "Player-Agent": "flicker-waylay",
+        "Rounds": 100,
+        "ACS+": 79,
+        "rating": 0.67
+    },
+    {
+        "Player-Agent": "meiy-waylay",
+        "Rounds": 150,
+        "ACS+": 109,
+        "rating": 0.64
+    },
+    {
+        "Player-Agent": "natz-waylay",
+        "Rounds": 19,
+        "ACS+": 74,
+        "rating": 0.61
+    },
+    {
+        "Player-Agent": "lar0k-waylay",
+        "Rounds": 167,
+        "ACS+": 119,
+        "rating": 0.87
+    },
+    {
+        "Player-Agent": "favian-waylay",
+        "Rounds": 101,
+        "ACS+": 128,
+        "rating": 0.9
+    },
+    {
+        "Player-Agent": "xeus-waylay",
+        "Rounds": 446,
+        "ACS+": 116,
+        "rating": 0.98
+    },
+    {
+        "Player-Agent": "seven-waylay",
+        "Rounds": 37,
+        "ACS+": 97,
+        "rating": 0.85
+    },
+    {
+        "Player-Agent": "exit-waylay",
+        "Rounds": 102,
+        "ACS+": 111,
+        "rating": 0.76
+    },
+    {
+        "Player-Agent": "minny-waylay",
+        "Rounds": 18,
+        "ACS+": 99,
+        "rating": 0.76
+    },
+    {
+        "Player-Agent": "sato-waylay",
+        "Rounds": 245,
+        "ACS+": 108,
+        "rating": 0.89
+    },
+    {
+        "Player-Agent": "zmjjkk-waylay",
+        "Rounds": 17,
+        "ACS+": 111,
+        "rating": 1.06
+    },
+    {
+        "Player-Agent": "rarga-waylay",
+        "Rounds": 84,
+        "ACS+": 93,
+        "rating": 0.82
+    },
+    {
+        "Player-Agent": "spiritz1-waylay",
+        "Rounds": 57,
+        "ACS+": 92,
+        "rating": 0.69
+    },
+    {
+        "Player-Agent": "patmen-waylay",
+        "Rounds": 69,
+        "ACS+": 103,
+        "rating": 1.09
+    },
+    {
+        "Player-Agent": "jawgemo-waylay",
+        "Rounds": 145,
+        "ACS+": 93,
+        "rating": 0.84
+    },
+    {
+        "Player-Agent": "okeanos-waylay",
+        "Rounds": 118,
+        "ACS+": 91,
+        "rating": 0.81
+    },
+    {
+        "Player-Agent": "alfajer-waylay",
+        "Rounds": 52,
+        "ACS+": 145,
+        "rating": 1.32
+    },
+    {
+        "Player-Agent": "cned-waylay",
+        "Rounds": 150,
+        "ACS+": 84,
+        "rating": 0.7
+    },
+    {
+        "Player-Agent": "ara-waylay",
+        "Rounds": 99,
+        "ACS+": 104,
+        "rating": 1.06
+    },
+    {
+        "Player-Agent": "westside-waylay",
+        "Rounds": 69,
+        "ACS+": 86,
+        "rating": 0.91
+    },
+    {
+        "Player-Agent": "kaajak-waylay",
+        "Rounds": 116,
+        "ACS+": 96,
+        "rating": 0.8
+    },
+    {
+        "Player-Agent": "izzy-waylay",
+        "Rounds": 37,
+        "ACS+": 78,
+        "rating": 0.65
+    },
+    {
+        "Player-Agent": "marteen-waylay",
+        "Rounds": 21,
+        "ACS+": 69,
+        "rating": 0.65
+    },
+    {
+        "Player-Agent": "lewn-waylay",
+        "Rounds": 167,
+        "ACS+": 89,
+        "rating": 0.84
+    },
+    {
+        "Player-Agent": "lovers-rock-waylay",
+        "Rounds": 43,
+        "ACS+": 72,
+        "rating": 0.61
+    },
+    {
+        "Player-Agent": "kolosha-waylay",
+        "Rounds": 22,
+        "ACS+": 70,
+        "rating": 0.51
+    },
+    {
+        "Player-Agent": "udotan-waylay",
+        "Rounds": 22,
+        "ACS+": 149,
+        "rating": 1.29
+    },
+    {
+        "Player-Agent": "hyunmin-waylay",
+        "Rounds": 224,
+        "ACS+": 128,
+        "rating": 1.15
+    },
+    {
+        "Player-Agent": "caedye-waylay",
+        "Rounds": 21,
+        "ACS+": 120,
+        "rating": 0.93
+    },
+    {
+        "Player-Agent": "eko-waylay",
+        "Rounds": 228,
+        "ACS+": 102,
+        "rating": 0.95
+    },
+    {
+        "Player-Agent": "klaus-waylay",
+        "Rounds": 69,
+        "ACS+": 99,
+        "rating": 1.23
+    },
+    {
+        "Player-Agent": "francis-waylay",
+        "Rounds": 42,
+        "ACS+": 97,
+        "rating": 0.73
+    },
+    {
+        "Player-Agent": "zynx-waylay",
+        "Rounds": 82,
+        "ACS+": 72,
+        "rating": 0.43
+    },
+    {
+        "Player-Agent": "free1ng-waylay",
+        "Rounds": 21,
+        "ACS+": 65,
+        "rating": 0.58
+    },
+    {
+        "Player-Agent": "buzz-waylay",
+        "Rounds": 77,
+        "ACS+": 139,
+        "rating": 1.1
+    },
+    {
+        "Player-Agent": "f4ngeer-waylay",
+        "Rounds": 53,
+        "ACS+": 100,
+        "rating": 0.92
+    },
+    {
+        "Player-Agent": "kamo-waylay",
+        "Rounds": 176,
+        "ACS+": 99,
+        "rating": 0.9
+    },
+    {
+        "Player-Agent": "bipo-waylay",
+        "Rounds": 249,
+        "ACS+": 105,
+        "rating": 0.97
+    },
+    {
+        "Player-Agent": "noman-waylay",
+        "Rounds": 44,
+        "ACS+": 78,
+        "rating": 0.75
+    },
+    {
+        "Player-Agent": "alym-waylay",
+        "Rounds": 198,
+        "ACS+": 101,
+        "rating": 0.98
+    },
+    {
+        "Player-Agent": "iamgrq-waylay",
+        "Rounds": 35,
+        "ACS+": 100,
+        "rating": 0.64
+    },
+    {
+        "Player-Agent": "f0rsaken-waylay",
+        "Rounds": 16,
+        "ACS+": 61,
+        "rating": 0.32
+    },
+    {
+        "Player-Agent": "reduxx-waylay",
+        "Rounds": 49,
+        "ACS+": 99,
+        "rating": 1.0
+    },
+    {
+        "Player-Agent": "penny-waylay",
+        "Rounds": 39,
+        "ACS+": 95,
+        "rating": 0.92
+    },
+    {
+        "Player-Agent": "dgzin-waylay",
+        "Rounds": 69,
+        "ACS+": 100,
+        "rating": 0.9
+    },
+    {
+        "Player-Agent": "mta-waylay",
+        "Rounds": 39,
+        "ACS+": 83,
+        "rating": 0.83
+    },
+    {
+        "Player-Agent": "virtyy-waylay",
+        "Rounds": 26,
+        "ACS+": 98,
+        "rating": 0.8
+    },
+    {
+        "Player-Agent": "n4rrate-waylay",
+        "Rounds": 117,
+        "ACS+": 85,
+        "rating": 0.65
+    },
+    {
+        "Player-Agent": "spike-waylay",
+        "Rounds": 65,
+        "ACS+": 75,
+        "rating": 0.5
+    },
+    {
+        "Player-Agent": "comeback-waylay",
+        "Rounds": 37,
+        "ACS+": 109,
+        "rating": 1.17
+    },
+    {
+        "Player-Agent": "miniboo-waylay",
+        "Rounds": 130,
+        "ACS+": 115,
+        "rating": 0.95
+    },
+    {
+        "Player-Agent": "derke-waylay",
+        "Rounds": 52,
+        "ACS+": 104,
+        "rating": 0.91
+    },
+    {
+        "Player-Agent": "yetujey-waylay",
+        "Rounds": 70,
+        "ACS+": 101,
+        "rating": 0.86
+    },
+    {
+        "Player-Agent": "purp0-waylay",
+        "Rounds": 71,
+        "ACS+": 79,
+        "rating": 0.8
+    },
+    {
+        "Player-Agent": "d3mur-waylay",
+        "Rounds": 60,
+        "ACS+": 93,
+        "rating": 0.75
+    },
+    {
+        "Player-Agent": "wo0t-waylay",
+        "Rounds": 24,
+        "ACS+": 88,
+        "rating": 0.72
+    },
+    {
+        "Player-Agent": "monyet-waylay",
+        "Rounds": 60,
+        "ACS+": 117,
+        "rating": 1.15
+    },
+    {
+        "Player-Agent": "autumn-waylay",
+        "Rounds": 23,
+        "ACS+": 122,
+        "rating": 1.07
+    },
+    {
+        "Player-Agent": "meteor-waylay",
+        "Rounds": 58,
+        "ACS+": 126,
+        "rating": 1.04
+    },
+    {
+        "Player-Agent": "tenten-waylay",
+        "Rounds": 57,
+        "ACS+": 93,
+        "rating": 0.74
+    },
+    {
+        "Player-Agent": "thyy-waylay",
+        "Rounds": 74,
+        "ACS+": 77,
+        "rating": 0.63
+    },
+    {
+        "Player-Agent": "nightz-yoru",
+        "Rounds": 22,
+        "ACS+": 134,
+        "rating": 1.39
+    },
+    {
+        "Player-Agent": "zerona-yoru",
+        "Rounds": 32,
+        "ACS+": 114,
+        "rating": 1.1
+    },
+    {
+        "Player-Agent": "yatsuka-yoru",
+        "Rounds": 257,
+        "ACS+": 88,
+        "rating": 0.9
+    },
+    {
+        "Player-Agent": "rb-yoru",
+        "Rounds": 56,
+        "ACS+": 135,
+        "rating": 1.43
+    },
+    {
+        "Player-Agent": "something-yoru",
+        "Rounds": 752,
+        "ACS+": 95,
+        "rating": 0.88
+    },
+    {
+        "Player-Agent": "autumn-yoru",
+        "Rounds": 328,
+        "ACS+": 102,
+        "rating": 1.03
+    },
+    {
+        "Player-Agent": "eko-yoru",
+        "Rounds": 59,
+        "ACS+": 108,
+        "rating": 1.17
+    },
+    {
+        "Player-Agent": "f0rsaken-yoru",
+        "Rounds": 139,
+        "ACS+": 111,
+        "rating": 1.31
+    },
+    {
+        "Player-Agent": "jemkin-yoru",
+        "Rounds": 156,
+        "ACS+": 96,
+        "rating": 1.01
+    },
+    {
+        "Player-Agent": "wo0t-yoru",
+        "Rounds": 169,
+        "ACS+": 101,
+        "rating": 1.03
+    },
+    {
+        "Player-Agent": "lovers-rock-yoru",
+        "Rounds": 599,
+        "ACS+": 110,
+        "rating": 1.18
+    },
+    {
+        "Player-Agent": "exit-yoru",
+        "Rounds": 68,
+        "ACS+": 101,
+        "rating": 1.0
+    },
+    {
+        "Player-Agent": "kaajak-yoru",
+        "Rounds": 361,
+        "ACS+": 96,
+        "rating": 0.92
+    },
+    {
+        "Player-Agent": "minny-yoru",
+        "Rounds": 18,
+        "ACS+": 50,
+        "rating": 0.37
+    },
+    {
+        "Player-Agent": "jawgemo-yoru",
+        "Rounds": 81,
+        "ACS+": 62,
+        "rating": 0.28
+    },
+    {
+        "Player-Agent": "eggsterr-yoru",
+        "Rounds": 334,
+        "ACS+": 87,
+        "rating": 0.85
+    },
+    {
+        "Player-Agent": "francis-yoru",
+        "Rounds": 506,
+        "ACS+": 103,
+        "rating": 0.94
+    },
+    {
+        "Player-Agent": "zynx-yoru",
+        "Rounds": 221,
+        "ACS+": 112,
+        "rating": 1.1
+    },
+    {
+        "Player-Agent": "marteen-yoru",
+        "Rounds": 533,
+        "ACS+": 123,
+        "rating": 1.27
+    },
+    {
+        "Player-Agent": "izu-yoru",
+        "Rounds": 331,
+        "ACS+": 111,
+        "rating": 1.18
+    },
+    {
+        "Player-Agent": "mada-yoru",
+        "Rounds": 135,
+        "ACS+": 101,
+        "rating": 1.0
+    },
+    {
+        "Player-Agent": "buzz-yoru",
+        "Rounds": 88,
+        "ACS+": 95,
+        "rating": 0.82
+    },
+    {
+        "Player-Agent": "f4ngeer-yoru",
+        "Rounds": 76,
+        "ACS+": 100,
+        "rating": 1.0
+    },
+    {
+        "Player-Agent": "kamo-yoru",
+        "Rounds": 228,
+        "ACS+": 108,
+        "rating": 1.16
+    },
+    {
+        "Player-Agent": "leaf-yoru",
+        "Rounds": 105,
+        "ACS+": 106,
+        "rating": 0.95
+    },
+    {
+        "Player-Agent": "koalanoob-yoru",
+        "Rounds": 155,
+        "ACS+": 100,
+        "rating": 1.18
+    },
+    {
+        "Player-Agent": "cb-yoru",
+        "Rounds": 20,
+        "ACS+": 97,
+        "rating": 0.9
+    },
+    {
+        "Player-Agent": "rarga-yoru",
+        "Rounds": 44,
+        "ACS+": 109,
+        "rating": 0.88
+    },
+    {
+        "Player-Agent": "babybay-yoru",
+        "Rounds": 134,
+        "ACS+": 90,
+        "rating": 1.17
+    },
+    {
+        "Player-Agent": "dgzin-yoru",
+        "Rounds": 145,
+        "ACS+": 129,
+        "rating": 1.38
+    },
+    {
+        "Player-Agent": "infiltrator-yoru",
+        "Rounds": 63,
+        "ACS+": 126,
+        "rating": 1.19
+    },
+    {
+        "Player-Agent": "neon-yoru",
+        "Rounds": 84,
+        "ACS+": 105,
+        "rating": 1.19
+    },
+    {
+        "Player-Agent": "zekken-yoru",
+        "Rounds": 166,
+        "ACS+": 107,
+        "rating": 1.15
+    },
+    {
+        "Player-Agent": "reduxx-yoru",
+        "Rounds": 117,
+        "ACS+": 98,
+        "rating": 1.02
+    },
+    {
+        "Player-Agent": "penny-yoru",
+        "Rounds": 43,
+        "ACS+": 95,
+        "rating": 0.97
+    },
+    {
+        "Player-Agent": "mta-yoru",
+        "Rounds": 63,
+        "ACS+": 98,
+        "rating": 0.94
+    },
+    {
+        "Player-Agent": "sato-yoru",
+        "Rounds": 85,
+        "ACS+": 92,
+        "rating": 0.92
+    },
+    {
+        "Player-Agent": "okeanos-yoru",
+        "Rounds": 69,
+        "ACS+": 101,
+        "rating": 0.89
+    },
+    {
+        "Player-Agent": "alym-yoru",
+        "Rounds": 60,
+        "ACS+": 89,
+        "rating": 0.88
+    },
+    {
+        "Player-Agent": "virtyy-yoru",
+        "Rounds": 78,
+        "ACS+": 82,
+        "rating": 0.73
+    },
+    {
+        "Player-Agent": "seven-yoru",
+        "Rounds": 23,
+        "ACS+": 110,
+        "rating": 1.42
+    },
+    {
+        "Player-Agent": "jamppi-yoru",
+        "Rounds": 195,
+        "ACS+": 107,
+        "rating": 1.1
+    },
+    {
+        "Player-Agent": "miniboo-yoru",
+        "Rounds": 118,
+        "ACS+": 99,
+        "rating": 1.04
+    },
+    {
+        "Player-Agent": "cned-yoru",
+        "Rounds": 43,
+        "ACS+": 92,
+        "rating": 1.0
+    },
+    {
+        "Player-Agent": "lewn-yoru",
+        "Rounds": 110,
+        "ACS+": 92,
+        "rating": 0.9
+    },
+    {
+        "Player-Agent": "sociablee-yoru",
+        "Rounds": 36,
+        "ACS+": 78,
+        "rating": 0.78
+    },
+    {
+        "Player-Agent": "filu-yoru",
+        "Rounds": 62,
+        "ACS+": 78,
+        "rating": 0.68
+    },
+    {
+        "Player-Agent": "derke-yoru",
+        "Rounds": 48,
+        "ACS+": 87,
+        "rating": 0.64
+    },
+    {
+        "Player-Agent": "comeback-yoru",
+        "Rounds": 24,
+        "ACS+": 77,
+        "rating": 0.64
+    },
+    {
+        "Player-Agent": "d3mur-yoru",
+        "Rounds": 16,
+        "ACS+": 36,
+        "rating": 0.32
+    },
+    {
+        "Player-Agent": "zexy-yoru",
+        "Rounds": 20,
+        "ACS+": 184,
+        "rating": 1.6
+    },
+    {
+        "Player-Agent": "primmie-yoru",
+        "Rounds": 237,
+        "ACS+": 123,
+        "rating": 1.23
+    },
+    {
+        "Player-Agent": "meiy-yoru",
+        "Rounds": 84,
+        "ACS+": 121,
+        "rating": 1.18
+    },
+    {
+        "Player-Agent": "kellys-yoru",
+        "Rounds": 115,
+        "ACS+": 104,
+        "rating": 0.96
+    },
+    {
+        "Player-Agent": "klaus-yoru",
+        "Rounds": 61,
+        "ACS+": 88,
+        "rating": 0.95
+    },
+    {
+        "Player-Agent": "t3xture-yoru",
+        "Rounds": 45,
+        "ACS+": 104,
+        "rating": 0.83
+    },
+    {
+        "Player-Agent": "oonzmlp-yoru",
+        "Rounds": 60,
+        "ACS+": 86,
+        "rating": 0.81
+    },
+    {
+        "Player-Agent": "absol-yoru",
+        "Rounds": 161,
+        "ACS+": 86,
+        "rating": 0.8
+    },
+    {
+        "Player-Agent": "hermes-yoru",
+        "Rounds": 150,
+        "ACS+": 81,
+        "rating": 0.78
+    }
+]

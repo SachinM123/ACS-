@@ -1,5 +1,4 @@
 import json
-import time
 from bs4 import BeautifulSoup
 import requests as r
 
@@ -18,7 +17,8 @@ def merge_players(players_list):
             "Player-Agent": p["Player-Agent"],
             "Rounds": p["Rounds"],
             "Agents": p["Agents"],
-            "ACS": p["acs"]
+            "ACS": p["acs"],
+            "rating": p["rating"]
         }
         for p in players_list
     ]
@@ -50,7 +50,7 @@ def autoScraper(url):
                 print(j)
             """
             rounds = int(tds[3].text)
-            print(url)
+            rating = float(tds[4].text)
             acs = int(tds[5].text)
             player_link = player.select_one(".mod-player a")["href"].split("/")
             name = player_link[-1]
@@ -58,7 +58,8 @@ def autoScraper(url):
                 "Player-Agent" : name + "-" + agent,
                 "Rounds" : rounds,
                 "Agents" : agent,
-                "acs" : acs
+                "acs" : acs,
+                "rating" : rating
             })
 
 
@@ -87,7 +88,5 @@ if __name__ == "__main__":
     for url in urls:
         autoScraper(url)    
     full_stats = merge_players(stats_lists)
-    #print(full_stats)
-    #print("")
     with open(f"scraper/data/{output_file_name}.json", 'w', encoding="utf-8") as json_file:
         json.dump(full_stats, json_file, ensure_ascii=False, indent=4)

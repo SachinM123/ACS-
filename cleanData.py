@@ -18,20 +18,24 @@ def clean_data(input_path='scraper/data/output.json'):
                 'Rounds': 0,
                 'ACS': 0,
                 'Agent': row.get('Agents', row.get('Agent')),
+                'rating' : 0
             }
 
         grouped[key]['Rounds'] += int(row.get('Rounds', 0))
         grouped[key]['ACS'] += int(row.get('ACS', 0)) * int(row.get('Rounds', 0))
+        grouped[key]['rating'] += float(row.get('rating', 0)) * int(row.get('Rounds', 0))
 
     clean_data_list = []
     for key, value in grouped.items():
         rounds_played = value['Rounds']
         avg_acs = round(value['ACS'] / rounds_played) if rounds_played else 0
+        avg_rating = round(value['rating'] / rounds_played, 2) if rounds_played else 0
         clean_data_list.append({
             'Player-Agent': value['Player-Agent'],
             'Rounds': rounds_played,
             'ACS': avg_acs,
             'Agent': value['Agent'],
+            'rating': avg_rating
         })
 
     return clean_data_list

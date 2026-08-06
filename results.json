@@ -1,995 +1,1302 @@
 [
-    "loita-astra : 109.09826940593057",
-    "rossy-astra : 109.09826940593057",
-    "valyn-astra : 107.42839793543165",
-    "erde-astra : 102.41878352393483",
-    "sylvan-astra : 110.21151705292986",
-    "monyet-astra : 124.127112640421",
-    "oonzmlp-astra : 113.55125999392774",
-    "profek-astra : 99.6356644064366",
-    "audaz-astra : 102.41878352393483",
-    "trexx-astra : 85.1634449954458",
-    "kingg-astra : 100.74891205343587",
-    "skuba-astra : 102.97540734743447",
-    "xavi8k-astra : 105.20190264143305",
-    "boo-astra : 93.5128023479405",
-    "demon1-astra : 125.79698411091995",
-    "supamen-astra : 90.17305940694261",
-    "leaf-astra : 106.31515028843235",
-    "nerve-astra : 90.72968323044226",
-    "artzin-astra : 106.87177411193198",
-    "ruxic-astra : 123.0138649934217",
-    "grubinho-astra : 107.98502175893128",
-    "wayne-astra : 100.74891205343587",
-    "qpert-astra : 92.95617852444084",
-    "dos9-astra : 97.96579293593766",
-    "f0rsaken-astra : 119.11749822892419",
-    "munchkin-astra : 95.73929764193907",
-    "leviathan-astra : 102.41878352393483",
-    "crazyguy-astra : 82.38032587794758",
-    "ash-astra : 91.84293087744155",
-    "kitae-astra : 70.13460176095538",
-    "chichoo-astra : 103.53203117093412",
-    "flex1n-astra : 91.28630705394191",
-    "spring-astra : 80.71045440744864",
-    "jkuro-astra : 104.08865499443377",
-    "septem7-astra : 68.46473029045643",
-    "glyph-astra : 91.28630705394191",
-    "nats-astra : 101.86215970043517",
-    "meteor-astra : 119.67412205242385",
-    "bang-astra : 97.40916911243801",
-    "beng-astra : 105.20190264143305",
-    "v1c-astra : 95.18267381843944",
-    "zekken-astra : 76.25746381945147",
-    "ethan-astra : 100.19228822993624",
-    "al0rante-astra : 156.41129440340046",
-    "suygetsu-astra : 101.86215970043517",
-    "boaster-astra : 76.25746381945147",
-    "ivy-astra : 102.97540734743447",
-    "xffero-astra : 78.48395911345006",
-    "c1nder-astra : 80.71045440744864",
-    "erv-astra : 119.67412205242385",
-    "obone-astra : 105.75852646493269",
-    "qiutian-astra : 111.8813885234288",
-    "rushia-astra : 109.65489322943023",
-    "luok1ng-astra : 90.72968323044226",
-    "yosemite-astra : 60.671996761461386",
-    "francis-breach : 119.20628977910894",
-    "eko-breach : 131.78584799700485",
-    "kingg-breach : 101.83451890677648",
-    "lar0k-breach : 95.84425308873081",
-    "krostaly-breach : 61.10071134406589",
-    "oonzmlp-breach : 179.1089479595657",
-    "beyn-breach : 116.21115687008611",
-    "xdll-breach : 70.08611007113441",
-    "lakia-breach : 63.49681767128417",
-    "jowa-breach : 95.84425308873081",
-    "green-breach : 52.11531261699738",
-    "leaf-breach : 126.99363534256834",
-    "okeanos-breach : 89.85398727068514",
-    "flickless-breach : 86.8588543616623",
-    "heybay-breach : 105.4286783976039",
-    "fengf-breach : 104.23062523399476",
-    "something-brimstone : 100.82721538620618",
-    "verno-brimstone : 105.38724020266777",
-    "keiko-brimstone : 94.24051287353944",
-    "sylvan-brimstone : 111.4672732912832",
-    "profek-brimstone : 115.5206286836935",
-    "flex1n-brimstone : 108.93392617102677",
-    "neon-brimstone : 116.02729810774481",
-    "brawk-brimstone : 91.70716575328302",
-    "asuna-brimstone : 101.84055423430875",
-    "valyn-brimstone : 110.45393444318063",
-    "mazino-brimstone : 95.25385172164202",
-    "bang-brimstone : 77.52042187984696",
-    "johnqt-brimstone : 56.74697549374418",
-    "ruxic-brimstone : 136.2940750697963",
-    "boo-brimstone : 93.22717402543688",
-    "dos9-brimstone : 94.24051287353944",
-    "glyph-brimstone : 93.22717402543688",
-    "filu-brimstone : 70.93371936718023",
-    "mako-brimstone : 101.33388481025747",
-    "crazyguy-brimstone : 86.64047151277013",
-    "sugarz3ro-brimstone : 98.80053769000104",
-    "autumn-brimstone : 102.34722365836004",
-    "ssees-brimstone : 87.14714093682142",
-    "c1nder-brimstone : 84.1071243925137",
-    "ash-brimstone : 74.48040533553925",
-    "yilai-brimstone : 137.30741391789886",
-    "haodong-brimstone : 112.98728156343707",
-    "slowly-brimstone : 123.62733946851412",
-    "vo0kashu-brimstone : 129.20070313307826",
-    "coco-brimstone : 109.44059559507807",
-    "ezeir-brimstone : 111.4672732912832",
-    "yosemite-brimstone : 106.40057905077033",
-    "jowa-brimstone : 126.16068658877056",
-    "iamgrq-brimstone : 101.33388481025747",
-    "wayne-brimstone : 103.36056250646261",
-    "inspire-brimstone : 125.65401716471926",
-    "kingg-brimstone : 114.00062041153964",
-    "bao-brimstone : 97.78719884189846",
-    "artzin-brimstone : 56.24030606969289",
-    "nats-brimstone : 142.37410815841173",
-    "kicks-brimstone : 94.24051287353944",
-    "minny-brimstone : 103.86723193051391",
-    "grubinho-brimstone : 74.48040533553925",
-    "f0rsaken-brimstone : 106.40057905077033",
-    "oonzmlp-brimstone : 86.13380208871885",
-    "leviathan-brimstone : 96.77385999379588",
-    "luok1ng-brimstone : 78.02709130389826",
-    "sscary-brimstone : 85.62713266466756",
-    "bud-brimstone : 68.4003722469238",
-    "jemkin-chamber : 116.48425888393461",
-    "keiko-chamber : 102.98608296176192",
-    "babybay-chamber : 98.48669098770436",
-    "zmjjkk-chamber : 105.48574516957167",
-    "shyy-chamber : 96.48696122145655",
-    "demon1-chamber : 110.98500202675314",
-    "cortezia-chamber : 74.98986623429266",
-    "t3xture-chamber : 116.98419132549655",
-    "primmie-chamber : 94.98716389677071",
-    "xffero-chamber : 105.98567761113362",
-    "hiro-chamber : 115.98432644237265",
-    "n4rrate-chamber : 112.48479935143901",
-    "alfajer-chamber : 110.98500202675314",
-    "purp0-chamber : 61.491690312119985",
-    "chronicle-chamber : 105.48574516957167",
-    "life-chamber : 103.98594784488581",
-    "wo0t-chamber : 118.48398865018241",
-    "neon-chamber : 105.48574516957167",
-    "lukxo-chamber : 122.98338062423997",
-    "xeus-chamber : 112.48479935143901",
-    "comeback-chamber : 95.98702877989462",
-    "koshmaras-chamber : 72.99013646804485",
-    "izu-chamber : 111.98486690987704",
-    "d4v41-chamber : 108.48533981894339",
-    "ivy-chamber : 77.98946088366436",
-    "whzy-chamber : 126.48290771517364",
-    "guang-chamber : 106.48561005269559",
-    "rarga-chamber : 125.98297527361166",
-    "stew-chamber : 53.492771247128765",
-    "oxy-chamber : 120.48371841643022",
-    "pxs-chamber : 79.48925820835022",
-    "penny-chamber : 52.99283880556681",
-    "yetujey-chamber : 101.48628563707607",
-    "favian-chamber : 75.48979867585462",
-    "yatsuka-chamber : 101.98621807863802",
-    "klaus-chamber : 78.48939332522632",
-    "delb-chamber : 115.98432644237265",
-    "keznit-clove : 100.0",
-    "crewen-cypher : 102.23584565452578",
-    "bipo-cypher : 87.08979444644788",
-    "ivy-cypher : 104.39956725567976",
-    "benjyfishy-cypher : 100.07212405337181",
-    "tex-cypher : 94.12188965019834",
-    "skuba-cypher : 97.36747205192931",
-    "johnqt-cypher : 114.6772448611612",
-    "cryocells-cypher : 108.72701045798775",
-    "fireballops-cypher : 112.5135232600072",
-    "shyy-cypher : 97.36747205192931",
-    "less-cypher : 124.95492246664261",
-    "demon1-cypher : 47.06094482509917",
-    "oonzmlp-cypher : 106.02235845654526",
-    "foxy9-cypher : 133.60980887125856",
-    "free1ng-cypher : 104.39956725567976",
-    "caedye-cypher : 109.26794085827622",
-    "dh-cypher : 94.66282005048683",
-    "seph1roth-cypher : 79.51676884240894",
-    "kr1stal-cypher : 82.76235124413992",
-    "hiro-cypher : 112.5135232600072",
-    "nats-cypher : 98.44933285250632",
-    "suygetsu-cypher : 98.9902632527948",
-    "echo-cypher : 111.97259285971872",
-    "yetujey-cypher : 98.44933285250632",
-    "autumn-cypher : 90.87630724846736",
-    "artzin-cypher : 117.92282726289216",
-    "darker-cypher : 94.12188965019834",
-    "flickless-cypher : 94.66282005048683",
-    "chronicle-cypher : 97.90840245221781",
-    "xffero-cypher : 111.97259285971872",
-    "syouta-cypher : 97.36747205192931",
-    "yong-cypher : 100.61305445366028",
-    "hermes-cypher : 94.12188965019834",
-    "zynx-cypher : 59.50234403173458",
-    "vo0kashu-cypher : 119.00468806346916",
-    "chichoo-cypher : 106.02235845654526",
-    "yosemite-cypher : 100.07212405337181",
-    "scales-cypher : 100.07212405337181",
-    "guang-cypher : 79.51676884240894",
-    "coco-cypher : 42.733501622791195",
-    "izu-cypher : 142.26469527587452",
-    "minny-cypher : 111.97259285971872",
-    "klaus-cypher : 103.85863685539127",
-    "yuicaw-cypher : 110.89073205914173",
-    "rushia-cypher : 103.31770645510277",
-    "lar0k-deadlock : 121.81616832779625",
-    "primmie-deadlock : 95.23809523809524",
-    "ninja-deadlock : 105.75858250276855",
-    "kr1stal-deadlock : 89.14728682170544",
-    "crws-deadlock : 88.03986710963456",
-    "vora-fade : 102.32837253960633",
-    "riens-fade : 117.03072491598657",
-    "shr1mp-fade : 117.03072491598657",
-    "xross-fade : 107.033125300048",
-    "mazino-fade : 104.68074891982717",
-    "brawk-fade : 72.33557369179069",
-    "jamppi-fade : 102.91646663466155",
-    "wsleo-fade : 105.8569371099376",
-    "blowz-fade : 101.15218434949594",
-    "mwzera-fade : 114.09025444071052",
-    "jackk-fade : 87.62602016322613",
-    "paincakes-fade : 94.09505520883343",
-    "killua-fade : 117.03072491598657",
-    "xuna-fade : 122.32357177148346",
-    "patmen-fade : 125.26404224675949",
-    "efina-fade : 85.8617378780605",
-    "francis-fade : 84.09745559289486",
-    "net-fade : 141.73067690830536",
-    "crashies-fade : 102.91646663466155",
-    "boo-fade : 99.3879020643303",
-    "starxo-fade : 114.09025444071052",
-    "nobody-fade : 108.79740758521363",
-    "nicc-fade : 121.73547767642823",
-    "kr1stal-fade : 95.85933749399904",
-    "verno-fade : 111.73787806048969",
-    "cauanzin-fade : 79.98079692750841",
-    "c0m-fade : 87.03792606817092",
-    "p0ppin-fade : 87.03792606817092",
-    "chloric-fade : 95.85933749399904",
-    "ninja-fade : 104.68074891982717",
-    "ros-fade : 85.8617378780605",
-    "cloud-fade : 39.40230436869899",
-    "invy-fade : 112.32597215554489",
-    "akame-fade : 119.3831012962074",
-    "xavi8k-fade : 76.45223235717715",
-    "qiutian-fade : 140.5544887181949",
-    "lucas-fade : 109.97359577532406",
-    "viva-fade : 102.32837253960633",
-    "coconut-fade : 94.68314930388863",
-    "eeiu-fade : 116.44263082093136",
-    "ethan-fade : 111.73787806048969",
-    "trent-fade : 109.97359577532406",
-    "krostaly-fade : 101.74027844455114",
-    "wo0t-fade : 85.8617378780605",
-    "beyn-fade : 102.91646663466155",
-    "f0rsaken-fade : 59.397503600576094",
-    "sword9-fade : 91.74267882861258",
-    "coco-fade : 60.57369179068651",
-    "ezeir-fade : 67.04272683629381",
-    "f0rsaken-gekko : 115.69301260022911",
-    "patmen-gekko : 116.26575028636886",
-    "septem7-gekko : 121.99312714776633",
-    "kamo-gekko : 60.71019473081329",
-    "bud-gekko : 85.33791523482246",
-    "f0rsaken-harbor : 122.06216830932526",
-    "mada-harbor : 117.41218094516049",
-    "profek-harbor : 95.32474096537781",
-    "dos9-harbor : 105.78721253474855",
-    "lukxo-harbor : 127.8746525145312",
-    "basic-harbor : 100.55597675006318",
-    "nightz-harbor : 117.99342936568107",
-    "v1c-harbor : 78.46853677028052",
-    "zellsis-harbor : 95.90598938589841",
-    "karon-harbor : 137.17462724286077",
-    "buzz-harbor : 108.69345463735154",
-    "jinggg-harbor : 97.64973464746019",
-    "qpert-harbor : 115.08718726307809",
-    "chloric-harbor : 107.53095779631035",
-    "smoggy-harbor : 98.8122314885014",
-    "bang-harbor : 102.88097043214557",
-    "saadhak-harbor : 83.1185241344453",
-    "artzin-harbor : 62.19358099570381",
-    "eggsterr-harbor : 60.449835734142034",
-    "benjyfishy-harbor : 105.20596411422795",
-    "rb-harbor : 104.04346727318676",
-    "munchkin-harbor : 69.74981046247157",
-    "haodong-harbor : 86.02476623704827",
-    "demon1-iso : 115.53719008264463",
-    "koalanoob-iso : 86.77685950413223",
-    "alfajer-iso : 91.23966942148762",
-    "caedye-iso : 85.2892561983471",
-    "jawgemo-iso : 108.59504132231406",
-    "babybay-iso : 112.56198347107438",
-    "n4rrate-jett : 99.0084829789578",
-    "lovers-rock-jett : 98.06103338107303",
-    "zmjjkk-jett : 111.7990525504021",
-    "noman-jett : 91.42888619587968",
-    "keiko-jett : 110.37787815357495",
-    "derke-jett : 114.6414013440564",
-    "lar0k-jett : 120.79982373030738",
-    "autumn-jett : 109.9041533546326",
-    "timotino-jett : 120.79982373030738",
-    "heat-jett : 119.37864933348021",
-    "reduxx-jett : 86.69163820645588",
-    "keznit-jett : 109.43042855569021",
-    "xross-jett : 116.53630053982593",
-    "jemkin-jett : 110.85160295251735",
-    "udotan-jett : 90.00771179905254",
-    "something-jett : 110.37787815357495",
-    "wo0t-jett : 99.95593257684257",
-    "purp0-jett : 104.219455767324",
-    "exit-jett : 77.21714222760824",
-    "primmie-jett : 125.0633469207888",
-    "spiritz1-jett : 116.53630053982593",
-    "mada-jett : 82.42811501597444",
-    "demon1-jett : 116.53630053982593",
-    "aspas-jett : 99.95593257684257",
-    "lewn-jett : 130.7480445080974",
-    "cned-jett : 94.27123498953398",
-    "bipo-jett : 83.84928941280158",
-    "hyunmin-jett : 102.32455657155448",
-    "t3xture-jett : 104.219455767324",
-    "rimuru-jett : 26.054863941831",
-    "f4ngeer-jett : 115.11512614299879",
-    "kai-jett : 99.95593257684257",
-    "glacier-jett : 86.69163820645588",
-    "buzz-jett : 104.219455767324",
-    "neon-jett : 119.37864933348021",
-    "jawgemo-jett : 54.004627079431536",
-    "d3mur-jett : 101.37710697366971",
-    "comeback-jett : 86.69163820645588",
-    "veqaj-jett : 60.16304946568249",
-    "zexy-jett : 86.21791340751349",
-    "monyet-jett : 91.90261099482207",
-    "stew-jett : 122.22099812713452",
-    "akeman-jett : 88.5865374022254",
-    "jieni7-kayo : 114.0031233732431",
-    "ethan-kayo : 106.71525247267049",
-    "jamppi-kayo : 99.94794377928162",
-    "glyph-kayo : 149.4013534617387",
-    "jawgemo-kayo : 104.1124414367517",
-    "eko-kayo : 102.55075481520042",
-    "kellys-kayo : 84.85163977095263",
-    "cloud-kayo : 126.49661634565331",
-    "wo0t-kayo : 87.45445080687142",
-    "asuna-kayo : 92.66007287870902",
-    "bati-kayo : 79.12545549193129",
-    "okeanos-kayo : 91.09838625715774",
-    "seven-kayo : 116.60593440916189",
-    "avez-kayo : 109.31806350858928",
-    "cyvoph-kayo : 80.16657990629881",
-    "stax-kayo : 112.44143675169182",
-    "crazyguy-kayo : 97.34513274336284",
-    "zynx-kayo : 35.39823008849557",
-    "nobody-kayo : 100.98906819364915",
-    "noman-kayo : 82.24882873503384",
-    "mazino-kayo : 116.08537220197815",
-    "mta-kayo : 88.49557522123894",
-    "zellsis-kayo : 78.60489328474753",
-    "flickless-kayo : 87.97501301405518",
-    "krostaly-kayo : 92.66007287870902",
-    "invy-kayo : 110.3591879229568",
-    "beyn-kayo : 89.53669963560645",
-    "fengf-kayo : 145.75741801145236",
-    "haodong-kayo : 119.72930765226444",
-    "nephh-kayo : 97.86569495054658",
-    "noman-killjoy : 87.89473684210526",
-    "demon1-killjoy : 69.47368421052632",
-    "seph1roth-killjoy : 117.36842105263159",
-    "d4v41-killjoy : 104.21052631578947",
-    "kr1stal-killjoy : 134.21052631578948",
-    "cortezia-killjoy : 97.89473684210527",
-    "zellsis-killjoy : 86.8421052631579",
-    "bao-killjoy : 104.21052631578947",
-    "chronicle-killjoy : 100.52631578947368",
-    "nats-killjoy : 97.89473684210527",
-    "caedye-killjoy : 120.52631578947368",
-    "meteor-killjoy : 106.3157894736842",
-    "izu-killjoy : 98.94736842105263",
-    "xdll-killjoy : 108.94736842105263",
-    "zynx-killjoy : 86.31578947368422",
-    "klaus-killjoy : 64.73684210526316",
-    "aaaay-killjoy : 117.89473684210525",
-    "rushia-killjoy : 101.05263157894737",
-    "yilai-killjoy : 98.42105263157895",
-    "coco-killjoy : 96.84210526315789",
-    "guang-killjoy : 96.3157894736842",
-    "k1ra-killjoy : 76.84210526315789",
-    "keiko-killjoy : 110.5263157894737",
-    "artzin-killjoy : 105.26315789473684",
-    "rossy-killjoy : 79.47368421052632",
-    "lukxo-killjoy : 108.42105263157895",
-    "westside-killjoy : 111.05263157894736",
-    "alfajer-killjoy : 98.42105263157895",
-    "baha-killjoy : 69.47368421052632",
-    "ivy-killjoy : 90.52631578947368",
-    "yosemite-killjoy : 123.15789473684211",
-    "abo-killjoy : 113.1578947368421",
-    "green-killjoy : 123.6842105263158",
-    "slowly-killjoy : 116.8421052631579",
-    "scales-killjoy : 76.31578947368422",
-    "flex1n-miks : 100.0",
-    "rarga-neon : 108.17164179104478",
-    "wo0t-neon : 105.74626865671641",
-    "dambi-neon : 113.02238805970148",
-    "zekken-neon : 111.56716417910448",
-    "timotino-neon : 104.29104477611939",
-    "aspas-neon : 100.8955223880597",
-    "lewn-neon : 113.99253731343283",
-    "ethan-neon : 89.73880597014924",
-    "minny-neon : 97.98507462686567",
-    "udotan-neon : 99.44029850746269",
-    "tkzin-neon : 128.05970149253733",
-    "jerrwin-neon : 98.955223880597",
-    "spike-neon : 112.05223880597015",
-    "dantedeu5-neon : 87.79850746268656",
-    "koalanoob-neon : 92.16417910447761",
-    "free1ng-neon : 101.38059701492537",
-    "zeus-neon : 108.17164179104478",
-    "absol-neon : 107.68656716417911",
-    "jitboys-neon : 96.52985074626865",
-    "yatsuka-neon : 83.43283582089552",
-    "flicker-neon : 73.24626865671642",
-    "koshmaras-neon : 107.20149253731344",
-    "izzy-neon : 98.955223880597",
-    "s0pp-neon : 106.71641791044775",
-    "derke-neon : 102.35074626865672",
-    "kaajak-neon : 107.68656716417911",
-    "ruxic-neon : 82.94776119402985",
-    "life-neon : 96.52985074626865",
-    "oxy-neon : 116.4179104477612",
-    "asuna-neon : 96.04477611940298",
-    "alym-neon : 100.8955223880597",
-    "victor-neon : 99.44029850746269",
-    "okeanos-neon : 86.34328358208954",
-    "ara-neon : 105.74626865671641",
-    "filu-neon : 112.53731343283582",
-    "comeback-neon : 113.99253731343283",
-    "bipo-neon : 85.3731343283582",
-    "lar0k-neon : 87.79850746268656",
-    "f0rsaken-neon : 101.86567164179104",
-    "zynx-neon : 120.78358208955224",
-    "francis-neon : 114.4776119402985",
-    "akame-neon : 95.07462686567165",
-    "rimuru-neon : 87.79850746268656",
-    "zexy-neon : 85.3731343283582",
-    "kai-neon : 108.17164179104478",
-    "dynamite-neon : 97.98507462686567",
-    "swagzor-neon : 109.14179104477613",
-    "setrod-neon : 93.13432835820895",
-    "jieni7-neon : 89.73880597014924",
-    "youze-neon : 83.91791044776119",
-    "spring-neon : 108.65671641791043",
-    "whzy-neon : 116.4179104477612",
-    "noman-neon : 53.843283582089555",
-    "xlele-neon : 94.58955223880596",
-    "buzz-neon : 111.56716417910448",
-    "jinggg-neon : 98.47014925373134",
-    "cb-neon : 83.91791044776119",
-    "mada-neon : 97.98507462686567",
-    "penny-neon : 98.47014925373134",
-    "infiltrator-neon : 89.25373134328358",
-    "miniboo-neon : 107.20149253731344",
-    "eko-neon : 105.74626865671641",
-    "t3xture-neon : 107.20149253731344",
-    "splash-neon : 116.90298507462687",
-    "guang-neon : 81.00746268656717",
-    "loita-omen : 107.86451093715708",
-    "chichoo-omen : 101.74848196649353",
-    "keiko-omen : 111.75652937303386",
-    "signed-omen : 101.74848196649353",
-    "proxh-omen : 95.07645036213329",
-    "rb-omen : 96.74445826322335",
-    "mazino-omen : 105.08449776867363",
-    "profek-omen : 95.63245299582998",
-    "iamgrq-omen : 99.52447143170679",
-    "k1ra-omen : 92.29643719364987",
-    "xan-omen : 72.83634501426586",
-    "jinggg-omen : 114.5365425415173",
-    "f0rsaken-omen : 110.6445241056405",
-    "rossy-omen : 110.6445241056405",
-    "neon-omen : 111.20052673933718",
-    "marved-omen : 110.0885214719438",
-    "cortezia-omen : 110.6445241056405",
-    "reduxx-omen : 111.20052673933718",
-    "basic-omen : 96.74445826322335",
-    "darker-omen : 104.52849513497695",
-    "nightz-omen : 102.30448460019022",
-    "artzin-omen : 98.9684687980101",
-    "erde-omen : 107.3085083034604",
-    "saadhak-omen : 105.08449776867363",
-    "klaus-omen : 112.31253200673055",
-    "buzz-omen : 126.21259784914771",
-    "patmen-omen : 116.76055307630403",
-    "free1ng-omen : 109.53251883824713",
-    "francis-omen : 101.74848196649353",
-    "dh-omen : 98.9684687980101",
-    "seph1roth-omen : 88.96042139146975",
-    "c1nder-omen : 82.8443924208062",
-    "ruxic-omen : 112.86853464042723",
-    "boo-omen : 90.62842929255982",
-    "cyvoph-omen : 98.9684687980101",
-    "audaz-omen : 89.51642402516643",
-    "flickless-omen : 77.84036871753602",
-    "koshmaras-omen : 58.9362791718487",
-    "spike-omen : 133.44063208720462",
-    "sato-omen : 93.96444509473993",
-    "lysoar-omen : 105.64050040237032",
-    "leviathan-omen : 106.75250566976369",
-    "ethan-omen : 92.85243982734654",
-    "valyn-omen : 112.31253200673055",
-    "koalanoob-omen : 116.20455044260736",
-    "eggsterr-omen : 107.3085083034604",
-    "supamen-omen : 77.28436608383934",
-    "leaf-omen : 73.39234764796254",
-    "filu-omen : 101.74848196649353",
-    "glyph-omen : 108.42051357085376",
-    "sociablee-omen : 105.64050040237032",
-    "syouta-omen : 125.65659521545103",
-    "sylvan-omen : 96.18845562952666",
-    "munchkin-omen : 102.8604872338869",
-    "autumn-omen : 81.73238715341283",
-    "crws-omen : 72.83634501426586",
-    "stew-omen : 117.8725583436974",
-    "delb-omen : 110.0885214719438",
-    "flex1n-omen : 100.08047406540345",
-    "coco-omen : 87.84841612407638",
-    "jowa-omen : 98.9684687980101",
-    "jkuro-omen : 103.97249250128027",
-    "jieni7-omen : 91.74043455995317",
-    "izu-omen : 106.75250566976369",
-    "smoggy-omen : 102.8604872338869",
-    "bang-omen : 104.52849513497695",
-    "kingg-omen : 90.07242665886311",
-    "kicks-omen : 96.18845562952666",
-    "yetujey-omen : 105.08449776867363",
-    "shao-omen : 71.1683371131758",
-    "mako-omen : 113.98053990782063",
-    "oonzmlp-omen : 87.84841612407638",
-    "xavi8k-omen : 90.62842929255982",
-    "nephh-omen : 108.97651620455045",
-    "haodong-omen : 82.8443924208062",
-    "qiutian-omen : 73.94835028165923",
-    "zekken-phoenix : 106.92800521229233",
-    "marteen-phoenix : 118.60136822673472",
-    "lar0k-phoenix : 89.18449343033988",
-    "xross-phoenix : 104.59333260940384",
-    "mada-phoenix : 109.7296123357585",
-    "autumn-phoenix : 101.32479096535998",
-    "rarga-phoenix : 91.98610055380605",
-    "jawgemo-phoenix : 128.87392767944402",
-    "fireballops-phoenix : 108.79574329460311",
-    "heat-phoenix : 113.46508850038006",
-    "zerona-phoenix : 94.78770767727224",
-    "dantedeu5-phoenix : 72.37485068954285",
-    "demon1-phoenix : 74.70952329243133",
-    "jitboys-phoenix : 108.79574329460311",
-    "f0rsaken-phoenix : 111.59735041806928",
-    "hyunmin-phoenix : 99.45705288304919",
-    "oonzmlp-phoenix : 89.65142795091758",
-    "kushy-phoenix : 82.64741014225216",
-    "derke-phoenix : 141.9480942556195",
-    "n4rrate-phoenix : 111.1304158974916",
-    "cyvoph-phoenix : 103.19252904767076",
-    "westside-phoenix : 105.99413617113693",
-    "xeus-phoenix : 84.04821370398523",
-    "sociablee-phoenix : 93.38690411553915",
-    "jesse-phoenix : 57.899880551634276",
-    "smoggy-phoenix : 110.1965468563362",
-    "leaf-phoenix : 99.9239874036269",
-    "keiko-phoenix : 110.6634813769139",
-    "sato-phoenix : 112.53121945922469",
-    "okeanos-phoenix : 86.38288630687371",
-    "silentzz-phoenix : 79.37886849820828",
-    "sayonara-phoenix : 100.39092192420458",
-    "desmo-phoenix : 97.5893148007384",
-    "filu-phoenix : 95.25464219784993",
-    "primmie-phoenix : 120.4691063090455",
-    "meteor-phoenix : 100.85785644478229",
-    "zexy-phoenix : 87.7836898686068",
-    "whzy-phoenix : 141.9480942556195",
-    "xlele-phoenix : 98.0562493213161",
-    "k1ra-phoenix : 80.31273753936367",
-    "avez-phoenix : 77.0441958953198",
-    "cb-phoenix : 94.32077315669454",
-    "zmjjkk-phoenix : 101.79172548593766",
-    "mada-raze : 110.31136271734736",
-    "lar0k-raze : 122.7658714112414",
-    "wo0t-raze : 100.97048119692683",
-    "zekken-raze : 84.95754144763445",
-    "jieni7-raze : 104.97371613424991",
-    "k1ra-raze : 103.19450060655075",
-    "noman-raze : 71.61342498989082",
-    "timotino-raze : 110.75616659927215",
-    "oxy-raze : 104.08410837040032",
-    "heat-raze : 74.72705216336433",
-    "koalanoob-raze : 81.84391427416095",
-    "artzin-raze : 72.94783663566518",
-    "yatsuka-raze : 122.32106752931662",
-    "jitboys-raze : 109.42175495349777",
-    "udotan-raze : 96.96724625960373",
-    "jinggg-raze : 105.41852001617468",
-    "derke-raze : 111.6457743631217",
-    "favian-raze : 99.19126566922766",
-    "xeus-raze : 89.85038414880712",
-    "sayonara-raze : 95.63283461382936",
-    "penny-raze : 93.85361908613021",
-    "aspas-raze : 92.51920744035584",
-    "reduxx-raze : 101.86008896077638",
-    "xeppaa-raze : 93.40881520420542",
-    "victor-raze : 79.619894864537",
-    "marteen-raze : 119.6522442377679",
-    "alfajer-raze : 113.86979377274567",
-    "seven-raze : 81.39911039223615",
-    "primmie-raze : 142.78204609785686",
-    "jemkin-raze : 105.41852001617468",
-    "hyunmin-raze : 111.6457743631217",
-    "t3xture-raze : 105.41852001617468",
-    "spring-raze : 108.53214718964821",
-    "kai-raze : 96.96724625960373",
-    "stew-raze : 93.40881520420542",
-    "rarga-raze : 81.84391427416095",
-    "whzy-raze : 100.08087343307723",
-    "buzz-raze : 118.31783259199354",
-    "mta-raze : 97.8568540234533",
-    "filu-raze : 84.95754144763445",
-    "tenten-raze : 88.96077638495754",
-    "thyy-raze : 85.40234532955924",
-    "fengf-raze : 108.0873433077234",
-    "zmjjkk-raze : 120.54185200161747",
-    "demon1-reyna : 100.0",
-    "crazyguy-sage : 77.4885145482389",
-    "xross-sage : 77.4885145482389",
-    "erde-sage : 101.5569167942828",
-    "zellsis-sage : 85.7069933639612",
-    "less-sage : 46.37570188871874",
-    "xffero-sage : 136.77896886166408",
-    "oonzmlp-sage : 111.53649821337417",
-    "crws-sage : 108.01429300663602",
-    "kushy-sage : 63.39969372128637",
-    "cloud-sage : 126.2123532414497",
-    "spear-sage : 122.10311383358857",
-    "cyvoph-sage : 90.40326697294537",
-    "jinggg-sage : 103.90505359877488",
-    "rarga-sage : 125.03828483920367",
-    "xavi8k-sage : 98.62174578866768",
-    "verno-sage : 101.5569167942828",
-    "mada-sage : 86.29402756508422",
-    "udotan-sage : 102.73098519652883",
-    "aaaay-sage : 107.427258805513",
-    "boo-sage : 98.03471158754466",
-    "chronicle-sage : 98.62174578866768",
-    "patmen-sage : 136.19193466054108",
-    "chichoo-sage : 94.51250638080653",
-    "trent-skye : 104.7644186353438",
-    "mazino-skye : 119.17645506136994",
-    "shr1mp-skye : 95.89547314240465",
-    "vora-skye : 103.65580044872642",
-    "jamppi-skye : 81.48343671637852",
-    "jonahp-skye : 99.77563679556553",
-    "glyph-skye : 61.52830935726541",
-    "akame-skye : 128.5997096476178",
-    "izu-skye : 128.5997096476178",
-    "killua-skye : 111.97043684835688",
-    "xdll-skye : 98.66701860894813",
-    "krostaly-skye : 95.34116404909595",
-    "kicks-skye : 78.71189124983503",
-    "nicc-skye : 102.54718226210902",
-    "f0rsaken-skye : 123.61092780783952",
-    "wsleo-skye : 97.55840042233073",
-    "blowz-skye : 105.31872772865249",
-    "paincakes-skye : 84.80929127623071",
-    "cauanzin-skye : 83.1463639963046",
-    "favian-skye : 128.0454005543091",
-    "cloud-skye : 122.50230962122212",
-    "seven-skye : 124.71954599445692",
-    "flickless-skye : 99.22132770225683",
-    "riens-skye : 96.44978223571334",
-    "nekky-skye : 94.23254586247856",
-    "starxo-skye : 60.419691170648015",
-    "beyn-skye : 106.4273459152699",
-    "kushy-skye : 89.24376402270028",
-    "patmen-skye : 131.92556420746996",
-    "yatsuka-skye : 83.7006730896133",
-    "lucas-skye : 113.07905503497426",
-    "knight-skye : 119.17645506136994",
-    "erv-skye : 111.97043684835688",
-    "coconut-skye : 99.22132770225683",
-    "qiutian-skye : 105.87303682196121",
-    "viva-skye : 74.83172759667414",
-    "ethan-skye : 82.03774580968721",
-    "xeppaa-skye : 108.6445822885047",
-    "p0ppin-skye : 101.99287316880033",
-    "purp0-skye : 91.46100039593506",
-    "lakia-skye : 87.5808367427742",
-    "heybay-skye : 62.08261845057411",
-    "verno-sova : 122.22455403987409",
-    "riens-sova : 122.77019937040923",
-    "starxo-sova : 98.76180482686253",
-    "sayonara-sova : 114.03987408184679",
-    "shr1mp-sova : 113.49422875131165",
-    "crazyguy-sova : 108.03777544596012",
-    "francis-sova : 108.03777544596012",
-    "kushy-sova : 94.94228751311647",
-    "xavi8k-sova : 109.67471143756558",
-    "eeiu-sova : 103.6726128016789",
-    "jackk-sova : 109.67471143756558",
-    "brawk-sova : 109.67471143756558",
-    "davih-sova : 87.30325288562433",
-    "mwzera-sova : 106.40083945435465",
-    "glyph-sova : 80.75550891920251",
-    "izu-sova : 135.32004197271772",
-    "invy-sova : 111.8572927597062",
-    "kr1stal-sova : 97.12486883525709",
-    "beyn-sova : 91.66841552990556",
-    "akame-sova : 98.76180482686253",
-    "efina-sova : 72.02518363064007",
-    "avez-sova : 127.13536201469044",
-    "waddle-sova : 105.30954879328436",
-    "net-sova : 97.12486883525709",
-    "ros-sova : 93.30535152151101",
-    "trent-sova : 118.405036726128",
-    "nicc-sova : 109.12906610703044",
-    "killua-sova : 97.67051416579223",
-    "paincakes-sova : 97.67051416579223",
-    "vora-sova : 100.94438614900314",
-    "zekken-sova : 78.5729275970619",
-    "jamppi-sova : 103.12696747114376",
-    "cloud-sova : 100.398740818468",
-    "n4rrate-sova : 102.5813221406086",
-    "free1ng-sova : 136.9569779643232",
-    "stax-sova : 96.03357817418677",
-    "xross-sova : 116.22245540398741",
-    "jessievash-sova : 85.66631689401889",
-    "lucas-sova : 116.76810073452255",
-    "nobody-sova : 98.21615949632738",
-    "siufatbb-sova : 87.8488982161595",
-    "purp0-sova : 98.21615949632738",
-    "xeppaa-sova : 88.39454354669465",
-    "governor-sova : 81.30115424973768",
-    "hiro-sova : 103.12696747114376",
-    "sheydos-sova : 85.12067156348373",
-    "kamo-sova : 93.30535152151101",
-    "mrfalin-sova : 72.02518363064007",
-    "xdll-sova : 98.76180482686253",
-    "wsleo-sova : 99.85309548793285",
-    "fengf-sova : 43.651626442812166",
-    "berlin-sova : 70.93389296956978",
-    "jackk-tejo : 86.14120936735407",
-    "kr1stal-tejo : 78.55644879412792",
-    "killua-tejo : 30.880810905277873",
-    "blowz-tejo : 99.14365606431316",
-    "rossy-tejo : 94.8095071653268",
-    "zellsis-tejo : 69.88815099615519",
-    "hiro-tejo : 132.19154141908422",
-    "nekky-tejo : 114.85494582313875",
-    "avez-tejo : 102.93603635092626",
-    "patmen-tejo : 157.65466620062912",
-    "akame-tejo : 124.60678084585808",
-    "xross-tejo : 116.48025166025863",
-    "ssees-tejo : 74.76406850751485",
-    "caedye-tejo : 91.55889549108703",
-    "jowa-tejo : 97.51835022719328",
-    "knight-tejo : 87.76651520447395",
-    "kovaq-tejo : 112.14610276127229",
-    "sword9-tejo : 86.68297797972735",
-    "qiutian-tejo : 79.63998601887451",
-    "nerve-tejo : 99.68542467668647",
-    "johnqt-tejo : 168.49003844809508",
-    "xeppaa-tejo : 144.11045089129675",
-    "brawk-tejo : 92.64243271583362",
-    "kyu-tejo : 82.89059769311429",
-    "wo0t-tejo : 150.069905627403",
-    "cloud-tejo : 88.30828381684725",
-    "krostaly-tejo : 59.05277874868926",
-    "free1ng-tejo : 95.89304439007338",
-    "lucas-tejo : 107.27018524991261",
-    "setrod-tejo : 81.8070604683677",
-    "biank-tejo : 91.55889549108703",
-    "xffero-veto : 117.23270440251572",
-    "primmie-veto : 121.25786163522012",
-    "favian-veto : 128.30188679245282",
-    "demon1-veto : 82.51572327044026",
-    "al0rante-veto : 95.59748427672956",
-    "n4rrate-veto : 57.861635220125784",
-    "echo-veto : 58.867924528301884",
-    "syouta-veto : 88.0503144654088",
-    "delb-veto : 116.22641509433961",
-    "penny-veto : 107.67295597484276",
-    "bao-veto : 113.20754716981132",
-    "leaf-veto : 88.55345911949686",
-    "benjyfishy-veto : 123.77358490566037",
-    "westside-veto : 47.79874213836478",
-    "f0rsaken-veto : 129.3081761006289",
-    "karon-veto : 110.69182389937107",
-    "klaus-veto : 80.50314465408806",
-    "green-veto : 141.88679245283018",
-    "yosemite-veto : 119.24528301886792",
-    "au1-veto : 71.44654088050314",
-    "ivy-viper : 106.27372341187424",
-    "boo-viper : 98.64642268853399",
-    "kr1stal-viper : 108.30767027143165",
-    "skuba-viper : 95.59550239919787",
-    "bipo-viper : 110.8501038458784",
-    "bai-viper : 100.17188283320205",
-    "suygetsu-viper : 94.57852896941917",
-    "xffero-viper : 104.74826326720618",
-    "happywei-viper : 114.91799756499319",
-    "cryocells-viper : 110.8501038458784",
-    "zellsis-viper : 90.00214853541503",
-    "rossy-viper : 110.8501038458784",
-    "cortezia-viper : 101.69734297787008",
-    "lukxo-viper : 108.81615698632099",
-    "marved-viper : 86.44274153118957",
-    "fireballops-viper : 61.5268925016114",
-    "monyet-viper : 81.35787438229607",
-    "foxy9-viper : 125.08773186278019",
-    "jitboys-viper : 87.96820167585763",
-    "crws-viper : 87.96820167585763",
-    "patmen-viper : 111.8670772756571",
-    "kellys-viper : 110.8501038458784",
-    "nats-viper : 114.91799756499319",
-    "hiro-viper : 120.51135142877605",
-    "al0rante-viper : 105.25674998209553",
-    "flickless-viper : 112.37556399054644",
-    "cloud-viper : 80.84938766740672",
-    "sayonara-viper : 108.81615698632099",
-    "kingg-viper : 103.73128983742748",
-    "d4v41-viper : 102.20582969275944",
-    "bang-viper : 95.08701568430853",
-    "v1c-viper : 116.95194442455059",
-    "leaf-viper : 106.27372341187424",
-    "tex-viper : 91.52760868008308",
-    "alfajer-viper : 123.0537850032228",
-    "chloric-viper : 106.27372341187424",
-    "yetujey-viper : 96.61247582897657",
-    "desmo-viper : 92.03609539497243",
-    "minny-viper : 98.13793597364463",
-    "westside-viper : 93.05306882475112",
-    "leviathan-viper : 97.62944925875529",
-    "caedye-viper : 85.42576810141087",
-    "mako-viper : 92.03609539497243",
-    "klaus-viper : 100.68036954809139",
-    "yatsuka-viper : 90.51063525030438",
-    "karon-viper : 91.01912196519373",
-    "yuicaw-viper : 112.88405070543578",
-    "vo0kashu-viper : 116.44345770966125",
-    "spring-viper : 107.79918355654227",
-    "aaaay-viper : 103.22280312253812",
-    "abo-viper : 85.93425481630021",
-    "rushia-viper : 106.78221012676359",
-    "delb-viper : 95.59550239919787",
-    "berlin-viper : 62.543865931390094",
-    "keiko-viper : 104.74826326720618",
-    "crewen-viper : 102.20582969275944",
-    "chichoo-viper : 106.27372341187424",
-    "darker-viper : 110.34161713098905",
-    "inspire-viper : 100.17188283320205",
-    "nagz-viper : 79.32392752273867",
-    "demon1-viper : 71.18814008450906",
-    "beng-viper : 69.66267993984101",
-    "loita-viper : 102.20582969275944",
-    "veqaj-viper : 114.40951085010384",
-    "favian-viper : 106.78221012676359",
-    "meteor-viper : 102.20582969275944",
-    "hermes-viper : 91.01912196519373",
-    "syouta-viper : 96.61247582897657",
-    "luok1ng-viper : 112.88405070543578",
-    "coco-viper : 109.8331304160997",
-    "au1-viper : 94.57852896941917",
-    "lysoar-vyse : 122.60767554885203",
-    "benjyfishy-vyse : 101.30718954248368",
-    "chronicle-vyse : 108.06100217864925",
-    "bai-vyse : 88.31908831908832",
-    "ivy-vyse : 98.19004524886878",
-    "signed-vyse : 74.81146304675717",
-    "babybay-vyse : 112.21719457013575",
-    "fireballops-vyse : 103.38528573822691",
-    "zellsis-vyse : 86.76051617228089",
-    "raxcal-vyse : 115.33433886375065",
-    "syouta-vyse : 107.54147812971344",
-    "alfajer-vyse : 127.28339198927434",
-    "crewen-vyse : 84.16289592760181",
-    "keiko-vyse : 148.58387799564272",
-    "vo0kashu-vyse : 131.43958438076086",
-    "d4v41-vyse : 104.42433383609855",
-    "jieni7-vyse : 101.82671359141948",
-    "yetujey-vyse : 93.51432880844646",
-    "brawk-vyse : 108.58052622758505",
-    "silentzz-vyse : 92.99480475951066",
-    "bao-vyse : 95.59242500418972",
-    "cryocells-vyse : 82.08479973185857",
-    "hiro-vyse : 112.21719457013575",
-    "nekky-vyse : 59.74526562761857",
-    "kr1stal-vyse : 113.77576671694321",
-    "berserx-vyse : 78.96765543824368",
-    "yong-vyse : 89.35813641695995",
-    "crazyguy-vyse : 91.95575666163901",
-    "zhe-vyse : 106.50243003184181",
-    "abo-vyse : 86.24099212334507",
-    "yosemite-vyse : 72.2138428020781",
-    "aspas-waylay : 108.63703979174414",
-    "zekken-waylay : 74.19114912606918",
-    "babybay-waylay : 108.10710301227222",
-    "jerrwin-waylay : 104.92748233544069",
-    "koalanoob-waylay : 74.7210859055411",
-    "primmie-waylay : 140.96318333953144",
-    "dambi-waylay : 111.28672368910375",
-    "zexy-waylay : 97.50836742283377",
-    "flicker-waylay : 77.90070658237264",
-    "natz-waylay : 73.13127556712533",
-    "xeus-waylay : 114.4663443659353",
-    "exit-waylay : 109.69691335068799",
-    "zmjjkk-waylay : 132.48419486798068",
-    "mada-waylay : 111.81666046857568",
-    "jawgemo-waylay : 92.20899962811454",
-    "keznit-waylay : 108.63703979174414",
-    "sato-waylay : 107.04722945332838",
-    "favian-waylay : 126.6548902937895",
-    "westside-waylay : 85.31982149497955",
-    "izzy-waylay : 76.84083302342879",
-    "lewn-waylay : 87.96950539233916",
-    "kolosha-waylay : 69.42171811082187",
-    "udotan-waylay : 147.3224246931945",
-    "meiy-waylay : 107.5771662328003",
-    "eko-waylay : 100.6879880996653",
-    "francis-waylay : 95.918557084418",
-    "free1ng-waylay : 64.12235031610264",
-    "f4ngeer-waylay : 122.94533283748605",
-    "yilai-waylay : 114.4663443659353",
-    "xlele-waylay : 118.7058386017107",
-    "spitfires-waylay : 113.93640758646337",
-    "noman-waylay : 102.27779843808106",
-    "glacier-waylay : 108.63703979174414",
-    "yuicaw-waylay : 91.1491260691707",
-    "something-waylay : 113.93640758646337",
-    "alym-waylay : 100.15805132019338",
-    "f0rsaken-waylay : 60.41279285979918",
-    "reduxx-waylay : 97.50836742283377",
-    "penny-waylay : 94.32874674600224",
-    "oxy-waylay : 100.15805132019338",
-    "virtyy-waylay : 96.97843064336185",
-    "spike-waylay : 73.66121234659725",
-    "comeback-waylay : 108.10710301227222",
-    "bipo-waylay : 103.86760877649684",
-    "kamo-waylay : 98.0383042023057",
-    "purp0-waylay : 77.90070658237264",
-    "d3mur-waylay : 91.67906284864262",
-    "cned-waylay : 82.67013759761994",
-    "hyunmin-waylay : 126.6548902937895",
-    "autumn-waylay : 120.29564894012645",
-    "jinggg-waylay : 92.20899962811454",
-    "zynx-waylay : 71.54146522870955",
-    "splash-waylay : 125.06507995537375",
-    "whzy-waylay : 114.99628114540721",
-    "fengf-waylay : 110.75678690963184",
-    "dynamite-waylay : 91.67906284864262",
-    "akeman-waylay : 65.71216065451841",
-    "nightz-yoru : 136.20530412983243",
-    "rb-yoru : 138.1580683467476",
-    "autumn-yoru : 104.47288560496108",
-    "f0rsaken-yoru : 112.77213352685051",
-    "wo0t-yoru : 103.0083124422747",
-    "exit-yoru : 103.0083124422747",
-    "minny-yoru : 51.260060694022954",
-    "francis-yoru : 104.96107665918986",
-    "izu-yoru : 113.2603245810793",
-    "buzz-yoru : 97.15001979152923",
-    "f4ngeer-yoru : 107.40203193033382",
-    "leaf-yoru : 107.89022298456261",
-    "lovers-rock-yoru : 112.28394247262172",
-    "babybay-yoru : 92.26810924924132",
-    "infiltrator-yoru : 128.8824383164006",
-    "koalanoob-yoru : 101.54373927958832",
-    "mada-yoru : 103.0083124422747",
-    "sato-yoru : 94.22087346615649",
-    "alym-yoru : 90.31534503232616",
-    "virtyy-yoru : 83.48067027312311",
-    "kamo-yoru : 109.84298720147775",
-    "cned-yoru : 94.22087346615649",
-    "lewn-yoru : 94.22087346615649",
-    "filu-yoru : 80.06333289352158",
-    "comeback-yoru : 78.5987597308352",
-    "meiy-yoru : 123.51233671988389",
-    "jemkin-yoru : 97.63821084575801",
-    "yatsuka-yoru : 89.33896292386858",
-    "oonzmlp-yoru : 87.38619870695342",
-    "hermes-yoru : 82.50428816466552",
-    "dynamite-yoru : 105.44926771341865",
-    "rarga-yoru : 115.21308879799446",
-    "kai-yoru : 98.1264018999868",
-    "whzy-yoru : 99.59097506267317",
-    "zhe-yoru : 91.29172714078373",
-    "qiutian-yoru : 85.43343449003827",
-    "life-yoru : 82.01609711043673"
+    {
+        "Player": "loita",
+        "ACS+": 110,
+        "Rating": 1.08
+    },
+    {
+        "Player": "valyn",
+        "ACS+": 113,
+        "Rating": 1.06
+    },
+    {
+        "Player": "rossy",
+        "ACS+": 107,
+        "Rating": 1.04
+    },
+    {
+        "Player": "kingg",
+        "ACS+": 99,
+        "Rating": 1.03
+    },
+    {
+        "Player": "saadhak",
+        "ACS+": 105,
+        "Rating": 0.95
+    },
+    {
+        "Player": "glyph",
+        "ACS+": 96,
+        "Rating": 0.93
+    },
+    {
+        "Player": "erde",
+        "ACS+": 104,
+        "Rating": 0.96
+    },
+    {
+        "Player": "sylvan",
+        "ACS+": 106,
+        "Rating": 1.0
+    },
+    {
+        "Player": "xavi8k",
+        "ACS+": 102,
+        "Rating": 0.95
+    },
+    {
+        "Player": "monyet",
+        "ACS+": 106,
+        "Rating": 0.95
+    },
+    {
+        "Player": "crws",
+        "ACS+": 90,
+        "Rating": 0.89
+    },
+    {
+        "Player": "oonzmlp",
+        "ACS+": 105,
+        "Rating": 1.03
+    },
+    {
+        "Player": "karon",
+        "ACS+": 111,
+        "Rating": 1.09
+    },
+    {
+        "Player": "profek",
+        "ACS+": 101,
+        "Rating": 0.99
+    },
+    {
+        "Player": "boo",
+        "ACS+": 95,
+        "Rating": 1.0
+    },
+    {
+        "Player": "audaz",
+        "ACS+": 97,
+        "Rating": 0.97
+    },
+    {
+        "Player": "boaster",
+        "ACS+": 83,
+        "Rating": 0.82
+    },
+    {
+        "Player": "trexx",
+        "ACS+": 117,
+        "Rating": 1.14
+    },
+    {
+        "Player": "ethan",
+        "ACS+": 101,
+        "Rating": 0.94
+    },
+    {
+        "Player": "yetujey",
+        "ACS+": 99,
+        "Rating": 1.0
+    },
+    {
+        "Player": "chichoo",
+        "ACS+": 95,
+        "Rating": 0.98
+    },
+    {
+        "Player": "skuba",
+        "ACS+": 100,
+        "Rating": 1.04
+    },
+    {
+        "Player": "lysoar",
+        "ACS+": 103,
+        "Rating": 0.93
+    },
+    {
+        "Player": "leviathan",
+        "ACS+": 99,
+        "Rating": 0.94
+    },
+    {
+        "Player": "flex1n",
+        "ACS+": 84,
+        "Rating": 0.8
+    },
+    {
+        "Player": "demon1",
+        "ACS+": 105,
+        "Rating": 1.0
+    },
+    {
+        "Player": "darker",
+        "ACS+": 108,
+        "Rating": 0.96
+    },
+    {
+        "Player": "supamen",
+        "ACS+": 95,
+        "Rating": 0.94
+    },
+    {
+        "Player": "mazino",
+        "ACS+": 109,
+        "Rating": 0.96
+    },
+    {
+        "Player": "leaf",
+        "ACS+": 108,
+        "Rating": 1.04
+    },
+    {
+        "Player": "tex",
+        "ACS+": 90,
+        "Rating": 0.88
+    },
+    {
+        "Player": "nerve",
+        "ACS+": 90,
+        "Rating": 0.91
+    },
+    {
+        "Player": "bang",
+        "ACS+": 104,
+        "Rating": 1.07
+    },
+    {
+        "Player": "artzin",
+        "ACS+": 107,
+        "Rating": 0.97
+    },
+    {
+        "Player": "v1c",
+        "ACS+": 106,
+        "Rating": 1.02
+    },
+    {
+        "Player": "ruxic",
+        "ACS+": 117,
+        "Rating": 1.11
+    },
+    {
+        "Player": "sociablee",
+        "ACS+": 106,
+        "Rating": 0.99
+    },
+    {
+        "Player": "grubinho",
+        "ACS+": 97,
+        "Rating": 0.93
+    },
+    {
+        "Player": "wayne",
+        "ACS+": 102,
+        "Rating": 0.99
+    },
+    {
+        "Player": "qpert",
+        "ACS+": 90,
+        "Rating": 0.87
+    },
+    {
+        "Player": "suygetsu",
+        "ACS+": 97,
+        "Rating": 0.95
+    },
+    {
+        "Player": "dos9",
+        "ACS+": 110,
+        "Rating": 1.03
+    },
+    {
+        "Player": "rb",
+        "ACS+": 101,
+        "Rating": 1.01
+    },
+    {
+        "Player": "f0rsaken",
+        "ACS+": 114,
+        "Rating": 0.99
+    },
+    {
+        "Player": "mako",
+        "ACS+": 112,
+        "Rating": 1.08
+    },
+    {
+        "Player": "munchkin",
+        "ACS+": 98,
+        "Rating": 0.99
+    },
+    {
+        "Player": "yatsuka",
+        "ACS+": 92,
+        "Rating": 0.93
+    },
+    {
+        "Player": "c1nder",
+        "ACS+": 83,
+        "Rating": 0.75
+    },
+    {
+        "Player": "crazyguy",
+        "ACS+": 96,
+        "Rating": 0.91
+    },
+    {
+        "Player": "ssees",
+        "ACS+": 91,
+        "Rating": 0.91
+    },
+    {
+        "Player": "ash",
+        "ACS+": 103,
+        "Rating": 0.98
+    },
+    {
+        "Player": "xffero",
+        "ACS+": 106,
+        "Rating": 1.06
+    },
+    {
+        "Player": "kitae",
+        "ACS+": 90,
+        "Rating": 0.72
+    },
+    {
+        "Player": "sugarz3ro",
+        "ACS+": 103,
+        "Rating": 0.9
+    },
+    {
+        "Player": "happywei",
+        "ACS+": 107,
+        "Rating": 1.02
+    },
+    {
+        "Player": "smoggy",
+        "ACS+": 93,
+        "Rating": 0.88
+    },
+    {
+        "Player": "ivy",
+        "ACS+": 102,
+        "Rating": 1.01
+    },
+    {
+        "Player": "k1ra",
+        "ACS+": 95,
+        "Rating": 0.9
+    },
+    {
+        "Player": "nats",
+        "ACS+": 108,
+        "Rating": 1.03
+    },
+    {
+        "Player": "d4v41",
+        "ACS+": 104,
+        "Rating": 1.02
+    },
+    {
+        "Player": "meteor",
+        "ACS+": 110,
+        "Rating": 1.01
+    },
+    {
+        "Player": "johnqt",
+        "ACS+": 107,
+        "Rating": 1.12
+    },
+    {
+        "Player": "cryocells",
+        "ACS+": 108,
+        "Rating": 1.1
+    },
+    {
+        "Player": "inspire",
+        "ACS+": 106,
+        "Rating": 1.09
+    },
+    {
+        "Player": "beng",
+        "ACS+": 93,
+        "Rating": 0.89
+    },
+    {
+        "Player": "pancada",
+        "ACS+": 89,
+        "Rating": 0.87
+    },
+    {
+        "Player": "zekken",
+        "ACS+": 107,
+        "Rating": 1.04
+    },
+    {
+        "Player": "keiko",
+        "ACS+": 111,
+        "Rating": 1.1
+    },
+    {
+        "Player": "cortezia",
+        "ACS+": 105,
+        "Rating": 1.03
+    },
+    {
+        "Player": "al0rante",
+        "ACS+": 105,
+        "Rating": 0.98
+    },
+    {
+        "Player": "mrfalin",
+        "ACS+": 101,
+        "Rating": 0.97
+    },
+    {
+        "Player": "kicks",
+        "ACS+": 94,
+        "Rating": 0.91
+    },
+    {
+        "Player": "shao",
+        "ACS+": 83,
+        "Rating": 0.77
+    },
+    {
+        "Player": "baha",
+        "ACS+": 86,
+        "Rating": 0.68
+    },
+    {
+        "Player": "sturnn",
+        "ACS+": 88,
+        "Rating": 0.71
+    },
+    {
+        "Player": "free1ng",
+        "ACS+": 100,
+        "Rating": 0.95
+    },
+    {
+        "Player": "syouta",
+        "ACS+": 98,
+        "Rating": 0.92
+    },
+    {
+        "Player": "francis",
+        "ACS+": 107,
+        "Rating": 0.98
+    },
+    {
+        "Player": "invy",
+        "ACS+": 112,
+        "Rating": 1.08
+    },
+    {
+        "Player": "basic",
+        "ACS+": 121,
+        "Rating": 1.17
+    },
+    {
+        "Player": "eko",
+        "ACS+": 105,
+        "Rating": 0.99
+    },
+    {
+        "Player": "flickless",
+        "ACS+": 101,
+        "Rating": 0.97
+    },
+    {
+        "Player": "bao",
+        "ACS+": 101,
+        "Rating": 0.94
+    },
+    {
+        "Player": "minny",
+        "ACS+": 103,
+        "Rating": 1.0
+    },
+    {
+        "Player": "lar0k",
+        "ACS+": 112,
+        "Rating": 1.07
+    },
+    {
+        "Player": "favian",
+        "ACS+": 112,
+        "Rating": 1.04
+    },
+    {
+        "Player": "krostaly",
+        "ACS+": 98,
+        "Rating": 0.94
+    },
+    {
+        "Player": "purp0",
+        "ACS+": 98,
+        "Rating": 0.98
+    },
+    {
+        "Player": "beyn",
+        "ACS+": 103,
+        "Rating": 0.98
+    },
+    {
+        "Player": "xdll",
+        "ACS+": 95,
+        "Rating": 0.89
+    },
+    {
+        "Player": "lakia",
+        "ACS+": 101,
+        "Rating": 0.91
+    },
+    {
+        "Player": "kyu",
+        "ACS+": 101,
+        "Rating": 0.89
+    },
+    {
+        "Player": "okeanos",
+        "ACS+": 95,
+        "Rating": 0.87
+    },
+    {
+        "Player": "zellsis",
+        "ACS+": 87,
+        "Rating": 0.83
+    },
+    {
+        "Player": "something",
+        "ACS+": 106,
+        "Rating": 1.11
+    },
+    {
+        "Player": "brawk",
+        "ACS+": 107,
+        "Rating": 1.07
+    },
+    {
+        "Player": "verno",
+        "ACS+": 113,
+        "Rating": 1.13
+    },
+    {
+        "Player": "jieni7",
+        "ACS+": 100,
+        "Rating": 0.91
+    },
+    {
+        "Player": "neon",
+        "ACS+": 113,
+        "Rating": 1.2
+    },
+    {
+        "Player": "asuna",
+        "ACS+": 105,
+        "Rating": 1.04
+    },
+    {
+        "Player": "eggsterr",
+        "ACS+": 88,
+        "Rating": 0.79
+    },
+    {
+        "Player": "filu",
+        "ACS+": 94,
+        "Rating": 0.93
+    },
+    {
+        "Player": "xuna",
+        "ACS+": 111,
+        "Rating": 1.08
+    },
+    {
+        "Player": "autumn",
+        "ACS+": 103,
+        "Rating": 1.03
+    },
+    {
+        "Player": "foxy9",
+        "ACS+": 120,
+        "Rating": 1.14
+    },
+    {
+        "Player": "iamgrq",
+        "ACS+": 94,
+        "Rating": 0.88
+    },
+    {
+        "Player": "nagz",
+        "ACS+": 82,
+        "Rating": 0.95
+    },
+    {
+        "Player": "jemkin",
+        "ACS+": 112,
+        "Rating": 1.14
+    },
+    {
+        "Player": "wo0t",
+        "ACS+": 106,
+        "Rating": 1.04
+    },
+    {
+        "Player": "n4rrate",
+        "ACS+": 106,
+        "Rating": 1.01
+    },
+    {
+        "Player": "babybay",
+        "ACS+": 105,
+        "Rating": 1.02
+    },
+    {
+        "Player": "f4ngeer",
+        "ACS+": 107,
+        "Rating": 1.04
+    },
+    {
+        "Player": "zmjjkk",
+        "ACS+": 109,
+        "Rating": 0.99
+    },
+    {
+        "Player": "lukxo",
+        "ACS+": 121,
+        "Rating": 1.12
+    },
+    {
+        "Player": "shyy",
+        "ACS+": 97,
+        "Rating": 0.96
+    },
+    {
+        "Player": "fireballops",
+        "ACS+": 101,
+        "Rating": 0.95
+    },
+    {
+        "Player": "t3xture",
+        "ACS+": 111,
+        "Rating": 1.06
+    },
+    {
+        "Player": "primmie",
+        "ACS+": 125,
+        "Rating": 1.21
+    },
+    {
+        "Player": "hiro",
+        "ACS+": 119,
+        "Rating": 1.17
+    },
+    {
+        "Player": "ninja",
+        "ACS+": 101,
+        "Rating": 0.95
+    },
+    {
+        "Player": "chronicle",
+        "ACS+": 109,
+        "Rating": 1.07
+    },
+    {
+        "Player": "alfajer",
+        "ACS+": 119,
+        "Rating": 1.11
+    },
+    {
+        "Player": "xeus",
+        "ACS+": 104,
+        "Rating": 0.95
+    },
+    {
+        "Player": "udotan",
+        "ACS+": 104,
+        "Rating": 0.98
+    },
+    {
+        "Player": "s0pp",
+        "ACS+": 109,
+        "Rating": 1.0
+    },
+    {
+        "Player": "life",
+        "ACS+": 84,
+        "Rating": 0.75
+    },
+    {
+        "Player": "dgzin",
+        "ACS+": 116,
+        "Rating": 1.11
+    },
+    {
+        "Player": "silentzz",
+        "ACS+": 89,
+        "Rating": 0.88
+    },
+    {
+        "Player": "penny",
+        "ACS+": 95,
+        "Rating": 0.95
+    },
+    {
+        "Player": "cned",
+        "ACS+": 89,
+        "Rating": 0.83
+    },
+    {
+        "Player": "comeback",
+        "ACS+": 102,
+        "Rating": 0.95
+    },
+    {
+        "Player": "westside",
+        "ACS+": 102,
+        "Rating": 0.98
+    },
+    {
+        "Player": "koshmaras",
+        "ACS+": 106,
+        "Rating": 0.98
+    },
+    {
+        "Player": "izu",
+        "ACS+": 115,
+        "Rating": 1.14
+    },
+    {
+        "Player": "kellys",
+        "ACS+": 105,
+        "Rating": 0.98
+    },
+    {
+        "Player": "yong",
+        "ACS+": 98,
+        "Rating": 0.89
+    },
+    {
+        "Player": "klaus",
+        "ACS+": 97,
+        "Rating": 0.95
+    },
+    {
+        "Player": "koalanoob",
+        "ACS+": 102,
+        "Rating": 0.91
+    },
+    {
+        "Player": "oxy",
+        "ACS+": 116,
+        "Rating": 1.05
+    },
+    {
+        "Player": "pxs",
+        "ACS+": 88,
+        "Rating": 1.0
+    },
+    {
+        "Player": "infiltrator",
+        "ACS+": 101,
+        "Rating": 0.86
+    },
+    {
+        "Player": "keznit",
+        "ACS+": 99,
+        "Rating": 0.88
+    },
+    {
+        "Player": "crewen",
+        "ACS+": 99,
+        "Rating": 0.97
+    },
+    {
+        "Player": "kr1stal",
+        "ACS+": 97,
+        "Rating": 0.98
+    },
+    {
+        "Player": "bipo",
+        "ACS+": 91,
+        "Rating": 0.87
+    },
+    {
+        "Player": "benjyfishy",
+        "ACS+": 101,
+        "Rating": 1.0
+    },
+    {
+        "Player": "bai",
+        "ACS+": 93,
+        "Rating": 0.9
+    },
+    {
+        "Player": "less",
+        "ACS+": 114,
+        "Rating": 1.09
+    },
+    {
+        "Player": "caedye",
+        "ACS+": 104,
+        "Rating": 0.9
+    },
+    {
+        "Player": "skye",
+        "ACS+": 101,
+        "Rating": 0.9
+    },
+    {
+        "Player": "dh",
+        "ACS+": 96,
+        "Rating": 0.88
+    },
+    {
+        "Player": "natz",
+        "ACS+": 92,
+        "Rating": 0.77
+    },
+    {
+        "Player": "seph1roth",
+        "ACS+": 88,
+        "Rating": 0.82
+    },
+    {
+        "Player": "raxcal",
+        "ACS+": 110,
+        "Rating": 1.08
+    },
+    {
+        "Player": "jitboys",
+        "ACS+": 100,
+        "Rating": 0.95
+    },
+    {
+        "Player": "echo",
+        "ACS+": 107,
+        "Rating": 0.98
+    },
+    {
+        "Player": "vo0kashu",
+        "ACS+": 130,
+        "Rating": 1.2
+    },
+    {
+        "Player": "berserx",
+        "ACS+": 93,
+        "Rating": 0.93
+    },
+    {
+        "Player": "hermes",
+        "ACS+": 86,
+        "Rating": 0.83
+    },
+    {
+        "Player": "zynx",
+        "ACS+": 99,
+        "Rating": 0.85
+    },
+    {
+        "Player": "noman",
+        "ACS+": 85,
+        "Rating": 0.84
+    },
+    {
+        "Player": "seven",
+        "ACS+": 99,
+        "Rating": 0.91
+    },
+    {
+        "Player": "vora",
+        "ACS+": 103,
+        "Rating": 1.0
+    },
+    {
+        "Player": "starxo",
+        "ACS+": 105,
+        "Rating": 0.96
+    },
+    {
+        "Player": "riens",
+        "ACS+": 117,
+        "Rating": 1.08
+    },
+    {
+        "Player": "shr1mp",
+        "ACS+": 101,
+        "Rating": 0.97
+    },
+    {
+        "Player": "patmen",
+        "ACS+": 121,
+        "Rating": 1.03
+    },
+    {
+        "Player": "xross",
+        "ACS+": 108,
+        "Rating": 1.1
+    },
+    {
+        "Player": "avez",
+        "ACS+": 100,
+        "Rating": 0.94
+    },
+    {
+        "Player": "jamppi",
+        "ACS+": 103,
+        "Rating": 0.97
+    },
+    {
+        "Player": "ros",
+        "ACS+": 91,
+        "Rating": 0.83
+    },
+    {
+        "Player": "wsleo",
+        "ACS+": 85,
+        "Rating": 0.76
+    },
+    {
+        "Player": "blowz",
+        "ACS+": 100,
+        "Rating": 1.05
+    },
+    {
+        "Player": "davih",
+        "ACS+": 91,
+        "Rating": 0.98
+    },
+    {
+        "Player": "mwzera",
+        "ACS+": 110,
+        "Rating": 1.04
+    },
+    {
+        "Player": "jonahp",
+        "ACS+": 101,
+        "Rating": 0.92
+    },
+    {
+        "Player": "jackk",
+        "ACS+": 91,
+        "Rating": 0.95
+    },
+    {
+        "Player": "paincakes",
+        "ACS+": 95,
+        "Rating": 0.86
+    },
+    {
+        "Player": "killua",
+        "ACS+": 111,
+        "Rating": 1.01
+    },
+    {
+        "Player": "akame",
+        "ACS+": 110,
+        "Rating": 0.99
+    },
+    {
+        "Player": "efina",
+        "ACS+": 82,
+        "Rating": 0.78
+    },
+    {
+        "Player": "kushy",
+        "ACS+": 96,
+        "Rating": 0.9
+    },
+    {
+        "Player": "sayonara",
+        "ACS+": 110,
+        "Rating": 1.11
+    },
+    {
+        "Player": "net",
+        "ACS+": 104,
+        "Rating": 0.96
+    },
+    {
+        "Player": "crashies",
+        "ACS+": 100,
+        "Rating": 1.01
+    },
+    {
+        "Player": "waddle",
+        "ACS+": 103,
+        "Rating": 0.93
+    },
+    {
+        "Player": "nekky",
+        "ACS+": 105,
+        "Rating": 0.92
+    },
+    {
+        "Player": "trent",
+        "ACS+": 111,
+        "Rating": 1.13
+    },
+    {
+        "Player": "nobody",
+        "ACS+": 99,
+        "Rating": 0.86
+    },
+    {
+        "Player": "nicc",
+        "ACS+": 110,
+        "Rating": 1.08
+    },
+    {
+        "Player": "cauanzin",
+        "ACS+": 94,
+        "Rating": 0.91
+    },
+    {
+        "Player": "eeiu",
+        "ACS+": 107,
+        "Rating": 1.04
+    },
+    {
+        "Player": "c0m",
+        "ACS+": 91,
+        "Rating": 0.87
+    },
+    {
+        "Player": "p0ppin",
+        "ACS+": 100,
+        "Rating": 0.85
+    },
+    {
+        "Player": "chloric",
+        "ACS+": 95,
+        "Rating": 0.91
+    },
+    {
+        "Player": "cloud",
+        "ACS+": 104,
+        "Rating": 0.98
+    },
+    {
+        "Player": "stax",
+        "ACS+": 98,
+        "Rating": 0.99
+    },
+    {
+        "Player": "jessievash",
+        "ACS+": 95,
+        "Rating": 0.89
+    },
+    {
+        "Player": "xeppaa",
+        "ACS+": 106,
+        "Rating": 0.97
+    },
+    {
+        "Player": "governor",
+        "ACS+": 83,
+        "Rating": 0.71
+    },
+    {
+        "Player": "kamo",
+        "ACS+": 106,
+        "Rating": 1.03
+    },
+    {
+        "Player": "sheydos",
+        "ACS+": 88,
+        "Rating": 0.86
+    },
+    {
+        "Player": "unfake",
+        "ACS+": 82,
+        "Rating": 0.83
+    },
+    {
+        "Player": "mada",
+        "ACS+": 109,
+        "Rating": 1.01
+    },
+    {
+        "Player": "signed",
+        "ACS+": 82,
+        "Rating": 0.78
+    },
+    {
+        "Player": "marved",
+        "ACS+": 97,
+        "Rating": 1.0
+    },
+    {
+        "Player": "nightz",
+        "ACS+": 107,
+        "Rating": 0.99
+    },
+    {
+        "Player": "buzz",
+        "ACS+": 114,
+        "Rating": 1.04
+    },
+    {
+        "Player": "jinggg",
+        "ACS+": 108,
+        "Rating": 1.06
+    },
+    {
+        "Player": "jesse",
+        "ACS+": 72,
+        "Rating": 0.72
+    },
+    {
+        "Player": "alym",
+        "ACS+": 102,
+        "Rating": 0.9
+    },
+    {
+        "Player": "au1",
+        "ACS+": 102,
+        "Rating": 0.88
+    },
+    {
+        "Player": "reduxx",
+        "ACS+": 104,
+        "Rating": 0.98
+    },
+    {
+        "Player": "jawgemo",
+        "ACS+": 105,
+        "Rating": 0.96
+    },
+    {
+        "Player": "lovers",
+        "ACS+": 104,
+        "Rating": 1.03
+    },
+    {
+        "Player": "timotino",
+        "ACS+": 111,
+        "Rating": 0.97
+    },
+    {
+        "Player": "aspas",
+        "ACS+": 103,
+        "Rating": 1.05
+    },
+    {
+        "Player": "derke",
+        "ACS+": 113,
+        "Rating": 1.08
+    },
+    {
+        "Player": "rarga",
+        "ACS+": 103,
+        "Rating": 0.94
+    },
+    {
+        "Player": "heat",
+        "ACS+": 103,
+        "Rating": 1.02
+    },
+    {
+        "Player": "tkzin",
+        "ACS+": 113,
+        "Rating": 1.03
+    },
+    {
+        "Player": "meiy",
+        "ACS+": 116,
+        "Rating": 1.09
+    },
+    {
+        "Player": "zexy",
+        "ACS+": 100,
+        "Rating": 0.87
+    },
+    {
+        "Player": "dambi",
+        "ACS+": 113,
+        "Rating": 1.04
+    },
+    {
+        "Player": "ara",
+        "ACS+": 103,
+        "Rating": 0.98
+    },
+    {
+        "Player": "exit",
+        "ACS+": 104,
+        "Rating": 0.87
+    },
+    {
+        "Player": "spiritz1",
+        "ACS+": 99,
+        "Rating": 0.84
+    },
+    {
+        "Player": "virtyy",
+        "ACS+": 88,
+        "Rating": 0.79
+    },
+    {
+        "Player": "lewn",
+        "ACS+": 109,
+        "Rating": 1.02
+    },
+    {
+        "Player": "izzy",
+        "ACS+": 100,
+        "Rating": 0.96
+    },
+    {
+        "Player": "kaajak",
+        "ACS+": 103,
+        "Rating": 0.97
+    },
+    {
+        "Player": "hyunmin",
+        "ACS+": 111,
+        "Rating": 1.06
+    },
+    {
+        "Player": "rimuru",
+        "ACS+": 82,
+        "Rating": 0.67
+    },
+    {
+        "Player": "d3mur",
+        "ACS+": 93,
+        "Rating": 0.8
+    },
+    {
+        "Player": "veqaj",
+        "ACS+": 116,
+        "Rating": 1.09
+    },
+    {
+        "Player": "tenten",
+        "ACS+": 86,
+        "Rating": 0.79
+    },
+    {
+        "Player": "thyy",
+        "ACS+": 82,
+        "Rating": 0.78
+    },
+    {
+        "Player": "cyvoph",
+        "ACS+": 95,
+        "Rating": 0.95
+    },
+    {
+        "Player": "bati",
+        "ACS+": 79,
+        "Rating": 0.7
+    },
+    {
+        "Player": "desmo",
+        "ACS+": 82,
+        "Rating": 0.83
+    },
+    {
+        "Player": "mta",
+        "ACS+": 94,
+        "Rating": 0.94
+    },
+    {
+        "Player": "spike",
+        "ACS+": 112,
+        "Rating": 0.99
+    },
+    {
+        "Player": "marteen",
+        "ACS+": 121,
+        "Rating": 1.26
+    },
+    {
+        "Player": "xan",
+        "ACS+": 87,
+        "Rating": 0.75
+    },
+    {
+        "Player": "jerrwin",
+        "ACS+": 101,
+        "Rating": 0.89
+    },
+    {
+        "Player": "dantedeu5",
+        "ACS+": 89,
+        "Rating": 0.77
+    },
+    {
+        "Player": "zeus",
+        "ACS+": 110,
+        "Rating": 1.0
+    },
+    {
+        "Player": "absol",
+        "ACS+": 104,
+        "Rating": 0.96
+    },
+    {
+        "Player": "flicker",
+        "ACS+": 77,
+        "Rating": 0.67
+    },
+    {
+        "Player": "spear",
+        "ACS+": 107,
+        "Rating": 0.96
+    },
+    {
+        "Player": "victor",
+        "ACS+": 92,
+        "Rating": 0.71
+    },
+    {
+        "Player": "sato",
+        "ACS+": 108,
+        "Rating": 1.06
+    },
+    {
+        "Player": "miniboo",
+        "ACS+": 109,
+        "Rating": 1.03
+    },
+    {
+        "Player": "kolosha",
+        "ACS+": 78,
+        "Rating": 0.65
+    },
+    {
+        "Player": "cb",
+        "ACS+": 81,
+        "Rating": 0.73
+    },
+    {
+        "Player": "proxh",
+        "ACS+": 98,
+        "Rating": 0.98
+    },
+    {
+        "Player": "notexxd",
+        "ACS+": 112,
+        "Rating": 1.02
+    },
+    {
+        "Player": "zerona",
+        "ACS+": 99,
+        "Rating": 0.9
+    },
+    {
+        "Player": "styron",
+        "ACS+": 104,
+        "Rating": 1.0
+    },
+    {
+        "Player": "lohan",
+        "ACS+": 59,
+        "Rating": 0.52
+    }
 ]

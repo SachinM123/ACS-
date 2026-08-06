@@ -9,9 +9,9 @@ from cleanData import clean_data
 class CleanDataTests(unittest.TestCase):
     def test_keeps_all_player_agents_when_duplicates_exist(self):
         payload = [
-            {"Player-Agent": "alice-omen", "Rounds": 3, "ACS": 120, "Agents": "omen"},
-            {"Player-Agent": "bob-breach", "Rounds": 2, "ACS": 100, "Agents": "breach"},
-            {"Player-Agent": "alice-omen", "Rounds": 1, "ACS": 150, "Agents": "omen"},
+            {"Player-Agent": "alice-omen", "Rounds": 3, "ACS": 120, "Agents": "omen", "rating": 0.9},
+            {"Player-Agent": "bob-breach", "Rounds": 2, "ACS": 100, "Agents": "breach", "rating": 0.7},
+            {"Player-Agent": "alice-omen", "Rounds": 1, "ACS": 150, "Agents": "omen", "rating": 1.0},
         ]
 
         with tempfile.NamedTemporaryFile("w", delete=False, encoding="utf-8") as handle:
@@ -27,6 +27,7 @@ class CleanDataTests(unittest.TestCase):
         alice_entry = next(entry for entry in result if entry["Player-Agent"] == "alice-omen")
         self.assertEqual(alice_entry["Rounds"], 4)
         self.assertEqual(alice_entry["ACS"], 128)
+        self.assertEqual(alice_entry["rating"], 0.93)
         self.assertEqual(alice_entry["Agent"], "omen")
 
 
