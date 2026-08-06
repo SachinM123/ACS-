@@ -4,7 +4,7 @@ results1/
 results2/
 
 # Ignore IDE/launcher and settings directories
-.vscode/launch.json/
+.vscode\launch.json\
 .vscode/settings/
 
 # Python cache
