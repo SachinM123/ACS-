@@ -1,10 +1,11 @@
 # Ignore result directories
 results/
+results1/
 results2/
 
 # Ignore IDE/launcher and settings directories
-launch/
-settings/
+.vscode/launch/
+.vscode/settings/
 
 # Python cache
 __pycache__/
